@@ -340,7 +340,7 @@ async function main() {
     if (!run) continue
     seenServers.add(server.name)
     const base = slug(server.name.split("/").at(-1)!.replace(/^(mcp-server-|server-)/, "")) || slug(repo.full.split("/")[1]!)
-    const name = unique(base.endsWith("mcp") ? base : `${base}-mcp`, repo.full.split("/")[0]!)
+    const name = unique(base.includes("mcp") ? base : `${base}-mcp`, repo.full.split("/")[0]!)
     const dir = path.join(ROOT, "mcp", name)
     await fs.mkdir(path.join(dir, ".dev-plugin"), { recursive: true })
     await Bun.write(
