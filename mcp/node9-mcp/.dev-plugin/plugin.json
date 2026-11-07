@@ -1,0 +1,14 @@
+{
+  "name": "node9-mcp",
+  "description": "Access control for AI agents and MCP servers: allow, hold for approval, or block each tool call",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "node9": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "node9-ai@2.26.2"
+      ]
+    }
+  }
+}

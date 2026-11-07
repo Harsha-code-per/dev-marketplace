@@ -1,0 +1,14 @@
+{
+  "name": "nx-mcp",
+  "description": "A Model Context Protocol server implementation for Nx",
+  "license": "MIT",
+  "mcpServers": {
+    "nx-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "nx-mcp@0.25.0"
+      ]
+    }
+  }
+}

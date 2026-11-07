@@ -1,0 +1,13 @@
+{
+  "name": "obsidian-vault-mcp",
+  "description": "Local Zotero, MinerU, Obsidian literature workflow with transactional Analysis notes.",
+  "license": "MIT",
+  "mcpServers": {
+    "obsidian-vault-mcp": {
+      "command": "uvx",
+      "args": [
+        "zotero-obsidian-mcp==3.0.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-zapier",
+  "description": "Hosted MCP server connecting AI assistants to 9,000+ apps and 40,000+ actions via Zapier.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.zapier.com/api/v1/connect"
+    }
+  }
+}

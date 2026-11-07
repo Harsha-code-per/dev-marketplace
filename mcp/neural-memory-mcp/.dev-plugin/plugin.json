@@ -1,0 +1,14 @@
+{
+  "name": "neural-memory-mcp",
+  "description": "Persistent memory for AI agents — 55 MCP tools, spreading activation recall.",
+  "license": "MIT",
+  "mcpServers": {
+    "neural-memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "neural-memory-mcp@4.27.2"
+      ]
+    }
+  }
+}

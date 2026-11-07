@@ -1,0 +1,11 @@
+{
+  "name": "directory-mcp",
+  "description": "A directory of product launch platforms: where your product qualifies and how each form is filled.",
+  "license": "MIT",
+  "mcpServers": {
+    "directory": {
+      "type": "http",
+      "url": "https://submitmap.com/api/mcp"
+    }
+  }
+}

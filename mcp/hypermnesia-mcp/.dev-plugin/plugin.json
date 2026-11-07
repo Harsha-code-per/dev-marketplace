@@ -1,0 +1,13 @@
+{
+  "name": "hypermnesia-mcp",
+  "description": "Persistent memory for AI agents — 36 cited neuroscience mechanisms, local-first, hybrid retrieval.",
+  "license": "MIT",
+  "mcpServers": {
+    "hypermnesia-mcp": {
+      "command": "uvx",
+      "args": [
+        "hypermnesia-mcp==4.23.5"
+      ]
+    }
+  }
+}

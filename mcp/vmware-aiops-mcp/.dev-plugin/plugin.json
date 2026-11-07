@@ -1,0 +1,13 @@
+{
+  "name": "vmware-aiops-mcp",
+  "description": "AI-powered VMware vCenter/ESXi VM lifecycle and deployment with 61 MCP tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "vmware-aiops": {
+      "command": "uvx",
+      "args": [
+        "vmware-aiops==2.4.2"
+      ]
+    }
+  }
+}

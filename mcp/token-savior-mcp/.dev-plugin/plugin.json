@@ -1,0 +1,13 @@
+{
+  "name": "token-savior-mcp",
+  "description": "Structural codebase MCP server with persistent memory: navigate by symbol, recall across sessions.",
+  "license": "MIT",
+  "mcpServers": {
+    "token-savior": {
+      "command": "uvx",
+      "args": [
+        "token-savior-recall==4.13.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "melta-ui-mcp",
+  "description": "AI-Ready design system MCP: melta UI tokens, component contracts, 107 rules, check_html self-verify",
+  "license": "MIT",
+  "mcpServers": {
+    "melta-ui": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "melta-ds-mcp@1.9.1"
+      ]
+    }
+  }
+}

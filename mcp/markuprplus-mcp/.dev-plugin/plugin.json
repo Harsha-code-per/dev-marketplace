@@ -1,0 +1,14 @@
+{
+  "name": "markuprplus-mcp",
+  "description": "Records your screen and voice, returns one annotated screenshot and finding per mark.",
+  "license": "MIT",
+  "mcpServers": {
+    "markuprplus": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "markuprplus@3.1.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "reddit-mcp-buddy-mcp",
+  "description": "Browse Reddit RSS; approved API access for search, analysis, and optional posting.",
+  "license": "MIT",
+  "mcpServers": {
+    "reddit-mcp-buddy": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "reddit-mcp-buddy@1.2.0"
+      ]
+    }
+  }
+}

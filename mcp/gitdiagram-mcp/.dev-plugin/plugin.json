@@ -1,0 +1,11 @@
+{
+  "name": "gitdiagram-mcp",
+  "description": "Architecture diagrams, explanations and Mermaid source for public GitHub repositories.",
+  "license": "MIT",
+  "mcpServers": {
+    "gitdiagram": {
+      "type": "http",
+      "url": "https://gitdiagram.com/mcp"
+    }
+  }
+}

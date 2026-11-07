@@ -1,0 +1,13 @@
+{
+  "name": "seleniumbase-mcp",
+  "description": "Stealthy browser automation, testing, and web-scraping via CDP Mode.",
+  "license": "MIT",
+  "mcpServers": {
+    "seleniumbase": {
+      "command": "uvx",
+      "args": [
+        "seleniumbase==4.57.1"
+      ]
+    }
+  }
+}

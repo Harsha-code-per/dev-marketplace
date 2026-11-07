@@ -1,0 +1,14 @@
+{
+  "name": "openrouter-multimodal-mcp",
+  "description": "Chat with 300+ LLMs via OpenRouter. Analyze and generate images, audio, and video from MCP.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "openrouter-multimodal": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@stabgan/openrouter-mcp-multimodal@4.5.1"
+      ]
+    }
+  }
+}

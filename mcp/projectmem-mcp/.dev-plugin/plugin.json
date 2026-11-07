@@ -1,0 +1,13 @@
+{
+  "name": "projectmem-mcp",
+  "description": "Coding agent memory — one local MCP server for every project. Warns before repeating failed fixes.",
+  "license": "MIT",
+  "mcpServers": {
+    "projectmem": {
+      "command": "uvx",
+      "args": [
+        "projectmem==0.3.5"
+      ]
+    }
+  }
+}

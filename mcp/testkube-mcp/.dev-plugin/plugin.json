@@ -1,0 +1,22 @@
+{
+  "name": "testkube-mcp",
+  "description": "MCP server for Testkube - Manage test workflows, executions, and artifacts via AI assistants",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "testkube-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "TK_ACCESS_TOKEN",
+        "-e",
+        "TK_ORG_ID",
+        "-e",
+        "TK_ENV_ID",
+        "docker.io/kubeshop/mcp-server:2.15.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "jdatamunch-mcp",
+  "description": "Tabular data retrieval. Index CSV/Excel, query rows, aggregate. 99%+ savings vs raw file reads.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "jdatamunch-mcp": {
+      "command": "uvx",
+      "args": [
+        "jdatamunch-mcp==1.33.0"
+      ]
+    }
+  }
+}

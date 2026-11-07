@@ -1,0 +1,20 @@
+{
+  "name": "tiger-cli-mcp",
+  "description": "Provides programmatic access to Tiger Cloud services, databases, and documentation.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "tiger-cli": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "TIGER_PUBLIC_KEY",
+        "-e",
+        "TIGER_SECRET_KEY",
+        "ghcr.io/timescale/tiger-cli:0.27.0"
+      ]
+    }
+  }
+}

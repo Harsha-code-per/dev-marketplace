@@ -1,0 +1,14 @@
+{
+  "name": "tela-mcp",
+  "description": "Self-hostable team wiki; agents read & write it via MCP; Atlas turns your repo into a cited wiki.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "tela": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "tela-mcp@0.7.4"
+      ]
+    }
+  }
+}

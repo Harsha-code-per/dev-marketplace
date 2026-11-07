@@ -1,0 +1,14 @@
+{
+  "name": "vibe-check-mcp-server-mcp",
+  "description": "Metacognitive AI agent oversight: adaptive CPI interrupts for alignment, reflection and safety",
+  "license": "MIT",
+  "mcpServers": {
+    "vibe-check-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pv-bhat/vibe-check-mcp@2.5.1"
+      ]
+    }
+  }
+}

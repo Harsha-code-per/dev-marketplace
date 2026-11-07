@@ -1,0 +1,14 @@
+{
+  "name": "audio-mcp",
+  "description": "Edit, analyze and convert audio: loudness, spec checks, denoise, EQ, cuts, BPM, key. No ffmpeg.",
+  "license": "MIT",
+  "mcpServers": {
+    "audio": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "audio@2.10.0"
+      ]
+    }
+  }
+}

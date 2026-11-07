@@ -1,0 +1,13 @@
+{
+  "name": "serena-mcp",
+  "description": "A powerful toolkit for coding, providing semantic retrieval and editing capabilities.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "serena": {
+      "command": "uvx",
+      "args": [
+        "serena-agent==1.5.3"
+      ]
+    }
+  }
+}

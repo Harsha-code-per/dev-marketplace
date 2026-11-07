@@ -1,0 +1,11 @@
+{
+  "name": "nutrition-mcp",
+  "description": "Nutrition tracking: log meals and macros, USDA and Open Food Facts lookups, history, app import.",
+  "license": "MIT",
+  "mcpServers": {
+    "nutrition-mcp": {
+      "type": "http",
+      "url": "https://nutrition-mcp.com/mcp"
+    }
+  }
+}

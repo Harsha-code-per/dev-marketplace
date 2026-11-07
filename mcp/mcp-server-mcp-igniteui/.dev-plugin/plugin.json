@@ -1,0 +1,14 @@
+{
+  "name": "mcp-server-mcp-igniteui",
+  "description": "Unified MCP server for Ignite UI — documentation, API, and CLI scaffolding",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@igniteui/mcp-server@15.9.0"
+      ]
+    }
+  }
+}

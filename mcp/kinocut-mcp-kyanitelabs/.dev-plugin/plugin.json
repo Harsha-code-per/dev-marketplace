@@ -1,0 +1,13 @@
+{
+  "name": "kinocut-mcp-kyanitelabs",
+  "description": "Guardrailed video editing for AI agents: FFmpeg, captions, effects, Hyperframes, and receipts.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "kinocut": {
+      "command": "uvx",
+      "args": [
+        "kinocut==1.16.5"
+      ]
+    }
+  }
+}

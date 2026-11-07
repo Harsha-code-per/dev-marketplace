@@ -1,0 +1,14 @@
+{
+  "name": "tdmcp",
+  "description": "Build real visual systems in TouchDesigner from plain language with Claude, Cursor or Codex.",
+  "license": "MIT",
+  "mcpServers": {
+    "tdmcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dpantani/tdmcp@0.13.2"
+      ]
+    }
+  }
+}

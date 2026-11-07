@@ -1,0 +1,13 @@
+{
+  "name": "research-hub-mcp",
+  "description": "Research workspace for Zotero + Obsidian + NotebookLM. Search, ingest, sync, verify briefs.",
+  "license": "MIT",
+  "mcpServers": {
+    "research-hub": {
+      "command": "uvx",
+      "args": [
+        "research-hub-pipeline==1.0.0"
+      ]
+    }
+  }
+}

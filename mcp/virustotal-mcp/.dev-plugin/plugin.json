@@ -1,0 +1,14 @@
+{
+  "name": "virustotal-mcp",
+  "description": "MCP server for querying VirusTotal API with comprehensive security analysis tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "virustotal": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@burtthecoder/mcp-virustotal@1.0.38"
+      ]
+    }
+  }
+}

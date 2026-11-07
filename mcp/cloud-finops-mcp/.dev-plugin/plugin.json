@@ -1,0 +1,13 @@
+{
+  "name": "cloud-finops-mcp",
+  "description": "Cloud cost + FinOps knowledge for AI agents: AWS/Azure/GCP optimisation, AI spend, waste playbooks.",
+  "license": "CC-BY-SA-4.0",
+  "mcpServers": {
+    "cloud-finops": {
+      "command": "uvx",
+      "args": [
+        "cloud-finops-mcp==1.49.1"
+      ]
+    }
+  }
+}

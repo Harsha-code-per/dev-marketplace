@@ -1,0 +1,14 @@
+{
+  "name": "letsfg-mcp",
+  "description": "Search and book flights and hotels: hundreds of airlines, plus bookable hotel rates.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "letsfg": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "letsfg-mcp@2026.5.77"
+      ]
+    }
+  }
+}

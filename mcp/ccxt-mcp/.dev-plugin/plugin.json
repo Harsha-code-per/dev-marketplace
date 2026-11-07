@@ -1,0 +1,14 @@
+{
+  "name": "ccxt-mcp",
+  "description": "Official CCXT MCP server - Market data and trading across 100+ exchanges and prediction markets",
+  "license": "MIT",
+  "mcpServers": {
+    "ccxt-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ccxt-mcp@0.1.3"
+      ]
+    }
+  }
+}

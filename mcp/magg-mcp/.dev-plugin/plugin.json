@@ -1,0 +1,13 @@
+{
+  "name": "magg-mcp",
+  "description": "Aggregates and proxies other MCP servers, letting LLMs discover, add, and manage tools at runtime.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "magg": {
+      "command": "uvx",
+      "args": [
+        "magg==1.2.1"
+      ]
+    }
+  }
+}

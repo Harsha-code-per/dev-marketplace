@@ -1,0 +1,14 @@
+{
+  "name": "local-mcp",
+  "description": "Mac & Windows: let ChatGPT, Claude & Cursor use your email, calendar, iMessage, Teams, files.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "local-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "local-mcp@3.0.440"
+      ]
+    }
+  }
+}

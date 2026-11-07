@@ -1,0 +1,13 @@
+{
+  "name": "proxmox-mcp-plus-mcp",
+  "description": "Proxmox VE MCP server for VMs, LXCs, snapshots, backups, storage, and cluster operations.",
+  "license": "MIT",
+  "mcpServers": {
+    "proxmox-mcp-plus": {
+      "command": "uvx",
+      "args": [
+        "proxmox-mcp-plus==0.6.9"
+      ]
+    }
+  }
+}

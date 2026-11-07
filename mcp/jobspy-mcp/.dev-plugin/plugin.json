@@ -1,0 +1,13 @@
+{
+  "name": "jobspy-mcp",
+  "description": "Search LinkedIn, Indeed, ZipRecruiter, Glassdoor and regional job boards",
+  "license": "MIT",
+  "mcpServers": {
+    "jobspy": {
+      "command": "uvx",
+      "args": [
+        "mcp-jobspy==1.4.1"
+      ]
+    }
+  }
+}

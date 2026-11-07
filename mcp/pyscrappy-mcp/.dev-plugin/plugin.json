@@ -1,0 +1,13 @@
+{
+  "name": "pyscrappy-mcp",
+  "description": "Web-scraping toolkit with 22 tools for structured web data as JSON for AI agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "pyscrappy": {
+      "command": "uvx",
+      "args": [
+        "pyscrappy==1.5.9"
+      ]
+    }
+  }
+}

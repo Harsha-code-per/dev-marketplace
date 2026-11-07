@@ -1,0 +1,14 @@
+{
+  "name": "esa-mcp",
+  "description": "Official MCP server for esa.io - a documentation sharing service for teams",
+  "license": "MIT",
+  "mcpServers": {
+    "esa": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@esaio/esa-mcp-server@0.15.2"
+      ]
+    }
+  }
+}

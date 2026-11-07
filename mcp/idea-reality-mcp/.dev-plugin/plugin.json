@@ -1,0 +1,13 @@
+{
+  "name": "idea-reality-mcp",
+  "description": "Pre-build reality check. Scans GitHub, HN, npm, PyPI, Product Hunt — returns 0-100 signal.",
+  "license": "MIT",
+  "mcpServers": {
+    "idea-reality-mcp": {
+      "command": "uvx",
+      "args": [
+        "idea-reality-mcp==0.3.4"
+      ]
+    }
+  }
+}

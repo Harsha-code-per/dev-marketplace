@@ -1,0 +1,14 @@
+{
+  "name": "cad-mcp",
+  "description": "Bitbybit 3D parametric CAD API, version-exact, for coding agents: search, describe, examples, guide",
+  "license": "MIT",
+  "mcpServers": {
+    "cad": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@bitbybit-dev/mcp@1.6.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "affectui-mcp",
+  "description": "Search, read and install agent-ready React components, screens and blocks for AI products.",
+  "license": "MIT",
+  "mcpServers": {
+    "affectui": {
+      "type": "http",
+      "url": "https://www.affectui.com/api/mcp"
+    }
+  }
+}

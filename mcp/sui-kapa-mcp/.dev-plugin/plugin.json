@@ -1,0 +1,11 @@
+{
+  "name": "sui-kapa-mcp",
+  "description": "Semantic search across Sui documentation and knowledge sources, powered by kapa.ai",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "sui-kapa": {
+      "type": "http",
+      "url": "https://sui.mcp.kapa.ai"
+    }
+  }
+}

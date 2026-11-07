@@ -1,0 +1,14 @@
+{
+  "name": "svgrid-mcp",
+  "description": "Checks AI-written SvGrid code against the real API, plus version-pinned Svelte 5 grid docs.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "svgrid": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@svgrid/mcp@3.0.1"
+      ]
+    }
+  }
+}

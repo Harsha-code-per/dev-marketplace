@@ -1,0 +1,11 @@
+{
+  "name": "tolgee-mcp",
+  "description": "Your app's translations in Tolgee: search keys, create translations, trigger machine translation",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "tolgee": {
+      "type": "http",
+      "url": "https://app.tolgee.io/mcp/developer"
+    }
+  }
+}

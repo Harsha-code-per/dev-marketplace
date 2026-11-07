@@ -1,0 +1,16 @@
+{
+  "name": "monkeymcp",
+  "description": "MCP server providing monkey data, journeys, and location services for various monkey species.",
+  "license": "MIT",
+  "mcpServers": {
+    "monkeymcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/jamesmontemagno/monkeymcp:2.0.3"
+      ]
+    }
+  }
+}

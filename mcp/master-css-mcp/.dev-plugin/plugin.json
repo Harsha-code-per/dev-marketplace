@@ -1,0 +1,14 @@
+{
+  "name": "master-css-mcp",
+  "description": "Inspect Master CSS classes, generated CSS, and project stylesheets from your AI client.",
+  "license": "MIT",
+  "mcpServers": {
+    "master-css": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@master/css-mcp@2.0.2"
+      ]
+    }
+  }
+}

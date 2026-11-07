@@ -1,0 +1,11 @@
+{
+  "name": "testerarmy-mcp",
+  "description": "Agents that test your web and mobile app like real users, on every pull request.",
+  "license": "MIT",
+  "mcpServers": {
+    "testerarmy": {
+      "type": "http",
+      "url": "https://tester.army/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "telemem-mcp",
+  "description": "Long-term and multimodal memory for AI agents - character-aware, mem0-compatible, fully-local option",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "telemem": {
+      "command": "uvx",
+      "args": [
+        "telemem==1.10.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "socraticode-mcp",
+  "description": "MCP server for enterprise local codebase indexing, semantic search, and code dependency graphs.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "socraticode": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "socraticode@1.16.2"
+      ]
+    }
+  }
+}

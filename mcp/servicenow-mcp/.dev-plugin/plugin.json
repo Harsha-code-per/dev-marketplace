@@ -1,0 +1,14 @@
+{
+  "name": "servicenow-mcp",
+  "description": "400+ ServiceNow tools across all modules — ITSM, CMDB, HRSD, CSM, SecOps, and more.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "servicenow-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@aartiq/servicenow-mcp@1.0.2"
+      ]
+    }
+  }
+}

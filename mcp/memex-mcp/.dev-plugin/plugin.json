@@ -1,0 +1,14 @@
+{
+  "name": "memex-mcp",
+  "description": "Zettelkasten-based agent memory system with bidirectional links",
+  "license": "MIT",
+  "mcpServers": {
+    "memex": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@touchskyer/memex@0.1.8"
+      ]
+    }
+  }
+}

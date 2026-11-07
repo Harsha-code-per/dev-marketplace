@@ -1,0 +1,11 @@
+{
+  "name": "arifos-mcp",
+  "description": "Constitutional verdict layer for AI agents. SEAL/HOLD before mutation. F1-F13 floors; audit ledger.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "arifos": {
+      "type": "http",
+      "url": "https://mcp.arif-fazil.com/mcp"
+    }
+  }
+}

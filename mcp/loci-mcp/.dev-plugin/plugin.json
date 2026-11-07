@@ -1,0 +1,13 @@
+{
+  "name": "loci-mcp",
+  "description": "Cross-session memory and hybrid RAG over your notes and docs. Local-first, with cited answers.",
+  "license": "MIT",
+  "mcpServers": {
+    "loci": {
+      "command": "uvx",
+      "args": [
+        "loci-rag==0.4.0"
+      ]
+    }
+  }
+}

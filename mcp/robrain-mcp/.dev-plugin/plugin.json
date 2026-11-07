@@ -1,0 +1,14 @@
+{
+  "name": "robrain-mcp",
+  "description": "Self-hosted decision memory for AI coding agents; warns before re-proposing a rejected approach.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "robrain": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "robrain@2.6.1"
+      ]
+    }
+  }
+}

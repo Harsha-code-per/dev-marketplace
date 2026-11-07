@@ -1,0 +1,14 @@
+{
+  "name": "fablecut-mcp",
+  "description": "Zero-dependency browser video editor AI agents drive via a JSON timeline over MCP; ffmpeg export.",
+  "license": "MIT",
+  "mcpServers": {
+    "fablecut": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "fablecut@1.18.0"
+      ]
+    }
+  }
+}

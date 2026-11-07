@@ -1,0 +1,13 @@
+{
+  "name": "repo-graph-mcp",
+  "description": "Structural graph map of any codebase so LLMs navigate by structure, not guesswork.",
+  "license": "MIT",
+  "mcpServers": {
+    "repo-graph": {
+      "command": "uvx",
+      "args": [
+        "mcp-repo-graph==0.5.4"
+      ]
+    }
+  }
+}

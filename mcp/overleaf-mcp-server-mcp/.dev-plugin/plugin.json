@@ -1,0 +1,13 @@
+{
+  "name": "overleaf-mcp-server-mcp",
+  "description": "MCP server for managing Overleaf projects through Git synchronization.",
+  "license": "MIT",
+  "mcpServers": {
+    "overleaf-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "overleaf-mcp-integration==0.1.0"
+      ]
+    }
+  }
+}

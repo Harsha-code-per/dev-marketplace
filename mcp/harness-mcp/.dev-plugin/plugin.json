@@ -1,0 +1,14 @@
+{
+  "name": "harness-mcp",
+  "description": "Start Claude Code and Codex agents the person can watch, wait for them and read their answers.",
+  "license": "MIT",
+  "mcpServers": {
+    "harness": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@autonomous-ai/harness-mcp@0.2.0"
+      ]
+    }
+  }
+}

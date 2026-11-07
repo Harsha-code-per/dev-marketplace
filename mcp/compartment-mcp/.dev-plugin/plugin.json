@@ -1,0 +1,13 @@
+{
+  "name": "compartment-mcp",
+  "description": "Durable agentic memory, encrypted at rest. Fully offline: no network, no API key, no cloud.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "compartment": {
+      "command": "uvx",
+      "args": [
+        "compartment==4.13.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gitmanual-mcp",
+  "description": "Setup manuals for any GitHub repo: will it run on macOS, Windows or Linux, and the exact steps.",
+  "license": "MIT",
+  "mcpServers": {
+    "gitmanual": {
+      "type": "http",
+      "url": "https://gitmanual.com/mcp"
+    }
+  }
+}

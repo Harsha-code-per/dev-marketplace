@@ -1,0 +1,13 @@
+{
+  "name": "cnequity-mcp",
+  "description": "Open-source China A-share data lake for AI agents: prices, fundamentals, flows, events, PIT.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "cnequity": {
+      "command": "uvx",
+      "args": [
+        "cnequity==0.21.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gds-agent-mcp",
+  "description": "Neo4j Graph Data Science MCP server",
+  "license": "MIT",
+  "mcpServers": {
+    "gds-agent": {
+      "command": "uvx",
+      "args": [
+        "gds-agent==1.1.0"
+      ]
+    }
+  }
+}

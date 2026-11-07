@@ -1,0 +1,14 @@
+{
+  "name": "kastell-mcp",
+  "description": "Server security audit (413 checks), hardening, and fleet management across 4 cloud providers.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "kastell": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "kastell@1.14.0"
+      ]
+    }
+  }
+}

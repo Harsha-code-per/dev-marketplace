@@ -1,0 +1,14 @@
+{
+  "name": "agent-sniper-mcp",
+  "description": "Self-custodial pump.fun sniper: arm strategies, snipe, manage positions. Simulate by default.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agent-sniper": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@three-ws/agent-sniper@0.1.7"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tauri-mcp",
+  "description": "A Model Context Protocol server for use with Tauri v2 applications",
+  "license": "MIT",
+  "mcpServers": {
+    "tauri": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@hypothesi/tauri-mcp-server@0.13.2"
+      ]
+    }
+  }
+}

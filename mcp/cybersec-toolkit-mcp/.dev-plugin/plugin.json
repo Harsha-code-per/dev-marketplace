@@ -1,0 +1,16 @@
+{
+  "name": "cybersec-toolkit-mcp",
+  "description": "Authorization-gated MCP server to discover and run 670+ security tools for CTF, pentest, and DFIR.",
+  "license": "MIT",
+  "mcpServers": {
+    "cybersec-toolkit": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/26zl/cybersec-toolkit:1.4.0"
+      ]
+    }
+  }
+}

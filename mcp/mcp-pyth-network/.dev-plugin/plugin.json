@@ -1,0 +1,11 @@
+{
+  "name": "mcp-pyth-network",
+  "description": "Real-time and historical price feeds for 500+ crypto, equities, FX, and commodities assets.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.pyth.network/mcp"
+    }
+  }
+}

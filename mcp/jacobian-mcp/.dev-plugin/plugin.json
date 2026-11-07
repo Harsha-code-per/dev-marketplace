@@ -1,0 +1,14 @@
+{
+  "name": "jacobian-mcp",
+  "description": "Executable mathematics and independent verification for AI agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "jacobian": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "jacobian@0.23.0"
+      ]
+    }
+  }
+}

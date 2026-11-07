@@ -1,0 +1,14 @@
+{
+  "name": "mobile-device-mcp",
+  "description": "Control iOS and Android devices with multi-device and seamless Native/WebView support.",
+  "license": "MIT",
+  "mcpServers": {
+    "mobile-device-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@srmorete/mobile-device-mcp@0.1.10"
+      ]
+    }
+  }
+}

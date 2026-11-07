@@ -1,0 +1,14 @@
+{
+  "name": "komodo-mcp-server-mcp",
+  "description": "MCP server for Komodo - manage Docker containers, servers, stacks, and deployments via AI",
+  "license": "GPL-3.0",
+  "mcpServers": {
+    "komodo-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "komodo-mcp-server@1.5.0"
+      ]
+    }
+  }
+}

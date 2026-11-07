@@ -1,0 +1,13 @@
+{
+  "name": "build123d-mcp",
+  "description": "AI-driven 3D CAD via build123d: execute, render, measure, and export geometry interactively.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "build123d-mcp": {
+      "command": "uvx",
+      "args": [
+        "build123d-mcp==0.3.91"
+      ]
+    }
+  }
+}

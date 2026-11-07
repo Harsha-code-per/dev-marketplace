@@ -1,0 +1,13 @@
+{
+  "name": "kingdee-mcp",
+  "description": "Third-party open-source MCP server for Kingdee K3Cloud ERP - 101 tools, 17 domains. Unofficial.",
+  "license": "MIT",
+  "mcpServers": {
+    "kingdee-mcp": {
+      "command": "uvx",
+      "args": [
+        "kingdee-mcp==0.2.4"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "telnyx-mcp",
+  "description": "Official TypeScript library for the Telnyx API",
+  "license": "MIT",
+  "mcpServers": {
+    "telnyx": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "telnyx@6.29.3"
+      ]
+    }
+  }
+}

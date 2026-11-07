@@ -1,0 +1,14 @@
+{
+  "name": "clearcote-mcp",
+  "description": "Drive the Clearcote Chromium browser from any MCP client: read pages, click, fill, screenshot.",
+  "license": "BSD-3-Clause",
+  "mcpServers": {
+    "clearcote-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "clearcote-mcp@0.3.1"
+      ]
+    }
+  }
+}

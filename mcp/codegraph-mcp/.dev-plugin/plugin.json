@@ -1,0 +1,14 @@
+{
+  "name": "codegraph-mcp",
+  "description": "Semantic code graph: 42 tools, 38 languages. Callers, impact, AI context, memory, PR review.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "codegraph": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@astudioplus/codegraph-mcp@0.21.0"
+      ]
+    }
+  }
+}

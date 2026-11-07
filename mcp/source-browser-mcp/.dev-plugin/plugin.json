@@ -1,0 +1,14 @@
+{
+  "name": "source-browser-mcp",
+  "description": "Generate, parse, and validate walkerOS data-elb HTML tagging attributes",
+  "license": "MIT",
+  "mcpServers": {
+    "source-browser": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@walkeros/mcp-source-browser@4.5.0"
+      ]
+    }
+  }
+}

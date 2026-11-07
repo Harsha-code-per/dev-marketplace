@@ -1,0 +1,13 @@
+{
+  "name": "12306-mcp",
+  "description": "An MCP server that provides 12306 ticket query",
+  "license": "MIT",
+  "mcpServers": {
+    "12306": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-12306==0.3.1"
+      ]
+    }
+  }
+}

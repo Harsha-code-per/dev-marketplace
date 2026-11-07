@@ -1,0 +1,11 @@
+{
+  "name": "offense-mcp",
+  "description": "Security tools for coding agents: dependency advisory audits and evidence for remediation.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "offense": {
+      "type": "http",
+      "url": "https://offense.sh/mcp"
+    }
+  }
+}

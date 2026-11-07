@@ -1,0 +1,16 @@
+{
+  "name": "github-mcp-server-mcp",
+  "description": "Connect AI assistants to GitHub - manage repos, issues, PRs, and workflows through natural language.",
+  "license": "MIT",
+  "mcpServers": {
+    "github-mcp-server": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/github/github-mcp-server:2.1.0"
+      ]
+    }
+  }
+}

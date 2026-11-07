@@ -1,0 +1,13 @@
+{
+  "name": "paper-distill-mcp",
+  "description": "Academic paper search across 11 sources with AI curation, ranked push, Zotero and Obsidian support.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "paper-distill-mcp": {
+      "command": "uvx",
+      "args": [
+        "paper-distill-mcp==0.2.4"
+      ]
+    }
+  }
+}

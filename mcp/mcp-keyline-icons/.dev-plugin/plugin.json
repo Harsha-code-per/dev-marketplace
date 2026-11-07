@@ -1,0 +1,14 @@
+{
+  "name": "mcp-keyline-icons",
+  "description": "Search Keyline Icons by name and get any icon's SVG source or React import. No key, no network.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@keyline-icons/mcp@2.5.0"
+      ]
+    }
+  }
+}

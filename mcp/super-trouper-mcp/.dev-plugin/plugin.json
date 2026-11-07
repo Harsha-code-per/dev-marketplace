@@ -1,0 +1,14 @@
+{
+  "name": "super-trouper-mcp",
+  "description": "MCP server for the Frida reverse engineering toolkit.",
+  "license": "MIT",
+  "mcpServers": {
+    "super-trouper": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@crissyfield/super-trouper@0.5.1"
+      ]
+    }
+  }
+}

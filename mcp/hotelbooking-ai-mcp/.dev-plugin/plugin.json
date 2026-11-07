@@ -1,0 +1,14 @@
+{
+  "name": "hotelbooking-ai-mcp",
+  "description": "RollingGo Hotel Booking MCP Server (Global/AI Edition)",
+  "license": "MIT",
+  "mcpServers": {
+    "hotelbooking-ai": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "hotelbooking-ai@1.0.0"
+      ]
+    }
+  }
+}

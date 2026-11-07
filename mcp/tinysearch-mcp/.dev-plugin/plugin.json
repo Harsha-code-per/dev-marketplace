@@ -1,0 +1,13 @@
+{
+  "name": "tinysearch-mcp",
+  "description": "Fast discovery search and self-hosted web research for MCP agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "tinysearch": {
+      "command": "uvx",
+      "args": [
+        "tinysuite-search==0.6.8"
+      ]
+    }
+  }
+}

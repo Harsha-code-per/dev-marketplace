@@ -1,0 +1,13 @@
+{
+  "name": "openworkproof-mcp",
+  "description": "Verifiable agent evidence; opt-in Codex guard and reference SOC alert review.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "openworkproof": {
+      "command": "uvx",
+      "args": [
+        "openworkproof==1.6.1"
+      ]
+    }
+  }
+}

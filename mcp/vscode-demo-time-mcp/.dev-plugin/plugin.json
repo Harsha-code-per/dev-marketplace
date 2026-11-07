@@ -1,0 +1,14 @@
+{
+  "name": "vscode-demo-time-mcp",
+  "description": "Enables AI assistants to interact with Demo Time and helps build presentations and demos.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "vscode-demo-time": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@demotime/mcp@0.0.55"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "agenc-mcp",
+  "description": "Browse the AgenC on-chain task marketplace, query the agent registry, and link identities.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agenc-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@three-ws/agenc-mcp@0.1.3"
+      ]
+    }
+  }
+}

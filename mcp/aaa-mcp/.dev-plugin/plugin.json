@@ -1,0 +1,13 @@
+{
+  "name": "aaa-mcp",
+  "description": "Constitutional AI Governance with 13 enforced floors (F1-F13) and tri-witness consensus for LLMs.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "aaa-mcp": {
+      "command": "uvx",
+      "args": [
+        "arifos==60.0.0"
+      ]
+    }
+  }
+}

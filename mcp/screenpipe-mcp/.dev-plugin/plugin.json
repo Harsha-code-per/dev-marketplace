@@ -1,0 +1,14 @@
+{
+  "name": "screenpipe-mcp",
+  "description": "Search your local screen recordings, audio transcripts, and computer activity from screenpipe.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "screenpipe-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "screenpipe-mcp@0.20.4"
+      ]
+    }
+  }
+}

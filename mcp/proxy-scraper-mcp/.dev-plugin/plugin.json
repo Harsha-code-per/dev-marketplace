@@ -1,0 +1,13 @@
+{
+  "name": "proxy-scraper-mcp",
+  "description": "Free proxies that actually work: checked HTTP/SOCKS proxies, and pages fetched through them",
+  "license": "MIT",
+  "mcpServers": {
+    "proxy-scraper": {
+      "command": "uvx",
+      "args": [
+        "proxy-scraper-cli==1.31.0"
+      ]
+    }
+  }
+}

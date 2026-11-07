@@ -1,0 +1,13 @@
+{
+  "name": "minirag-mcp",
+  "description": "Local-first RAG MCP server: hybrid search over a folder of your own documents",
+  "license": "MIT",
+  "mcpServers": {
+    "minirag-mcp": {
+      "command": "uvx",
+      "args": [
+        "minirag-mcp==1.0.0"
+      ]
+    }
+  }
+}

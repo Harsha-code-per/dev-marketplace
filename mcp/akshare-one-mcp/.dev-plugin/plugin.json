@@ -1,0 +1,13 @@
+{
+  "name": "akshare-one-mcp",
+  "description": "MCP server that provides access to Chinese stock market data using akshare-one",
+  "license": "MIT",
+  "mcpServers": {
+    "akshare-one-mcp": {
+      "command": "uvx",
+      "args": [
+        "akshare-one-mcp==0.5.0"
+      ]
+    }
+  }
+}

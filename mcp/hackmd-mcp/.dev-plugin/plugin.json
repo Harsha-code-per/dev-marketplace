@@ -1,0 +1,14 @@
+{
+  "name": "hackmd-mcp",
+  "description": "A Model Context Protocol server for integrating HackMD's note-taking platform with AI assistants.",
+  "license": "MIT",
+  "mcpServers": {
+    "hackmd-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "hackmd-mcp@1.5.7"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mcp-uptime-kuma-mcp",
+  "description": "A Model Context Protocol (MCP) server for Uptime Kuma version 2.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-uptime-kuma": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@davidfuchs/mcp-uptime-kuma@0.12.1"
+      ]
+    }
+  }
+}

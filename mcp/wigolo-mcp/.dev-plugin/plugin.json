@@ -1,0 +1,14 @@
+{
+  "name": "wigolo-mcp",
+  "description": "Local-first web intelligence MCP server for AI coding agents",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "wigolo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "wigolo@0.2.1"
+      ]
+    }
+  }
+}

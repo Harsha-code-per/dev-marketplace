@@ -1,0 +1,11 @@
+{
+  "name": "xmatrix-mcp",
+  "description": "Your xMatrix team's pages and channels, where people and their AI agents work together.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "xmatrix": {
+      "type": "http",
+      "url": "https://xmatrix-hub.xmatrix.sh/mcp"
+    }
+  }
+}

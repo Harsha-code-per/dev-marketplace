@@ -1,0 +1,26 @@
+{
+  "name": "memory-vault-mcp",
+  "description": "Local-first AI memory layer with hybrid search. Postgres + pgvector. Self-hosted, MIT.",
+  "license": "MIT",
+  "mcpServers": {
+    "memory-vault": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "DB_HOST",
+        "-e",
+        "DB_PORT",
+        "-e",
+        "DB_NAME",
+        "-e",
+        "DB_USER",
+        "-e",
+        "DB_PASSWORD",
+        "ghcr.io/mihaibuilds/memory-vault-mcp:1.6.1"
+      ]
+    }
+  }
+}

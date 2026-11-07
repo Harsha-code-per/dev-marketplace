@@ -1,0 +1,13 @@
+{
+  "name": "no_human-mcp",
+  "description": "File a task with your local no_human and check on it: task_add and task_status over stdio.",
+  "license": "MIT",
+  "mcpServers": {
+    "no_human": {
+      "command": "uvx",
+      "args": [
+        "no-human==0.2.3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "word-to-markdown-mcp",
+  "description": "Convert Word (.docx) documents to Markdown via CLI, Node.js, or browser",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "word-to-markdown": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "word-to-markdown@0.9.0"
+      ]
+    }
+  }
+}

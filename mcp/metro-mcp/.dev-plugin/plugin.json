@@ -1,0 +1,14 @@
+{
+  "name": "metro-mcp",
+  "description": "MCP server for React Native/Expo runtime debugging, inspection, and automation via Metro/CDP",
+  "license": "MIT",
+  "mcpServers": {
+    "metro-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "metro-mcp@0.15.0"
+      ]
+    }
+  }
+}

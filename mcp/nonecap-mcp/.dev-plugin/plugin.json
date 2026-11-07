@@ -1,0 +1,14 @@
+{
+  "name": "nonecap-mcp",
+  "description": "Solve hCaptcha and hCaptcha Enterprise challenges and get back a token, via the NoneCap API.",
+  "license": "MIT",
+  "mcpServers": {
+    "nonecap": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "nonecap@0.13.0"
+      ]
+    }
+  }
+}

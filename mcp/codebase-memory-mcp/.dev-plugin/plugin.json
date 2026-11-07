@@ -1,0 +1,14 @@
+{
+  "name": "codebase-memory-mcp",
+  "description": "Codebase knowledge graph for AI agents — 162 languages, sub-ms queries, 99% fewer tokens.",
+  "license": "MIT",
+  "mcpServers": {
+    "codebase-memory-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "codebase-memory-mcp@0.12.1"
+      ]
+    }
+  }
+}

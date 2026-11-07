@@ -1,0 +1,13 @@
+{
+  "name": "docling-mcp",
+  "description": "Convert PDFs and other documents to structured formats via Docling, for AI applications.",
+  "license": "MIT",
+  "mcpServers": {
+    "docling-mcp": {
+      "command": "uvx",
+      "args": [
+        "docling-mcp==3.5.0"
+      ]
+    }
+  }
+}

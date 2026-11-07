@@ -1,0 +1,13 @@
+{
+  "name": "remarkable-mcp",
+  "description": "Read, render, search, and manage reMarkable documents through MCP",
+  "license": "MIT",
+  "mcpServers": {
+    "remarkable": {
+      "command": "uvx",
+      "args": [
+        "remarkable-mcp==2.1.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "sage-mcp",
+  "description": "Persistent, consensus-validated institutional memory for AI agents. Runs locally.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "sage": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/l33tdawg/sage:11.25.3"
+      ]
+    }
+  }
+}

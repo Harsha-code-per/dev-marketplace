@@ -1,0 +1,13 @@
+{
+  "name": "garmin-personal-mcp",
+  "description": "Garmin Connect on Garmin's official Personal API: sleep, HRV, body battery, activities.",
+  "license": "MIT",
+  "mcpServers": {
+    "garmin-personal-mcp": {
+      "command": "uvx",
+      "args": [
+        "garmin-personal-mcp==0.3.0"
+      ]
+    }
+  }
+}

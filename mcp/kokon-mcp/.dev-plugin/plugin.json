@@ -1,0 +1,14 @@
+{
+  "name": "kokon-mcp",
+  "description": "Generate and edit images offline with Qwen-Image 2.1 on your GPU. Needs the Kokon desktop app.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "kokon": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "kokon-mcp@0.12.0"
+      ]
+    }
+  }
+}

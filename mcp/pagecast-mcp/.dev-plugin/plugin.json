@@ -1,0 +1,14 @@
+{
+  "name": "pagecast-mcp",
+  "description": "Record any browser page as GIF or video via MCP",
+  "license": "MIT",
+  "mcpServers": {
+    "pagecast": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mcpware/pagecast@0.1.0"
+      ]
+    }
+  }
+}

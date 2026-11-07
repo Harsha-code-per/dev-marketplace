@@ -1,0 +1,13 @@
+{
+  "name": "unreal-api-mcp",
+  "description": "Accurate UE5 C++ API docs for AI agents. Prevents hallucinated signatures and includes.",
+  "license": "MIT",
+  "mcpServers": {
+    "unreal-api-mcp": {
+      "command": "uvx",
+      "args": [
+        "unreal-api-mcp==0.3.1"
+      ]
+    }
+  }
+}

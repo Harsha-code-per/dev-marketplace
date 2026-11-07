@@ -1,0 +1,11 @@
+{
+  "name": "llmgateway-mcp",
+  "description": "Chat with any LLM, generate images, browse models and check your usage and costs.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "llmgateway": {
+      "type": "http",
+      "url": "https://api.llmgateway.io/mcp"
+    }
+  }
+}

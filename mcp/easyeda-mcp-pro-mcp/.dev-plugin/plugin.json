@@ -1,0 +1,14 @@
+{
+  "name": "easyeda-mcp-pro-mcp",
+  "description": "MCP server for EasyEDA Pro: PCB inspection, BOM, exports, and hardware review.",
+  "license": "MIT",
+  "mcpServers": {
+    "easyeda-mcp-pro": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "easyeda-mcp-pro@1.11.0"
+      ]
+    }
+  }
+}

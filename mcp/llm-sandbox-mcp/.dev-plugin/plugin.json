@@ -1,0 +1,13 @@
+{
+  "name": "llm-sandbox-mcp",
+  "description": "Securely run LLM-generated code in isolated containers across 7 languages and 3 container backends.",
+  "license": "MIT",
+  "mcpServers": {
+    "llm-sandbox": {
+      "command": "uvx",
+      "args": [
+        "llm-sandbox==0.3.43"
+      ]
+    }
+  }
+}

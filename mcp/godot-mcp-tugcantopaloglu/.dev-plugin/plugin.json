@@ -1,0 +1,14 @@
+{
+  "name": "godot-mcp-tugcantopaloglu",
+  "description": "MCP server for full Godot 4.x engine control with 165 tools for AI-driven game development",
+  "license": "MIT",
+  "mcpServers": {
+    "godot-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tugcantopaloglu/godot-mcp@1.0.0"
+      ]
+    }
+  }
+}

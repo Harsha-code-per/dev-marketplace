@@ -1,0 +1,13 @@
+{
+  "name": "skylos-mcp",
+  "description": "Dead code, security, secrets detection and code quality for Python, TypeScript, Go.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "skylos": {
+      "command": "uvx",
+      "args": [
+        "skylos==3.5.10"
+      ]
+    }
+  }
+}

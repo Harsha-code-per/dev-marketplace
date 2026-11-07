@@ -1,0 +1,13 @@
+{
+  "name": "mcp-neo4j-cypher-mcp",
+  "description": "A simple Neo4j MCP server that allows you to run Cypher queries against a Neo4j database.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-neo4j-cypher": {
+      "command": "uvx",
+      "args": [
+        "mcp-neo4j-cypher==0.5.1"
+      ]
+    }
+  }
+}

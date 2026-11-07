@@ -1,0 +1,13 @@
+{
+  "name": "evalview-mcp",
+  "description": "Regression testing for AI agents. Golden baselines, CI/CD, LangGraph, CrewAI, OpenAI, Claude.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "evalview-mcp": {
+      "command": "uvx",
+      "args": [
+        "evalview==0.6.0"
+      ]
+    }
+  }
+}

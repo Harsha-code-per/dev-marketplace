@@ -1,0 +1,14 @@
+{
+  "name": "sysml-mcp",
+  "description": "SysML v2 and KerML for coding agents: workspace diagnostics and edits, execution, REPL sessions.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "sysml-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@openmbee/sysml-mcp@0.12.1"
+      ]
+    }
+  }
+}

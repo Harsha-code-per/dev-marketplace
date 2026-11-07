@@ -1,0 +1,14 @@
+{
+  "name": "shodh-memory-mcp",
+  "description": "Cognitive memory for AI agents — semantic search, Hebbian learning, knowledge graphs.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "shodh-memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@shodh/memory-mcp@0.2.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "microcharts-mcp",
+  "description": "Find, wire, and render microcharts — word-sized React charts with generated alt text.",
+  "license": "MIT",
+  "mcpServers": {
+    "microcharts": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@microcharts/mcp@0.1.17"
+      ]
+    }
+  }
+}

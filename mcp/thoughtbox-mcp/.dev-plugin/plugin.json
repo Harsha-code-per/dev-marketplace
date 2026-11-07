@@ -1,0 +1,14 @@
+{
+  "name": "thoughtbox-mcp",
+  "description": "Extended reasoning with structured processes, persistence, and workflow guidance",
+  "license": "MIT",
+  "mcpServers": {
+    "thoughtbox": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@kastalien-research/thoughtbox@1.0.3"
+      ]
+    }
+  }
+}

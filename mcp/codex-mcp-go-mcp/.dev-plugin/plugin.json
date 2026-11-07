@@ -1,0 +1,14 @@
+{
+  "name": "codex-mcp-go-mcp",
+  "description": "MCP server wrapping Codex CLI for stdio-based tool calls.",
+  "license": "MIT",
+  "mcpServers": {
+    "codex-mcp-go": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@zenfun510/codex-mcp-go@0.2.1"
+      ]
+    }
+  }
+}

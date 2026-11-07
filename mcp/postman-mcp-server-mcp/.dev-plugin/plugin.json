@@ -1,0 +1,14 @@
+{
+  "name": "postman-mcp-server-mcp",
+  "description": "Give your AI agents trusted access to the full Postman platform.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "postman-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@postman/postman-mcp-server@2.15.0"
+      ]
+    }
+  }
+}

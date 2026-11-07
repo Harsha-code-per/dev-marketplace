@@ -1,0 +1,11 @@
+{
+  "name": "mcp-keploy",
+  "description": "End-to-end API testing — generate and run tests from OpenAPI, curl, Postman, or real user traffic.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://api.keploy.io/client/v1/mcp"
+    }
+  }
+}

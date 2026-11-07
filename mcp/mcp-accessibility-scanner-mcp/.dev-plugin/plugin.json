@@ -1,0 +1,14 @@
+{
+  "name": "mcp-accessibility-scanner-mcp",
+  "description": "MCP server for automated web accessibility scanning with Playwright and Axe-core.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-accessibility-scanner": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-accessibility-scanner@1.1.1"
+      ]
+    }
+  }
+}

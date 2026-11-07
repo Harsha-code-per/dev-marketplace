@@ -1,0 +1,14 @@
+{
+  "name": "agent-device-mcp",
+  "description": "Open source device layer for AI agents: control mobile, web, TV, and desktop apps over MCP",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-device": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "agent-device@0.21.36"
+      ]
+    }
+  }
+}

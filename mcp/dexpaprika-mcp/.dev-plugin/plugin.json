@@ -1,0 +1,11 @@
+{
+  "name": "dexpaprika-mcp",
+  "description": "DEX and on-chain data: liquidity pools, token prices, swaps, and trading volume.",
+  "license": "MIT",
+  "mcpServers": {
+    "dexpaprika": {
+      "type": "http",
+      "url": "https://mcp.dexpaprika.com/streamable-http"
+    }
+  }
+}

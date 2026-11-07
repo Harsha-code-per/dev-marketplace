@@ -1,0 +1,11 @@
+{
+  "name": "openshorts-mcp",
+  "description": "Turn long videos into viral vertical shorts and publish them to TikTok, Instagram and YouTube.",
+  "license": "MIT",
+  "mcpServers": {
+    "openshorts": {
+      "type": "http",
+      "url": "https://mcp.openshorts.app/mcp"
+    }
+  }
+}

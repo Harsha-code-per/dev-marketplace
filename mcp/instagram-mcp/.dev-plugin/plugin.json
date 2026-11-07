@@ -1,0 +1,14 @@
+{
+  "name": "instagram-mcp",
+  "description": "Instagram MCP — 23 tools for Instagram Graph API: posts, DMs, stories, reels, analytics.",
+  "license": "MIT",
+  "mcpServers": {
+    "instagram-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mcpware/instagram-mcp@1.0.4"
+      ]
+    }
+  }
+}

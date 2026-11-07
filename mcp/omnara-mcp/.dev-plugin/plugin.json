@@ -1,0 +1,11 @@
+{
+  "name": "omnara-mcp",
+  "description": "Deploy durable AI agents with Omnara, an open-source managed-agent platform.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "omnara": {
+      "type": "http",
+      "url": "https://app.omnara.com/mcp"
+    }
+  }
+}

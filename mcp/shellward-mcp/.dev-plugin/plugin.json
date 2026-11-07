@@ -1,0 +1,14 @@
+{
+  "name": "shellward-mcp",
+  "description": "AI agent security: 7 MCP tools for injection detection, PII scanning, command safety, DLP.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "shellward": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "shellward@0.5.11"
+      ]
+    }
+  }
+}

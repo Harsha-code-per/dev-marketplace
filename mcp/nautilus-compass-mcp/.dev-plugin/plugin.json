@@ -1,0 +1,13 @@
+{
+  "name": "nautilus-compass-mcp",
+  "description": "Local-first long-term memory for AI agents, with byte-recomputable signed verification receipts.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "nautilus-compass": {
+      "command": "uvx",
+      "args": [
+        "nautilus-compass==3.2.0"
+      ]
+    }
+  }
+}

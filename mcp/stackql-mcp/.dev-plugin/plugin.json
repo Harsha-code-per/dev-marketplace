@@ -1,0 +1,14 @@
+{
+  "name": "stackql-mcp",
+  "description": "SQL-native query and provisioning engine for cloud infrastructure, served over MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "stackql-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@stackql/mcp-server@1.0.888"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "zanadir-mcp",
+  "description": "Find what a repository's CI is missing, and which security checks cannot fail the build.",
+  "license": "MIT",
+  "mcpServers": {
+    "zanadir": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/mustachecase/zanadir:0.31.0"
+      ]
+    }
+  }
+}

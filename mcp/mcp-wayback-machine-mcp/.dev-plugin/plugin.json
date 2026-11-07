@@ -1,0 +1,14 @@
+{
+  "name": "mcp-wayback-machine-mcp",
+  "description": "MCP server and CLI tool for interacting with the Wayback Machine without API keys",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp-wayback-machine": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-wayback-machine@3.7.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "actual-mcp",
+  "description": "MCP server exposing Actual Budget accounts, transactions, budgets and reporting to LLM assistants.",
+  "license": "MIT",
+  "mcpServers": {
+    "actual-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "actual-mcp@1.15.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mockd-mcp",
+  "description": "Multi-protocol API mock server: HTTP, GraphQL, gRPC, WebSocket, MQTT, SSE, SOAP.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mockd": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/getmockd/mockd"
+      ]
+    }
+  }
+}

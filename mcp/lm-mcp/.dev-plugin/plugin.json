@@ -1,0 +1,14 @@
+{
+  "name": "lm-mcp",
+  "description": "Connect Claude to any OpenAI-compatible LLM endpoint and offload routine work to a local model.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "lm": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@houtini/lm@3.3.4"
+      ]
+    }
+  }
+}

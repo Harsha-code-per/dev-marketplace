@@ -1,0 +1,14 @@
+{
+  "name": "three-live-mcp",
+  "description": "Compile, lint, simulate (60 Hz), and render 3D scenes from Three.js to GLB, USDZ, Android & iOS.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "three-live": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "three-live@1.3.1"
+      ]
+    }
+  }
+}

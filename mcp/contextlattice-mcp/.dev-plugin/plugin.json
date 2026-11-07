@@ -1,0 +1,11 @@
+{
+  "name": "contextlattice-mcp",
+  "description": "Private-by-default, local-first memory/context/task orchestrator for MCP apps and agents.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "contextlattice": {
+      "type": "http",
+      "url": "https://contextlattice.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "free-search-mcp",
+  "description": "No-API-key web search, page fetching and document reading across many engines. Local-first.",
+  "license": "MIT",
+  "mcpServers": {
+    "free-search-mcp": {
+      "command": "uvx",
+      "args": [
+        "free-search-mcp==0.18.0"
+      ]
+    }
+  }
+}

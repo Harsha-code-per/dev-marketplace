@@ -1,0 +1,16 @@
+{
+  "name": "beever-atlas-mcp",
+  "description": "Open-source LLM knowledge base: team chat into a typed knowledge graph and auto-generated wiki.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "beever-atlas": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/beever-ai/beever-atlas:0.3.0"
+      ]
+    }
+  }
+}

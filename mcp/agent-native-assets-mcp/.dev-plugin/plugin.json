@@ -1,0 +1,11 @@
+{
+  "name": "agent-native-assets-mcp",
+  "description": "Digital asset manager - upload, organize, search, and generate on-brand images and videos",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-native-assets": {
+      "type": "http",
+      "url": "https://assets.agent-native.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "activity-mcp",
+  "description": "Trending agents and coins, the $THREE holder leaderboard, and the site-wide activity ticker.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "activity-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@three-ws/activity-mcp@0.1.3"
+      ]
+    }
+  }
+}

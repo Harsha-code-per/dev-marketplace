@@ -1,0 +1,11 @@
+{
+  "name": "mcp-usertour",
+  "description": "Official Usertour MCP Server for in-app onboarding: flows, checklists, surveys, and analytics.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.usertour.io/mcp"
+    }
+  }
+}

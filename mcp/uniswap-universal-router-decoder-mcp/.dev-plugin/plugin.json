@@ -1,0 +1,13 @@
+{
+  "name": "uniswap-universal-router-decoder-mcp",
+  "description": "Decode and encode Uniswap Universal Router calldata (V2, V3, V4). Read-only: never signs or sends.",
+  "license": "MIT",
+  "mcpServers": {
+    "uniswap-universal-router-decoder": {
+      "command": "uvx",
+      "args": [
+        "uniswap-universal-router-decoder==4.0.0"
+      ]
+    }
+  }
+}

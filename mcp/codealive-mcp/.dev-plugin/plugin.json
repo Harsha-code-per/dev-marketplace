@@ -1,0 +1,18 @@
+{
+  "name": "codealive-mcp",
+  "description": "Semantic code search and analysis from CodeAlive for AI assistants and agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "codealive-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "CODEALIVE_API_KEY",
+        "ghcr.io/codealive-ai/codealive-mcp:3.0.3"
+      ]
+    }
+  }
+}

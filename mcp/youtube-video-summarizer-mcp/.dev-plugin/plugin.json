@@ -1,0 +1,11 @@
+{
+  "name": "youtube-video-summarizer-mcp",
+  "description": "AI video summarizer: summarize and transcribe YouTube, Bilibili, TikTok and podcast videos.",
+  "license": "MIT",
+  "mcpServers": {
+    "youtube-video-summarizer": {
+      "type": "http",
+      "url": "https://bibigpt.co/api/mcp"
+    }
+  }
+}

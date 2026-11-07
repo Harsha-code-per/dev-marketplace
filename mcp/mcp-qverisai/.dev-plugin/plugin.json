@@ -1,0 +1,14 @@
+{
+  "name": "mcp-qverisai",
+  "description": "Professional data and tools for AI: find services, review scope, call them, and audit usage.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@qverisai/mcp@0.15.0"
+      ]
+    }
+  }
+}

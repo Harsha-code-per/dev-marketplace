@@ -1,0 +1,14 @@
+{
+  "name": "pitroom-mcp",
+  "description": "Hands bounded coding work to cheaper worker agents: verified answers, exact diffs, cost receipts.",
+  "license": "MIT",
+  "mcpServers": {
+    "pitroom": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "pitroom@0.29.0"
+      ]
+    }
+  }
+}

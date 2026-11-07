@@ -1,0 +1,11 @@
+{
+  "name": "mu-mcp",
+  "description": "News, web search, mail, markets, weather, places, files, calendar, contacts. 67 tools, one endpoint.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mu": {
+      "type": "http",
+      "url": "https://micro.mu/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "zoteus-mcp",
+  "description": "Zotero MCP server for Claude and ChatGPT: search, citations, safe writes, PDF passages and pages.",
+  "license": "MIT",
+  "mcpServers": {
+    "zoteus": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@oscardvs/zoteus@1.23.1"
+      ]
+    }
+  }
+}

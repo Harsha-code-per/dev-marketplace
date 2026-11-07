@@ -1,0 +1,14 @@
+{
+  "name": "kaneo-mcp",
+  "description": "Official MCP server for Kaneo: manage tasks, projects, and labels from Claude and other MCP clients",
+  "license": "MIT",
+  "mcpServers": {
+    "kaneo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@kaneo/mcp@0.1.14"
+      ]
+    }
+  }
+}

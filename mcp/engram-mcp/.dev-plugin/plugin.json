@@ -1,0 +1,14 @@
+{
+  "name": "engram-mcp",
+  "description": "Ranked local code-graph context for AI coding agents. Intercepts reads + greps. Apache-2.0.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "engram": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "engramx@4.5.0"
+      ]
+    }
+  }
+}

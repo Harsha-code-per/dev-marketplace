@@ -1,0 +1,11 @@
+{
+  "name": "tradingview-mcp",
+  "description": "Market analysis for AI assistants: screeners, multi-timeframe analysis, backtests, in-chat charts.",
+  "license": "MIT",
+  "mcpServers": {
+    "tradingview-mcp": {
+      "type": "http",
+      "url": "https://mcp.tradingmcp.ai/mcp"
+    }
+  }
+}

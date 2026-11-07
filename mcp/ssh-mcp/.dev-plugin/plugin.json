@@ -1,0 +1,14 @@
+{
+  "name": "ssh-mcp",
+  "description": "Policy-gated, audited SSH for Linux and Windows hosts: roles, approvals, and an audit log.",
+  "license": "MIT",
+  "mcpServers": {
+    "ssh-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ssh-mcp@2.23.1"
+      ]
+    }
+  }
+}

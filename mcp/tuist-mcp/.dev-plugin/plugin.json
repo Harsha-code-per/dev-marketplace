@@ -1,0 +1,11 @@
+{
+  "name": "tuist-mcp",
+  "description": "Build, test and cache insights for Xcode, Gradle and Bazel projects, for coding agents.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "tuist": {
+      "type": "http",
+      "url": "https://tuist.dev/mcp"
+    }
+  }
+}

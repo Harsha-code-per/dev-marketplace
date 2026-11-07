@@ -1,0 +1,14 @@
+{
+  "name": "google-health-mcp",
+  "description": "Privacy-first unofficial Google Health API v4 MCP server for health, sleep, activity, HR agents",
+  "license": "MIT",
+  "mcpServers": {
+    "google-health-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "google-health-mcp-unofficial@0.5.2"
+      ]
+    }
+  }
+}

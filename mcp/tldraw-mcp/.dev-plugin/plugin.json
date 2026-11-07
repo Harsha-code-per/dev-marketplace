@@ -1,0 +1,11 @@
+{
+  "name": "tldraw-mcp",
+  "description": "Draw and visually collaborate with your agents on tldraw's canvas.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "tldraw": {
+      "type": "http",
+      "url": "https://tldraw-mcp-app.tldraw.workers.dev/mcp"
+    }
+  }
+}

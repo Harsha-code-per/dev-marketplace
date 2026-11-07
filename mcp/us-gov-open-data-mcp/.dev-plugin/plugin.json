@@ -1,0 +1,14 @@
+{
+  "name": "us-gov-open-data-mcp",
+  "description": "Open data from 40+ U.S. government APIs: economy, spending, Congress, health, energy, disasters",
+  "license": "MIT",
+  "mcpServers": {
+    "us-gov-open-data-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "us-gov-open-data-mcp@2026.10.8"
+      ]
+    }
+  }
+}

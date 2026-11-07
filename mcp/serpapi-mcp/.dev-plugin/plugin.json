@@ -1,0 +1,11 @@
+{
+  "name": "serpapi-mcp",
+  "description": "Official SerpApi MCP server for Google, Bing, and other search engines.",
+  "license": "MIT",
+  "mcpServers": {
+    "serpapi-mcp": {
+      "type": "http",
+      "url": "https://mcp.serpapi.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "context-sync-mcp",
+  "description": "Universal AI Memory - Sync context across Claude, VsCode, Cursor, Continue, Windsurf, Zed & more",
+  "license": "MIT",
+  "mcpServers": {
+    "context-sync": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@context-sync/server@1.0.1"
+      ]
+    }
+  }
+}

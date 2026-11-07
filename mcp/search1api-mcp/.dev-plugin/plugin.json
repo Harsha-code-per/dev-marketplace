@@ -1,0 +1,14 @@
+{
+  "name": "search1api-mcp",
+  "description": "Multi-engine web and platform search, news, Google Maps places, page reading, sitemaps, and trends.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "search1api": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "search1api-mcp@0.11.0"
+      ]
+    }
+  }
+}

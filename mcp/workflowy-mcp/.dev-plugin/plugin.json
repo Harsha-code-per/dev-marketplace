@@ -1,0 +1,18 @@
+{
+  "name": "workflowy-mcp",
+  "description": "Create, update, complete nodes, search & replace with regex and dry run, usage reports, transforms",
+  "license": "MIT",
+  "mcpServers": {
+    "workflowy": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "WORKFLOWY_API_KEY",
+        "ghcr.io/mholzen/workflowy:0.8.1"
+      ]
+    }
+  }
+}

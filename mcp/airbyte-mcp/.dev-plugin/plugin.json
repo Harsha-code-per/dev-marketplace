@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-mcp",
+  "description": "Build and manage data pipelines, add custom connectors, and chat with your data.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "airbyte": {
+      "type": "http",
+      "url": "https://mcp.airbyte.com/mcp"
+    }
+  }
+}

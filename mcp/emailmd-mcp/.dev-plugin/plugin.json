@@ -1,0 +1,14 @@
+{
+  "name": "emailmd-mcp",
+  "description": "Render markdown into email-safe HTML, lint drafts for deliverability problems, and preview emails.",
+  "license": "MIT",
+  "mcpServers": {
+    "emailmd": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "emailmd@0.13.2"
+      ]
+    }
+  }
+}

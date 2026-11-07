@@ -1,0 +1,16 @@
+{
+  "name": "agent-spreadsheet-mcp",
+  "description": "Agent-safe Excel workbook analysis, editing, recalc, and verification tools.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agent-spreadsheet": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/psu3d0/agent-spreadsheet:0.16.0-full"
+      ]
+    }
+  }
+}

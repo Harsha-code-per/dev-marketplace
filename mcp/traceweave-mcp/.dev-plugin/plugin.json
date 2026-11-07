@@ -1,0 +1,13 @@
+{
+  "name": "traceweave-mcp",
+  "description": "Portable MCP runtime for RTL logs and VCD; repository setup adds FSDB and site EDA integration",
+  "license": "MIT",
+  "mcpServers": {
+    "traceweave": {
+      "command": "uvx",
+      "args": [
+        "traceweave-mcp==2.0.2"
+      ]
+    }
+  }
+}

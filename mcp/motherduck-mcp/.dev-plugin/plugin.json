@@ -1,0 +1,13 @@
+{
+  "name": "motherduck-mcp",
+  "description": "SQL analytics and data engineering for AI Assistants and IDEs",
+  "license": "MIT",
+  "mcpServers": {
+    "motherduck": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-motherduck==1.1.0"
+      ]
+    }
+  }
+}

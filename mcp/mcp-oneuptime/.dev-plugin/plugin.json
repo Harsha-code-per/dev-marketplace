@@ -1,0 +1,11 @@
+{
+  "name": "mcp-oneuptime",
+  "description": "Manage incidents, alerts, monitors, status pages, on-call and telemetry in OneUptime.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://oneuptime.com/mcp"
+    }
+  }
+}

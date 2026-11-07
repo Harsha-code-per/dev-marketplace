@@ -1,0 +1,16 @@
+{
+  "name": "terraform-mcp-server-mcp",
+  "description": "Generate more accurate Terraform and automate workflows for HCP Terraform and Terraform Enterprise",
+  "license": "MPL-2.0",
+  "mcpServers": {
+    "terraform-mcp-server": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/hashicorp/terraform-mcp-server:1.4.1"
+      ]
+    }
+  }
+}

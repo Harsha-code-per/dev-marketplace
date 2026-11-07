@@ -1,0 +1,13 @@
+{
+  "name": "fmpsdk-mcp",
+  "description": "Financial Modeling Prep API as MCP tools — quotes, statements, prices, and ~240 endpoints.",
+  "license": "BSD-3-Clause",
+  "mcpServers": {
+    "fmpsdk-mcp": {
+      "command": "uvx",
+      "args": [
+        "fmpsdk-mcp==20260829.1"
+      ]
+    }
+  }
+}

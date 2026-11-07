@@ -1,0 +1,14 @@
+{
+  "name": "gitlab-mcp",
+  "description": "GitLab MCP server for projects, merge requests, issues, pipelines, wiki, releases, and more.",
+  "license": "MIT",
+  "mcpServers": {
+    "gitlab-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@zereight/mcp-gitlab@2.3.22"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "oracle3-mcp",
+  "description": "Kalshi and Polymarket data, venue fees, no-arbitrage checks and paper execution for AI agents.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "oracle3": {
+      "command": "uvx",
+      "args": [
+        "oracle3==1.2.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cml-mcp",
+  "description": "An MCP server that provides access to common Cisco Modeling Labs (CML) operations.",
+  "license": "BSD-2-Clause",
+  "mcpServers": {
+    "cml-mcp": {
+      "command": "uvx",
+      "args": [
+        "cml-mcp==0.40.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dbx-mcp",
+  "description": "Query databases from AI agents using connections configured in DBX.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "dbx": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dbx-app/mcp-server@0.1.3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "marm-mcp-server-mcp",
+  "description": "Universal MCP Server with advanced AI memory capabilities and semantic search.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "marm-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "marm-mcp-server==2.60.1"
+      ]
+    }
+  }
+}

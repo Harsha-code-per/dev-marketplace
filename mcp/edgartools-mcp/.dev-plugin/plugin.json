@@ -1,0 +1,13 @@
+{
+  "name": "edgartools-mcp",
+  "description": "Open-source SEC EDGAR toolkit — 13 tools, 7 prompts, every filing type. No API key required.",
+  "license": "MIT",
+  "mcpServers": {
+    "edgartools": {
+      "command": "uvx",
+      "args": [
+        "edgartools==5.62.1"
+      ]
+    }
+  }
+}

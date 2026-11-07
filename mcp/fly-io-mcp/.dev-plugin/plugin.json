@@ -1,0 +1,14 @@
+{
+  "name": "fly-io-mcp",
+  "description": "MCP server for managing Fly.io machines, apps, logs, and Docker images.",
+  "license": "MIT",
+  "mcpServers": {
+    "fly-io": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "fly-io-mcp-server@0.1.7"
+      ]
+    }
+  }
+}

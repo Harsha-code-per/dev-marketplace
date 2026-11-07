@@ -1,0 +1,14 @@
+{
+  "name": "semiotic-mcp",
+  "description": "Verified React chart generation: select, validate, repair, render, and inspect charts through MCP.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "semiotic": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "semiotic@3.13.3"
+      ]
+    }
+  }
+}

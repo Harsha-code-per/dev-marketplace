@@ -1,0 +1,14 @@
+{
+  "name": "tradeos-mcp",
+  "description": "TradeOS MCP: ticker search, My Agent, chart TA, macro news. npm stdio or HTTP.",
+  "license": "MIT",
+  "mcpServers": {
+    "tradeos-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tradeos/tradeos-mcp@1.0.3"
+      ]
+    }
+  }
+}

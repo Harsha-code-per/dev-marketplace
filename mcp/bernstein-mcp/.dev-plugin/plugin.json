@@ -1,0 +1,13 @@
+{
+  "name": "bernstein-mcp",
+  "description": "The open-source governance layer for AI agents. Byte-identical run receipts, 40+ adapters, air-gap.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "bernstein": {
+      "command": "uvx",
+      "args": [
+        "bernstein==3.23.0"
+      ]
+    }
+  }
+}

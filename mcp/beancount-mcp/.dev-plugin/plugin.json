@@ -1,0 +1,11 @@
+{
+  "name": "beancount-mcp",
+  "description": "Query, edit, and reconcile a hosted Beancount ledger: BQL, reports, files, and bank imports.",
+  "license": "MIT",
+  "mcpServers": {
+    "beancount": {
+      "type": "http",
+      "url": "https://beancount.io/api-gateway/mcp"
+    }
+  }
+}

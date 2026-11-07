@@ -1,0 +1,11 @@
+{
+  "name": "fojin-mcp",
+  "description": "Buddhist canon tools: search, passages, cross-canon parallels, dictionaries — all URN-cited.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "fojin-mcp": {
+      "type": "http",
+      "url": "https://mcp.fojin.ai/mcp"
+    }
+  }
+}

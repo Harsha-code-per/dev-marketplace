@@ -1,0 +1,13 @@
+{
+  "name": "scrapegraph-mcp",
+  "description": "AI-powered web scraping and data extraction capabilities through ScrapeGraph API",
+  "license": "MIT",
+  "mcpServers": {
+    "scrapegraph-mcp": {
+      "command": "uvx",
+      "args": [
+        "scrapegraph-mcp==1.0.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hexis-mcp",
+  "description": "Git-backed platform for skills, tools, and context for AI agents",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "hexis": {
+      "type": "http",
+      "url": "https://demo.bevel.software/api/mcp"
+    }
+  }
+}

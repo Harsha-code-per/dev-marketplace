@@ -1,0 +1,20 @@
+{
+  "name": "redmine-mcp",
+  "description": "Work with Redmine issues, projects, time entries, wiki pages and more. Read-only by default.",
+  "license": "MIT",
+  "mcpServers": {
+    "redmine-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "REDMINE_SERVER",
+        "-e",
+        "REDMINE_API_KEY",
+        "ghcr.io/aarondpn/redmine-mcp:2.18.0"
+      ]
+    }
+  }
+}

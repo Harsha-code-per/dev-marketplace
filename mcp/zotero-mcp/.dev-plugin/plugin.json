@@ -1,0 +1,13 @@
+{
+  "name": "zotero-mcp",
+  "description": "Search, read, annotate, and add to your Zotero research library, local or web.",
+  "license": "MIT",
+  "mcpServers": {
+    "zotero-mcp": {
+      "command": "uvx",
+      "args": [
+        "zotero-mcp-server==0.15.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ms-365-mcp-server-mcp",
+  "description": "Interact with Microsoft 365 and Office services through the Microsoft Graph API.",
+  "license": "MIT",
+  "mcpServers": {
+    "ms-365-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@softeria/ms-365-mcp-server@0.179.1"
+      ]
+    }
+  }
+}

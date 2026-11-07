@@ -1,0 +1,14 @@
+{
+  "name": "token-optimizer-mcp",
+  "description": "Context-window optimization: caching, compression & smart file tools that cut tokens 60-90%.",
+  "license": "MIT",
+  "mcpServers": {
+    "token-optimizer-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ooples/token-optimizer-mcp@7.9.0"
+      ]
+    }
+  }
+}

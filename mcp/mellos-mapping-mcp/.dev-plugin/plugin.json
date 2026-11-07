@@ -1,0 +1,14 @@
+{
+  "name": "mellos-mapping-mcp",
+  "description": "Live layered dependency map for bottom-up development, drawn by the agent in a terminal pane.",
+  "license": "MIT",
+  "mcpServers": {
+    "mellos-mapping": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mellos-mapping@0.28.0"
+      ]
+    }
+  }
+}

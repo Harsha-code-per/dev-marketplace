@@ -1,0 +1,14 @@
+{
+  "name": "duduclaw-mcp",
+  "description": "Local persistent memory and Markdown wiki for AI coding agents: 24 MCP tools, no gateway required.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "duduclaw": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "duduclaw@1.74.0"
+      ]
+    }
+  }
+}

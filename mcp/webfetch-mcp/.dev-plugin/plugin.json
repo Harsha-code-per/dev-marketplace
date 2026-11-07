@@ -1,0 +1,13 @@
+{
+  "name": "webfetch-mcp",
+  "description": "Self-hosted web search for LLM agents: search -> fetch -> rank pipeline with semantic caching",
+  "license": "MIT",
+  "mcpServers": {
+    "webfetch": {
+      "command": "uvx",
+      "args": [
+        "webfetch-llm==0.1.3"
+      ]
+    }
+  }
+}

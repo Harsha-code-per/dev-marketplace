@@ -1,0 +1,11 @@
+{
+  "name": "gread-mcp",
+  "description": "An MCP server that gives your AI access to the source code and docs of all public github repos",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "gread": {
+      "type": "http",
+      "url": "https://api.gread.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "openclaw-mcp",
+  "description": "MCP server bridging Claude.ai/Desktop with self-hosted OpenClaw via OAuth 2.1.",
+  "license": "MIT",
+  "mcpServers": {
+    "openclaw-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "openclaw-mcp@1.8.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "watch-cli-mcp",
+  "description": "Hand any social video to your AI agent — frames + transcript bundled. MCP server for watch-cli.",
+  "license": "MIT",
+  "mcpServers": {
+    "watch-cli": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@sonpiaz/watch-cli-mcp@0.3.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "argon-mcp",
+  "description": "Versioned MongoDB sandboxes for AI agents: branch, time-travel, merge, and undo over MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "argon": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "argonctl@2.1.4"
+      ]
+    }
+  }
+}

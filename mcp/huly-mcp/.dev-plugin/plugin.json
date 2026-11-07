@@ -1,0 +1,14 @@
+{
+  "name": "huly-mcp",
+  "description": "Huly MCP: feature-complete MCP server for Huly integration",
+  "license": "MIT",
+  "mcpServers": {
+    "huly-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@firfi/huly-mcp@0.52.5"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spytrend-mcp",
+  "description": "Analytics, advertising: Facebook/Meta, TikTok, competitor ads. Free plan; Spytrend OAuth in browser",
+  "license": "MIT",
+  "mcpServers": {
+    "spytrend": {
+      "type": "http",
+      "url": "https://mcp.spytrend.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "fetchpet-mcp",
+  "description": "MCP server for Fetch Pet insurance claims management using Playwright automation.",
+  "license": "MIT",
+  "mcpServers": {
+    "fetchpet": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "fetchpet-mcp-server@0.1.8"
+      ]
+    }
+  }
+}

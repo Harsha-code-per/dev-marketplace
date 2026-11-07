@@ -1,0 +1,14 @@
+{
+  "name": "dashclaw-mcp",
+  "description": "Policy checks, approvals, records, and governed HTTP capabilities for unattended agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "dashclaw": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dashclaw/mcp-server@3.1.6"
+      ]
+    }
+  }
+}

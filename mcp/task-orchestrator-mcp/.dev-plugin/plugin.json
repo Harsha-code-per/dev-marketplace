@@ -1,0 +1,16 @@
+{
+  "name": "task-orchestrator-mcp",
+  "description": "Server-enforced workflow discipline for AI agents: work items, dependency graphs, quality gates",
+  "license": "MIT",
+  "mcpServers": {
+    "task-orchestrator": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/jpicklyk/task-orchestrator:3.16.0"
+      ]
+    }
+  }
+}

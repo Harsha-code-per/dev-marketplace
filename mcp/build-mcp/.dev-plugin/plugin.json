@@ -1,0 +1,14 @@
+{
+  "name": "build-mcp",
+  "description": "Structured build tool output (tsc, generic commands) as typed JSON diagnostics.",
+  "license": "MIT",
+  "mcpServers": {
+    "build": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@paretools/build@0.8.0"
+      ]
+    }
+  }
+}

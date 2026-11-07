@@ -1,0 +1,14 @@
+{
+  "name": "shodan-mcp",
+  "description": "MCP server for Shodan API — device search, IP and domain recon, DNS, and CVE/CPE queries.",
+  "license": "MIT",
+  "mcpServers": {
+    "shodan": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@burtthecoder/mcp-shodan@1.0.37"
+      ]
+    }
+  }
+}

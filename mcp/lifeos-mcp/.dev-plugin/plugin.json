@@ -1,0 +1,14 @@
+{
+  "name": "lifeos-mcp",
+  "description": "Self-hosted life OS: habits, goals, tasks, finances and notes over a token-protected API.",
+  "license": "MIT",
+  "mcpServers": {
+    "lifeos": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@edicodes/lifeos-mcp@2.0.0"
+      ]
+    }
+  }
+}

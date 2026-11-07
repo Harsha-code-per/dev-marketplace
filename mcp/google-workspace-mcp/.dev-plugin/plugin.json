@@ -1,0 +1,14 @@
+{
+  "name": "google-workspace-mcp",
+  "description": "Give AI agents access to Gmail, Calendar, Drive, and more — multi-account, manifest-driven",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "google-workspace": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@aaronsb/google-workspace-mcp@4.8.0"
+      ]
+    }
+  }
+}

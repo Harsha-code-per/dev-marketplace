@@ -1,0 +1,14 @@
+{
+  "name": "dot-ai-mcp",
+  "description": "AI-powered development platform for Kubernetes deployments and intelligent automation",
+  "license": "MIT",
+  "mcpServers": {
+    "dot-ai": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@vfarcic/dot-ai@0.112.0"
+      ]
+    }
+  }
+}

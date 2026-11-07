@@ -1,0 +1,14 @@
+{
+  "name": "posecode-mcp",
+  "description": "Author, ROM-validate, and render 3D human movement (.posecode) with a shareable playground link.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "posecode-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "posecode-mcp@0.5.0"
+      ]
+    }
+  }
+}

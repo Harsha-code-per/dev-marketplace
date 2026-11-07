@@ -1,0 +1,14 @@
+{
+  "name": "code-runner-mcp",
+  "description": "Code Runner MCP Server which can run code in various programming languages.",
+  "license": "MIT",
+  "mcpServers": {
+    "code-runner": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-server-code-runner@0.1.8"
+      ]
+    }
+  }
+}

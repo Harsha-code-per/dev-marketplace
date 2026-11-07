@@ -1,0 +1,13 @@
+{
+  "name": "cpu-perf-mcp",
+  "description": "A CPU performance engineering brain: a vetted reading list, benchmarks and cited source passages",
+  "license": "MIT",
+  "mcpServers": {
+    "cpu-perf": {
+      "command": "uvx",
+      "args": [
+        "cpu-perf==0.1.1"
+      ]
+    }
+  }
+}

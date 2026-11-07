@@ -1,0 +1,14 @@
+{
+  "name": "copilot-money-mcp",
+  "description": "Query and manage Copilot Money personal finances — local reads, opt-in GraphQL writes.",
+  "license": "MIT",
+  "mcpServers": {
+    "copilot-money-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "copilot-money-mcp@3.0.0"
+      ]
+    }
+  }
+}

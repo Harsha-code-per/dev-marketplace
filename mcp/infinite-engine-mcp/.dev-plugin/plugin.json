@@ -1,0 +1,14 @@
+{
+  "name": "infinite-engine-mcp",
+  "description": "Infinite audiovisual engine for AI agents: sound, shaders and video patches. Free, MIT.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "infinite-engine": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "infinite-engine@1.0.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "whois-mcp",
+  "description": "Query WHOIS/RDAP information for domains, IP addresses, CIDR prefixes and ASNs. Self-hostable.",
+  "license": "MIT",
+  "mcpServers": {
+    "whois": {
+      "type": "http",
+      "url": "https://whois.ddnsip.cn/mcp"
+    }
+  }
+}

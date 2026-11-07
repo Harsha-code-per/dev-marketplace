@@ -1,0 +1,11 @@
+{
+  "name": "measure-mcp",
+  "description": "Get to the root cause of mobile app crashes, errors & slow traces with Measure MCP",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "measure": {
+      "type": "http",
+      "url": "https://agent.measure.sh/mcp"
+    }
+  }
+}

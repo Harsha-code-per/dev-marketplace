@@ -1,0 +1,11 @@
+{
+  "name": "repowise-hosted-mcp",
+  "description": "Ask how your codebase works. Hosted codebase intelligence for repos indexed on repowise.dev.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "repowise-hosted": {
+      "type": "http",
+      "url": "https://api.repowise.dev/mcp"
+    }
+  }
+}

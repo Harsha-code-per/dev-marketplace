@@ -1,0 +1,13 @@
+{
+  "name": "jevreel-mcp",
+  "description": "Search and understand videos without embeddings: contact sheets plus Jev typed decisions.",
+  "license": "MIT",
+  "mcpServers": {
+    "jevreel": {
+      "command": "uvx",
+      "args": [
+        "jevreel==0.2.0"
+      ]
+    }
+  }
+}

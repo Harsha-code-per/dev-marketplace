@@ -1,0 +1,13 @@
+{
+  "name": "mcp_weather_server-mcp",
+  "description": "providing weather information, air quality data, and timezone utilities using the Open-Meteo API.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp_weather_server": {
+      "command": "uvx",
+      "args": [
+        "mcp-weather-server==0.6.1"
+      ]
+    }
+  }
+}

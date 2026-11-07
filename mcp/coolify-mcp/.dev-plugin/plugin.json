@@ -1,0 +1,14 @@
+{
+  "name": "coolify-mcp",
+  "description": "46 optimized tools for managing Coolify infrastructure, diagnostics, and docs search",
+  "license": "MIT",
+  "mcpServers": {
+    "coolify": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@masonator/coolify-mcp@3.9.0"
+      ]
+    }
+  }
+}

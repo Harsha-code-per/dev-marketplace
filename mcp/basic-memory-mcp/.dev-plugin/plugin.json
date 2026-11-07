@@ -1,0 +1,13 @@
+{
+  "name": "basic-memory-mcp",
+  "description": "Local-first knowledge management with bi-directional LLM sync via Markdown files.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "basic-memory": {
+      "command": "uvx",
+      "args": [
+        "basic-memory==1.0.0"
+      ]
+    }
+  }
+}

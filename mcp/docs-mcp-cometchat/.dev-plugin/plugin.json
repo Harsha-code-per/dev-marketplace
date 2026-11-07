@@ -1,0 +1,11 @@
+{
+  "name": "docs-mcp-cometchat",
+  "description": "CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "docs-mcp": {
+      "type": "http",
+      "url": "https://mcp.cometchat.com/mcp"
+    }
+  }
+}

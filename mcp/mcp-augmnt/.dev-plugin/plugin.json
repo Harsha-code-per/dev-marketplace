@@ -1,0 +1,13 @@
+{
+  "name": "mcp-augmnt",
+  "description": "Augments MCP Server - A comprehensive framework documentation provider for Claude Code",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "command": "uvx",
+      "args": [
+        "augments-mcp-server==2.0.2"
+      ]
+    }
+  }
+}

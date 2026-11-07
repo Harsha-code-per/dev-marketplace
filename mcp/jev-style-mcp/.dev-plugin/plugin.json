@@ -1,0 +1,13 @@
+{
+  "name": "jev-style-mcp",
+  "description": "Local 2B and 0.8B decision models: calibrated yes/no, choice and score answers for your agent.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "jev-style": {
+      "command": "uvx",
+      "args": [
+        "jev-style==0.6.3"
+      ]
+    }
+  }
+}

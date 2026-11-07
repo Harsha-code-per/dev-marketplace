@@ -1,0 +1,14 @@
+{
+  "name": "cloakbrowser-mcp",
+  "description": "Playwright MCP-compatible browser automation bridge for CloakBrowser Chromium.",
+  "license": "MIT",
+  "mcpServers": {
+    "cloakbrowser-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "cloakbrowser-mcp@1.15.1"
+      ]
+    }
+  }
+}

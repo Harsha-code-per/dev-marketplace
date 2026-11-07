@@ -1,0 +1,14 @@
+{
+  "name": "node-csfd-api-mcp",
+  "description": "Movies, TV series, creators and user ratings from ČSFD.cz, the Czech-Slovak film database",
+  "license": "MIT",
+  "mcpServers": {
+    "node-csfd-api": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "node-csfd-api@5.14.1"
+      ]
+    }
+  }
+}

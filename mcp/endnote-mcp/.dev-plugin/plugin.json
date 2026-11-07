@@ -1,0 +1,13 @@
+{
+  "name": "endnote-mcp",
+  "description": "Search, cite, and read PDFs from your EndNote library in Claude Desktop",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "endnote-mcp": {
+      "command": "uvx",
+      "args": [
+        "endnote-mcp==1.4.15"
+      ]
+    }
+  }
+}

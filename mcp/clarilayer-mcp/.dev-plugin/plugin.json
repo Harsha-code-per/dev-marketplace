@@ -1,0 +1,11 @@
+{
+  "name": "clarilayer-mcp",
+  "description": "Individual-analyst context layer: recall, remember, and reconcile your data and engineering context.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "clarilayer": {
+      "type": "http",
+      "url": "https://clarilayer.com/api/mcp/mcp"
+    }
+  }
+}

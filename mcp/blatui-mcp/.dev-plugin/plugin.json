@@ -1,0 +1,11 @@
+{
+  "name": "blatui-mcp",
+  "description": "shadcn/ui for Laravel Blade — discover, read and install BlatUI components, blocks and charts.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "blatui": {
+      "type": "http",
+      "url": "https://blatui.remix-it.com/mcp"
+    }
+  }
+}

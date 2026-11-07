@@ -1,0 +1,13 @@
+{
+  "name": "mcp-sequential-thinking-mcp",
+  "description": "Local working notes, decisions, evidence and resumable sessions with SQLite persistence.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-sequential-thinking": {
+      "command": "uvx",
+      "args": [
+        "mcp-sequential-thinking==0.7.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mobbin-mcp",
+  "description": "Search real-world UI & UX design references for mobile apps, web apps, and websites with Mobbin.",
+  "license": "MIT",
+  "mcpServers": {
+    "mobbin": {
+      "type": "http",
+      "url": "https://api.mobbin.com/mcp"
+    }
+  }
+}

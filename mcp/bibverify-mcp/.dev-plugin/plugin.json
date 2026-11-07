@@ -1,0 +1,13 @@
+{
+  "name": "bibverify-mcp",
+  "description": "Verify and repair BibTeX references with DOI-first MCP tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "bibverify": {
+      "command": "uvx",
+      "args": [
+        "bibverify==0.3.0"
+      ]
+    }
+  }
+}

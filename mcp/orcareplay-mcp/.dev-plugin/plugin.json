@@ -1,0 +1,14 @@
+{
+  "name": "orcareplay-mcp",
+  "description": "Read, replay and fork recorded coding-agent runs.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "orcareplay": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "orcareplay@0.5.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sqlsure-mcp",
+  "description": "Semantic SQL inspector: catches double-counting, wrong joins, PII exposure before execution.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "sqlsure": {
+      "command": "uvx",
+      "args": [
+        "sqlsure==0.1.1"
+      ]
+    }
+  }
+}

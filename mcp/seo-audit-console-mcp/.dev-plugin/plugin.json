@@ -1,0 +1,14 @@
+{
+  "name": "seo-audit-console-mcp",
+  "description": "Technical SEO in Claude: GSC + crawl + DataForSEO - audit, portfolio, market sizing, content recon.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "seo-audit-console": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@houtini/seo-audit-console@1.0.1"
+      ]
+    }
+  }
+}

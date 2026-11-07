@@ -1,0 +1,14 @@
+{
+  "name": "gk-cli-mcp",
+  "description": "The GitKraken MCP Server for managing repos, PRs, issues across GitHub, GitLab, Bitbucket and more.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "gk-cli": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@gitkraken/gk@3.1.77"
+      ]
+    }
+  }
+}

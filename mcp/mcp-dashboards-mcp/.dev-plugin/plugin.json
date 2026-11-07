@@ -1,0 +1,14 @@
+{
+  "name": "mcp-dashboards-mcp",
+  "description": "45+ interactive charts, dashboards, flowcharts, and KPIs inside any AI conversation",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp-dashboards": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-dashboards@2.4.0"
+      ]
+    }
+  }
+}

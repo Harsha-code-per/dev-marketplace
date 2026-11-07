@@ -1,0 +1,14 @@
+{
+  "name": "thoughtdag-mcp",
+  "description": "Search local AI conversations by file or phrase and recall source turns. Four read-only tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "thoughtdag": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "thoughtdag@0.2.2"
+      ]
+    }
+  }
+}

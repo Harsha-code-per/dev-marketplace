@@ -1,0 +1,11 @@
+{
+  "name": "korean-law-mcp",
+  "description": "Korean law: statutes, precedents, ordinances, treaties and citation verification (법제처 API).",
+  "license": "MIT",
+  "mcpServers": {
+    "korean-law-mcp": {
+      "type": "http",
+      "url": "https://mcp.gomdori.app/law"
+    }
+  }
+}

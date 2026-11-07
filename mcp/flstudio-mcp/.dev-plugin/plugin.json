@@ -1,0 +1,13 @@
+{
+  "name": "flstudio-mcp",
+  "description": "Control FL Studio with Claude: in-DAW mixing, diagnosis, routing, and composition.",
+  "license": "MIT",
+  "mcpServers": {
+    "flstudio-mcp": {
+      "command": "uvx",
+      "args": [
+        "fl-studio-mcp==1.0.0"
+      ]
+    }
+  }
+}

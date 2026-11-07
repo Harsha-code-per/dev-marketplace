@@ -1,0 +1,13 @@
+{
+  "name": "zotero-mcp-kujenga",
+  "description": "Search your Zotero library, retrieve item metadata, and read full text from AI assistants.",
+  "license": "MIT",
+  "mcpServers": {
+    "zotero-mcp": {
+      "command": "uvx",
+      "args": [
+        "zotero-mcp==0.3.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "paperbanana-cn-mcp",
+  "description": "Generate and evaluate academic diagrams and plots with independent model connections.",
+  "license": "MIT",
+  "mcpServers": {
+    "paperbanana-cn": {
+      "command": "uvx",
+      "args": [
+        "paperbanana-cn==2.0.1"
+      ]
+    }
+  }
+}

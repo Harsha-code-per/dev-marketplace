@@ -1,0 +1,13 @@
+{
+  "name": "reversecore-mcp",
+  "description": "Security-first MCP server for reverse engineering, malware analysis, forensics, and SAST.",
+  "license": "MIT",
+  "mcpServers": {
+    "reversecore-mcp": {
+      "command": "uvx",
+      "args": [
+        "reversecore-mcp==3.0.5"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pdfmux-mcp",
+  "description": "PDF-to-Markdown extraction that audits its own output and flags any extractor's silent drops.",
+  "license": "MIT",
+  "mcpServers": {
+    "pdfmux": {
+      "command": "uvx",
+      "args": [
+        "pdfmux==1.8.7"
+      ]
+    }
+  }
+}

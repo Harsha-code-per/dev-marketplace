@@ -1,0 +1,14 @@
+{
+  "name": "gitwand-mcp",
+  "description": "Auto-resolves Git merge conflicts so agents only touch the complex hunks.",
+  "license": "MIT",
+  "mcpServers": {
+    "gitwand": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@gitwand/mcp@3.12.5"
+      ]
+    }
+  }
+}

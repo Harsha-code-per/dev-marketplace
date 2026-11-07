@@ -1,0 +1,13 @@
+{
+  "name": "fabricator-panel-mcp",
+  "description": "Manage and diagnose Minecraft servers through the self-hosted Fabricator panel.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "fabricator-panel-mcp": {
+      "command": "uvx",
+      "args": [
+        "fabricator-panel-mcp==0.1.0"
+      ]
+    }
+  }
+}

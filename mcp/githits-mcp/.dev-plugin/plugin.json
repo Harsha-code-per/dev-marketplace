@@ -1,0 +1,14 @@
+{
+  "name": "githits-mcp",
+  "description": "Search public open-source code, documentation, metadata, vulnerabilities, changelogs, and examples.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "githits": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "githits@0.40.1"
+      ]
+    }
+  }
+}

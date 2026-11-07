@@ -1,0 +1,14 @@
+{
+  "name": "gemini-mcp",
+  "description": "Gemini 3 MCP server with 30+ tools: images, video, research, TTS, code exec & CLI",
+  "license": "MIT",
+  "mcpServers": {
+    "gemini-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@rlabs-inc/gemini-mcp@0.7.1"
+      ]
+    }
+  }
+}

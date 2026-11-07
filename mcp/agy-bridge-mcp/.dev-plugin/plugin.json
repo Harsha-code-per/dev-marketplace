@@ -1,0 +1,14 @@
+{
+  "name": "agy-bridge-mcp",
+  "description": "Delegate heavy tasks from Claude Code to the Antigravity CLI (Gemini) with quota-aware failover.",
+  "license": "MIT",
+  "mcpServers": {
+    "agy-bridge": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "agy-bridge@0.3.1"
+      ]
+    }
+  }
+}

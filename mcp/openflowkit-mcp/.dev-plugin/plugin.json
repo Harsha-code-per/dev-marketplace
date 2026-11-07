@@ -1,0 +1,14 @@
+{
+  "name": "openflowkit-mcp",
+  "description": "Architecture diagrams for your agent: draw on the live OpenFlowKit canvas or edit diagram files.",
+  "license": "MIT",
+  "mcpServers": {
+    "openflowkit-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "openflowkit@0.2.4"
+      ]
+    }
+  }
+}

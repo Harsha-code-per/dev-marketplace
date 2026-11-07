@@ -1,0 +1,14 @@
+{
+  "name": "google-map-mcp",
+  "description": "18 Google Maps tools for AI agents — geocode, search, directions, weather, and more.",
+  "license": "MIT",
+  "mcpServers": {
+    "google-map": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@cablate/mcp-google-map@0.0.69"
+      ]
+    }
+  }
+}

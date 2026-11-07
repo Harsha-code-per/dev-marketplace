@@ -1,0 +1,11 @@
+{
+  "name": "gosqlx-mcp",
+  "description": "SQL validation, formatting, parsing, metadata extraction, linting, and security analysis.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "gosqlx": {
+      "type": "http",
+      "url": "https://mcp.gosqlx.dev/mcp"
+    }
+  }
+}

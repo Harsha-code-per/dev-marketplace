@@ -1,0 +1,13 @@
+{
+  "name": "polymarket-paper-trader-mcp",
+  "description": "Polymarket paper trading for AI agents: $10k paper money, real order books, official fees.",
+  "license": "MIT",
+  "mcpServers": {
+    "polymarket-paper-trader": {
+      "command": "uvx",
+      "args": [
+        "polymarket-paper-trader==0.4.13"
+      ]
+    }
+  }
+}

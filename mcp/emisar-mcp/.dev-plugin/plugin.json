@@ -1,0 +1,11 @@
+{
+  "name": "emisar-mcp",
+  "description": "Let AI operate servers without SSH. Choose actions, approve risky changes, and audit every step.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "emisar": {
+      "type": "http",
+      "url": "https://emisar.dev/api/mcp/rpc"
+    }
+  }
+}

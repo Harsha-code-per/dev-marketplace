@@ -1,0 +1,14 @@
+{
+  "name": "linkedapi-mcp",
+  "description": "Manage LinkedIn messages, connections, posts, and profile data through Linked API.",
+  "license": "MIT",
+  "mcpServers": {
+    "linkedapi-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@linkedapi/mcp@2.3.21"
+      ]
+    }
+  }
+}

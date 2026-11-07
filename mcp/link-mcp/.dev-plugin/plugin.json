@@ -1,0 +1,13 @@
+{
+  "name": "link-mcp",
+  "description": "Local personal memory for agents as MCP tools — remember, recall, search, context, graph traversal.",
+  "license": "MIT",
+  "mcpServers": {
+    "link": {
+      "command": "uvx",
+      "args": [
+        "link-mcp==5.0.0"
+      ]
+    }
+  }
+}

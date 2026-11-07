@@ -1,0 +1,14 @@
+{
+  "name": "docsmint-mcp",
+  "description": "Cloud or self-hosted knowledge for AI agents: hybrid search, reranking, GraphRAG, scoped MCP tools.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "docsmint": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@hiai-gg/docsmint@2.1.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "imap-mcp-server-mcp",
+  "description": "IMAP/SMTP MCP server to search, read, organize, send, reply & forward email for AI assistants",
+  "license": "MIT",
+  "mcpServers": {
+    "imap-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "imap-mcp-server@2.2.0"
+      ]
+    }
+  }
+}

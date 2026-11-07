@@ -1,0 +1,16 @@
+{
+  "name": "agent-reliability-analyzer-mcp",
+  "description": "Find and fix reliability and safety gaps in agent code, across nine agent SDKs.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agent-reliability-analyzer": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/trustabl/agent-reliability-analyzer:0.1.15"
+      ]
+    }
+  }
+}

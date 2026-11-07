@@ -1,0 +1,13 @@
+{
+  "name": "code-graph-rag-mcp",
+  "description": "Knowledge-graph RAG for multi-language codebases: index, query and edit code in natural language.",
+  "license": "MIT",
+  "mcpServers": {
+    "code-graph-rag": {
+      "command": "uvx",
+      "args": [
+        "code-graph-rag==0.5.0"
+      ]
+    }
+  }
+}

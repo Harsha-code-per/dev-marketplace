@@ -1,0 +1,14 @@
+{
+  "name": "mcp-funnel-mcp",
+  "description": "MCP proxy that aggregates multiple servers with tool filtering and customization",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-funnel": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-funnel@0.0.6"
+      ]
+    }
+  }
+}

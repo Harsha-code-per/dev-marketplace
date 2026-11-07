@@ -1,0 +1,14 @@
+{
+  "name": "mcp-3",
+  "description": "3D & AR SDK for Android, iOS, Web — API docs, samples, validation, and code generation.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "sceneview-mcp@3.4.7"
+      ]
+    }
+  }
+}

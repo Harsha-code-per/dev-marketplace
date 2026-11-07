@@ -1,0 +1,14 @@
+{
+  "name": "xenon-widgets-mcp",
+  "description": "Build widgets for the Xenon dashboard: SDK reference, install, runtime errors, tile screenshots.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "xenon-widgets": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "xenon-mcp@1.0.0"
+      ]
+    }
+  }
+}

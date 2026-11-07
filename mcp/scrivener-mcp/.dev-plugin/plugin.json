@@ -1,0 +1,14 @@
+{
+  "name": "scrivener-mcp",
+  "description": "MCP server for Scrivener: read, write, analyze, and search your manuscripts with AI assistants.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "scrivener-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "scrivener-mcp@0.12.0"
+      ]
+    }
+  }
+}

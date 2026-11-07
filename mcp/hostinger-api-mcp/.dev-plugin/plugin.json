@@ -1,0 +1,14 @@
+{
+  "name": "hostinger-api-mcp",
+  "description": "MCP server for Hostinger API",
+  "license": "MIT",
+  "mcpServers": {
+    "hostinger-api-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@hostinger/mcp@3.31.0"
+      ]
+    }
+  }
+}

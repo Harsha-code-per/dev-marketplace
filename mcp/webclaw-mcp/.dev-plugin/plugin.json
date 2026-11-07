@@ -1,0 +1,14 @@
+{
+  "name": "webclaw-mcp",
+  "description": "Web scraping, search, crawling, structured extraction and research for AI agents.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "webclaw": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@webclaw/mcp@0.7.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "autopilot-jobhunt-mcp",
+  "description": "Agentic job hunt: scan careers pages, score against your resume, draft applications. Never applies.",
+  "license": "MIT",
+  "mcpServers": {
+    "autopilot-jobhunt": {
+      "command": "uvx",
+      "args": [
+        "autopilot-jobhunt==0.4.3"
+      ]
+    }
+  }
+}

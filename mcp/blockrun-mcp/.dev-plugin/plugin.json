@@ -1,0 +1,14 @@
+{
+  "name": "blockrun-mcp",
+  "description": "Web search, deep research, prediction markets & crypto data for AI agents. Pay per call via x402.",
+  "license": "MIT",
+  "mcpServers": {
+    "blockrun-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@blockrun/mcp@0.55.7"
+      ]
+    }
+  }
+}

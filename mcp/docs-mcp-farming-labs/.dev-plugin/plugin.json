@@ -1,0 +1,11 @@
+{
+  "name": "docs-mcp-farming-labs",
+  "description": "Search and read the Farm.js docs: pages, sections, code examples and config options.",
+  "license": "MIT",
+  "mcpServers": {
+    "docs": {
+      "type": "http",
+      "url": "https://mcp.farmjs.dev/mcp"
+    }
+  }
+}

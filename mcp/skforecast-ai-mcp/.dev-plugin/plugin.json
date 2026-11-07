@@ -1,0 +1,13 @@
+{
+  "name": "skforecast-ai-mcp",
+  "description": "Forecast time series in CSV files: deterministic skforecast workflows and the script that ran.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "skforecast-ai": {
+      "command": "uvx",
+      "args": [
+        "skforecast-ai-mcp==0.4.2"
+      ]
+    }
+  }
+}

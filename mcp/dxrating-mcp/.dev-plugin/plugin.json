@@ -1,0 +1,11 @@
+{
+  "name": "dxrating-mcp",
+  "description": "maimai DX songs, charts and internal levels, and rating and Best 50 calculators, from DXRating",
+  "license": "MIT",
+  "mcpServers": {
+    "dxrating": {
+      "type": "http",
+      "url": "https://mcp.dxrating.net/mcp"
+    }
+  }
+}

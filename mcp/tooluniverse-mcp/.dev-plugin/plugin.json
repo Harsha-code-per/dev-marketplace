@@ -1,0 +1,13 @@
+{
+  "name": "tooluniverse-mcp",
+  "description": "2,700+ scientific tools for AI scientists: life science, research, literature, and more.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "tooluniverse": {
+      "command": "uvx",
+      "args": [
+        "tooluniverse==1.5.9"
+      ]
+    }
+  }
+}

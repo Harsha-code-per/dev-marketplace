@@ -1,0 +1,13 @@
+{
+  "name": "flameox-mcp",
+  "description": "Bounded local runtime evidence from explicit artifacts and typed direct targets.",
+  "license": "MIT",
+  "mcpServers": {
+    "flameox": {
+      "command": "uvx",
+      "args": [
+        "flameox==0.2.9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mcp-server-mcp-transloadit",
+  "description": "Process video, audio, images and documents with Transloadit Robots. Connect by URL with OAuth.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@transloadit/mcp-server@0.8.6"
+      ]
+    }
+  }
+}

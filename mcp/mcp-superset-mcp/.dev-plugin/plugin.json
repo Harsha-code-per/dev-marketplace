@@ -1,0 +1,13 @@
+{
+  "name": "mcp-superset-mcp",
+  "description": "Apache Superset MCP server — 135+ tools for dashboards, charts, datasets, SQL Lab, and security",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-superset": {
+      "command": "uvx",
+      "args": [
+        "mcp-superset==0.2.3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "kibana-mcp",
+  "description": "Kibana MCP Server with dynamic API discovery and comprehensive Elastic Stack integration",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "kibana": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tocharianou/mcp-server-kibana@0.11.1"
+      ]
+    }
+  }
+}

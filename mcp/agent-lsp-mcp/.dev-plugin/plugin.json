@@ -1,0 +1,14 @@
+{
+  "name": "agent-lsp-mcp",
+  "description": "Language servers as 66 code-intelligence tools for AI agents, CI-verified on 32 languages.",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-lsp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@blackwell-systems/agent-lsp@0.24.2"
+      ]
+    }
+  }
+}

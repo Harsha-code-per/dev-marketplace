@@ -1,0 +1,11 @@
+{
+  "name": "orbit-mcp",
+  "description": "Task management for people and AI agents, with scoped OAuth access to issues, projects, and docs.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "orbit": {
+      "type": "http",
+      "url": "https://orbit.noveum.ai/mcp"
+    }
+  }
+}

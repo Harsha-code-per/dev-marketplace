@@ -1,0 +1,13 @@
+{
+  "name": "mcp-juridico-brasil-mcp",
+  "description": "Processos judiciais brasileiros via DataJud CNJ: consulta, andamentos, resumo e prazos em dias úteis",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-juridico-brasil": {
+      "command": "uvx",
+      "args": [
+        "mcp-juridico-brasil==0.1.0"
+      ]
+    }
+  }
+}

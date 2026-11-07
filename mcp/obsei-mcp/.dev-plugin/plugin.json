@@ -1,0 +1,13 @@
+{
+  "name": "obsei-mcp",
+  "description": "Self-hosted customer feedback with PII stripped at ingest: search, stats and themes with citations.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "obsei": {
+      "command": "uvx",
+      "args": [
+        "obsei==1.1.1"
+      ]
+    }
+  }
+}

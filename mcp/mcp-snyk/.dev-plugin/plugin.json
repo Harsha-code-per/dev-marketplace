@@ -1,0 +1,14 @@
+{
+  "name": "mcp-snyk",
+  "description": "Easily find and fix security issues in your applications leveraging Snyk platform capabilities.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "snyk@1.1304.2"
+      ]
+    }
+  }
+}

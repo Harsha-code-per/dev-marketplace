@@ -1,0 +1,14 @@
+{
+  "name": "rendercheck-mcp",
+  "description": "Check from a screenshot that text is really visible to users. Local, offline OCR.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "rendercheck": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@rendercheck/sdk@0.6.0"
+      ]
+    }
+  }
+}

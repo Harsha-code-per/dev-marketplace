@@ -1,0 +1,14 @@
+{
+  "name": "gitwarren-mcp",
+  "description": "Code review on your own machine, for you and your coding agent. Nothing leaves your computer.",
+  "license": "GPL-3.0",
+  "mcpServers": {
+    "gitwarren": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "gitwarren@1.0.1"
+      ]
+    }
+  }
+}

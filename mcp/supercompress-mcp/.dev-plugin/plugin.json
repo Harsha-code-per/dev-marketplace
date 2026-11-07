@@ -1,0 +1,14 @@
+{
+  "name": "supercompress-mcp",
+  "description": "Compress coding-agent context ~64%. Hosted Neural Keep MCP for Cursor/Claude/Codex.",
+  "license": "MIT",
+  "mcpServers": {
+    "supercompress": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "supercompress-proxy@0.5.38"
+      ]
+    }
+  }
+}

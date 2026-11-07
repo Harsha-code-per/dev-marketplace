@@ -1,0 +1,14 @@
+{
+  "name": "viberank-mcp",
+  "description": "Submit your AI coding usage (Claude Code, Codex, Gemini CLI) to viberank and read the leaderboard.",
+  "license": "MIT",
+  "mcpServers": {
+    "viberank": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "viberank-mcp@1.2.0"
+      ]
+    }
+  }
+}

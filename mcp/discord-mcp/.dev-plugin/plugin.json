@@ -1,0 +1,14 @@
+{
+  "name": "discord-mcp",
+  "description": "Caller-owned Discord operations for AI agents with 222 typed tools and verifiable guild builds.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "discord-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@discord-mcp/cli@0.32.1"
+      ]
+    }
+  }
+}

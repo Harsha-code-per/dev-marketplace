@@ -1,0 +1,14 @@
+{
+  "name": "ae-mcp",
+  "description": "A stdio connector for the local ae-mcp After Effects panel; install the AE extension separately.",
+  "license": "MIT",
+  "mcpServers": {
+    "ae-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ae-mcp-jkdg@0.11.0"
+      ]
+    }
+  }
+}

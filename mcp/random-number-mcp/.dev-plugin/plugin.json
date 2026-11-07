@@ -1,0 +1,13 @@
+{
+  "name": "random-number-mcp",
+  "description": "Essential random number generation utilities from the Python standard library",
+  "license": "MIT",
+  "mcpServers": {
+    "random-number-mcp": {
+      "command": "uvx",
+      "args": [
+        "random-number-mcp==0.1.2"
+      ]
+    }
+  }
+}

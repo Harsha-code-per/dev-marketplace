@@ -1,0 +1,11 @@
+{
+  "name": "superlog-mcp",
+  "description": "Open-source agent that observes and fixes your application. Query logs, traces, metrics, incidents.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "superlog": {
+      "type": "http",
+      "url": "https://api.superlog.sh/mcp"
+    }
+  }
+}

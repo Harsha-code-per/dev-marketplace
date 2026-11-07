@@ -1,0 +1,14 @@
+{
+  "name": "apple-health-mcp",
+  "description": "Local-first Apple Health MCP server for questions about your sleep, workouts and heart data.",
+  "license": "MIT",
+  "mcpServers": {
+    "apple-health-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@neiltron/apple-health-mcp@1.4.5"
+      ]
+    }
+  }
+}

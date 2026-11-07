@@ -1,0 +1,14 @@
+{
+  "name": "hotelbooking-mcp",
+  "description": "RollingGo Hotel Booking MCP Server (国内中文版)",
+  "license": "MIT",
+  "mcpServers": {
+    "hotelbooking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "rollinggo-hotelbooking@1.0.0"
+      ]
+    }
+  }
+}

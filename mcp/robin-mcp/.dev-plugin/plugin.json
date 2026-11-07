@@ -1,0 +1,16 @@
+{
+  "name": "robin-mcp",
+  "description": "Dark web OSINT over Tor: search onion engines, scrape pages, report with your own model.",
+  "license": "MIT",
+  "mcpServers": {
+    "robin": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/apurvsg/robin:v3.1"
+      ]
+    }
+  }
+}

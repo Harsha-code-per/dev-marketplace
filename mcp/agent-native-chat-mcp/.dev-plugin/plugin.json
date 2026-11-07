@@ -1,0 +1,11 @@
+{
+  "name": "agent-native-chat-mcp",
+  "description": "Minimal chat-first app with durable threads, actions, and the app-agent loop",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-native-chat": {
+      "type": "http",
+      "url": "https://starter.agent-native.com/mcp"
+    }
+  }
+}

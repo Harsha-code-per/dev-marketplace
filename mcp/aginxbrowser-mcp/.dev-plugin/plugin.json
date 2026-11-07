@@ -1,0 +1,11 @@
+{
+  "name": "aginxbrowser-mcp",
+  "description": "Stealth web browser for agents: search, fetch, click, download and type in persistent MCP sessions.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "aginxbrowser": {
+      "type": "http",
+      "url": "https://browser.aginx.net/mcp"
+    }
+  }
+}

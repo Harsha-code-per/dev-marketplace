@@ -1,0 +1,14 @@
+{
+  "name": "mindwtr-mcp",
+  "description": "Task automation via SQLite, desktop Local API, or Mindwtr Cloud; read-only by default.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mindwtr": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mindwtr-mcp@1.1.14"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-openathleteorg",
+  "description": "Endurance training: activities, load, zones, and workouts sent to Garmin, COROS and Suunto watches",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://api.openathlete.org/mcp"
+    }
+  }
+}

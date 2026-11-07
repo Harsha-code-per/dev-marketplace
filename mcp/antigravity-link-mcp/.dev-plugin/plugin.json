@@ -1,0 +1,14 @@
+{
+  "name": "antigravity-link-mcp",
+  "description": "MCP server and OpenAPI-backed mobile companion for controlling Antigravity IDE sessions",
+  "license": "MIT",
+  "mcpServers": {
+    "antigravity-link": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "antigravity-link-extension@1.0.13"
+      ]
+    }
+  }
+}

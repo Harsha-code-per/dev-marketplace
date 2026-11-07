@@ -1,0 +1,14 @@
+{
+  "name": "tailwindshades-mcp",
+  "description": "Tailwind CSS palettes (50-950) from any color, the closest Tailwind color, and Tailwind's defaults",
+  "license": "MIT",
+  "mcpServers": {
+    "tailwindshades": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "tailwindshades-mcp@1.6.0"
+      ]
+    }
+  }
+}

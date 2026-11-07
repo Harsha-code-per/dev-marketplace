@@ -1,0 +1,13 @@
+{
+  "name": "flyto-core-mcp",
+  "description": "Execution engine for AI agents. 412 modules: browser, file, Docker, data, crypto.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "flyto-core": {
+      "command": "uvx",
+      "args": [
+        "flyto-core==2.12.6"
+      ]
+    }
+  }
+}

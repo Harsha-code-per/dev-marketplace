@@ -1,0 +1,14 @@
+{
+  "name": "yazio-mcp",
+  "description": "MCP server for accessing Yazio user & nutrition data (unofficial)",
+  "license": "MIT",
+  "mcpServers": {
+    "yazio-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "yazio-mcp@0.0.15"
+      ]
+    }
+  }
+}

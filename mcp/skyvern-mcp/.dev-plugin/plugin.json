@@ -1,0 +1,11 @@
+{
+  "name": "skyvern-mcp",
+  "description": "AI-powered browser automation — navigate, click, fill forms, and extract data from any website.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "skyvern": {
+      "type": "http",
+      "url": "https://api.skyvern.com/mcp/"
+    }
+  }
+}

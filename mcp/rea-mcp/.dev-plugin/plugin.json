@@ -1,0 +1,14 @@
+{
+  "name": "rea-mcp",
+  "description": "Reverse engineer anything from your terminal or agent with one CLI and MCP server.",
+  "license": "MIT",
+  "mcpServers": {
+    "rea": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "rea-agents@6.8.0"
+      ]
+    }
+  }
+}

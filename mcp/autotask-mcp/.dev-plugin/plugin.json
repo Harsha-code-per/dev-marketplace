@@ -1,0 +1,22 @@
+{
+  "name": "autotask-mcp",
+  "description": "MCP server for Kaseya Autotask PSA — companies, tickets, projects, time entries, and more.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "autotask-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "AUTOTASK_USERNAME",
+        "-e",
+        "AUTOTASK_SECRET",
+        "-e",
+        "AUTOTASK_INTEGRATION_CODE",
+        "ghcr.io/wyre-ai/autotask-mcp:v2.39.9"
+      ]
+    }
+  }
+}

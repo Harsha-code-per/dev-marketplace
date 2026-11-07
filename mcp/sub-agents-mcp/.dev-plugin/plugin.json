@@ -1,0 +1,14 @@
+{
+  "name": "sub-agents-mcp",
+  "description": "MCP server for delegating tasks to specialized AI sub-agents across coding tools",
+  "license": "MIT",
+  "mcpServers": {
+    "sub-agents-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "sub-agents-mcp@0.15.1"
+      ]
+    }
+  }
+}

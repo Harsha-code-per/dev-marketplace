@@ -1,0 +1,14 @@
+{
+  "name": "search-console-mcp",
+  "description": "Google Search Console + Bing + GA4 + AdSense — unified SEO intelligence for AI agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "search-console-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "search-console-mcp@2.1.4"
+      ]
+    }
+  }
+}

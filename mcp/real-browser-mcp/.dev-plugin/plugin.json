@@ -1,0 +1,14 @@
+{
+  "name": "real-browser-mcp",
+  "description": "MCP server + Chrome extension for AI browser control with real sessions.",
+  "license": "MIT",
+  "mcpServers": {
+    "real-browser": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "real-browser-mcp@1.2.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "searxncrawl-mcp",
+  "description": "Web search via SearXNG and/or You.com, plus clean Markdown crawling via Crawl4AI. Self-hosted.",
+  "license": "MIT",
+  "mcpServers": {
+    "searxncrawl": {
+      "command": "uvx",
+      "args": [
+        "searxncrawl==0.33.1"
+      ]
+    }
+  }
+}

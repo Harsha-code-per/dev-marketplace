@@ -1,0 +1,13 @@
+{
+  "name": "pepe-mcp",
+  "description": "Load-test a URL, ping it by phase, ramp to find the capacity, compare runs: JSON reports, guardrails",
+  "license": "MIT",
+  "mcpServers": {
+    "pepe": {
+      "command": "uvx",
+      "args": [
+        "pepe-http==0.57.0"
+      ]
+    }
+  }
+}

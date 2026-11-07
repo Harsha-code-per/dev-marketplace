@@ -1,0 +1,13 @@
+{
+  "name": "perenna-mcp",
+  "description": "A lightweight, Git-backed permanent memory for AI agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "perenna": {
+      "command": "uvx",
+      "args": [
+        "perenna==0.4.1"
+      ]
+    }
+  }
+}

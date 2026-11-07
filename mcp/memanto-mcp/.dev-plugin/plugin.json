@@ -1,0 +1,13 @@
+{
+  "name": "memanto-mcp",
+  "description": "MCP server for Memanto - persistent semantic memory for any MCP-compatible agent",
+  "license": "MIT",
+  "mcpServers": {
+    "memanto": {
+      "command": "uvx",
+      "args": [
+        "memanto-mcp==0.1.5"
+      ]
+    }
+  }
+}

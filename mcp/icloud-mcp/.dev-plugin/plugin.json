@@ -1,0 +1,14 @@
+{
+  "name": "icloud-mcp",
+  "description": "Apple Mail, Calendar, Contacts, Reminders, Notes, Messages and Safari via AppleScript or iCloud",
+  "license": "MIT",
+  "mcpServers": {
+    "icloud-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-icloud@2.2.2"
+      ]
+    }
+  }
+}

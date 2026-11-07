@@ -1,0 +1,11 @@
+{
+  "name": "mcp-medplum",
+  "description": "Securely access and manage FHIR healthcare data stored in Medplum.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://api.medplum.com/mcp/stream"
+    }
+  }
+}

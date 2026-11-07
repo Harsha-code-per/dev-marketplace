@@ -1,0 +1,11 @@
+{
+  "name": "tickdb-market-data-mcp",
+  "description": "Real-time & historical market data: forex, stocks, crypto, indices, metals, K-line, quotes",
+  "license": "MIT",
+  "mcpServers": {
+    "tickdb-market-data": {
+      "type": "http",
+      "url": "https://mcp.tickdb.ai/"
+    }
+  }
+}

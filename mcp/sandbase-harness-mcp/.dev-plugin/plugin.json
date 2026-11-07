@@ -1,0 +1,18 @@
+{
+  "name": "sandbase-harness-mcp",
+  "description": "Stdio MCP bridge for SandBase Harness agents, sessions, turns, artifacts, and cancellation.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "sandbase-harness": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "MANAGED_AGENTS_URL",
+        "ghcr.io/sandbaseai/sandbase-harness-mcp:0.3.8"
+      ]
+    }
+  }
+}

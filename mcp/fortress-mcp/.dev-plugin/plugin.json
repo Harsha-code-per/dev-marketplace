@@ -1,0 +1,13 @@
+{
+  "name": "fortress-mcp",
+  "description": "Stealth browser for AI agents: fetch pages behind Cloudflare/DataDome/CAPTCHA, extract clean data.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "fortress": {
+      "command": "uvx",
+      "args": [
+        "tilion==0.1.3"
+      ]
+    }
+  }
+}

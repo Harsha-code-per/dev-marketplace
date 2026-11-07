@@ -1,0 +1,11 @@
+{
+  "name": "liquid-composer-mcp",
+  "description": "Check Liquid Glass app icon recipes and open them in the browser editor.",
+  "license": "MIT",
+  "mcpServers": {
+    "liquid-composer": {
+      "type": "http",
+      "url": "https://liquid-composer.vercel.app/mcp"
+    }
+  }
+}

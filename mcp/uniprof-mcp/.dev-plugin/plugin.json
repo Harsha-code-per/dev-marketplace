@@ -1,0 +1,14 @@
+{
+  "name": "uniprof-mcp",
+  "description": "Universal CPU profiler designed for humans and AI agents",
+  "license": "MIT",
+  "mcpServers": {
+    "uniprof": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "uniprof@0.3.4"
+      ]
+    }
+  }
+}

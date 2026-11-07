@@ -1,0 +1,11 @@
+{
+  "name": "aldine-mcp",
+  "description": "Self-hosted collaborative LaTeX editor: read and edit files, typeset, get the errors and the PDF.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "aldine": {
+      "type": "http",
+      "url": "https://demo.aldine.dev/mcp"
+    }
+  }
+}

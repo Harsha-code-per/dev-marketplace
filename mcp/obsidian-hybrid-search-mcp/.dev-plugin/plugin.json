@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-hybrid-search-mcp",
+  "description": "Search Obsidian vaults with hybrid full-text, fuzzy, semantic, and graph retrieval.",
+  "license": "MIT",
+  "mcpServers": {
+    "obsidian-hybrid-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "obsidian-hybrid-search@0.17.4"
+      ]
+    }
+  }
+}

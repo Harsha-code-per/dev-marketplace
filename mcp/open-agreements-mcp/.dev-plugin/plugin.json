@@ -1,0 +1,14 @@
+{
+  "name": "open-agreements-mcp",
+  "description": "Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment) as DOCX files.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "open-agreements": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@open-agreements/contract-templates-mcp@0.10.2"
+      ]
+    }
+  }
+}

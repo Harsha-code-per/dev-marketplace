@@ -1,0 +1,14 @@
+{
+  "name": "kip-mcp",
+  "description": "Knowledge Graphs to enable memory persistence, knowledge evolution, explainable interaction.",
+  "license": "MIT",
+  "mcpServers": {
+    "kip": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ldclabs/kip-mcp-server@1.0.1"
+      ]
+    }
+  }
+}

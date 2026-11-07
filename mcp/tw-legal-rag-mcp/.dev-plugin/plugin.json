@@ -1,0 +1,11 @@
+{
+  "name": "tw-legal-rag-mcp",
+  "description": "Taiwan law MCP server: 22M court judgments, statutes, agency rulings, with citation checks",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "tw-legal-rag": {
+      "type": "http",
+      "url": "https://tlr.dr-legal.com.tw/mcp"
+    }
+  }
+}

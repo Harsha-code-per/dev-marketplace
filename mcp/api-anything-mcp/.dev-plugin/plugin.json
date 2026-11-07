@@ -1,0 +1,14 @@
+{
+  "name": "api-anything-mcp",
+  "description": "Call websites as APIs: a shared catalog of operations learned from each site's own requests.",
+  "license": "MIT",
+  "mcpServers": {
+    "api-anything": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "api-anything@0.4.0"
+      ]
+    }
+  }
+}

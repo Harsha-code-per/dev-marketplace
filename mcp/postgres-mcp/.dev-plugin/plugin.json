@@ -1,0 +1,16 @@
+{
+  "name": "postgres-mcp",
+  "description": "Enterprise PostgreSQL MCP server with NL queries, hybrid search (pgvector+BM25), and web UI",
+  "license": "PostgreSQL",
+  "mcpServers": {
+    "postgres-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/pgedge/postgres-mcp:latest"
+      ]
+    }
+  }
+}

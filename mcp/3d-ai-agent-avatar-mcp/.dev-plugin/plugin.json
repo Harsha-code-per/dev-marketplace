@@ -1,0 +1,14 @@
+{
+  "name": "3d-ai-agent-avatar-mcp",
+  "description": "3D AI Agent Avatar — render any GLB, give it a Solana wallet, a voice, and pump.fun powers.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "3d-ai-agent-avatar": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@three-ws/avatar-agent@1.2.3"
+      ]
+    }
+  }
+}

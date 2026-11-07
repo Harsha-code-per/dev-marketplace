@@ -1,0 +1,11 @@
+{
+  "name": "viberaven-guides-mcp",
+  "description": "Check Supabase migrations for RLS and grant gaps; fixes for Supabase, Vercel, Stripe errors.",
+  "license": "MIT",
+  "mcpServers": {
+    "viberaven-guides": {
+      "type": "http",
+      "url": "https://viberaven.dev/mcp"
+    }
+  }
+}

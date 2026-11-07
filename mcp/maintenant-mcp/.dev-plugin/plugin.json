@@ -1,0 +1,16 @@
+{
+  "name": "maintenant-mcp",
+  "description": "Docker monitoring for AI agents: logs, history, alerts. Can ack alerts; never touches containers.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "maintenant": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/kolapsis/maintenant:1.11.0"
+      ]
+    }
+  }
+}

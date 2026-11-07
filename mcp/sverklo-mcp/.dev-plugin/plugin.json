@@ -1,0 +1,14 @@
+{
+  "name": "sverklo-mcp",
+  "description": "Local-first MCP code intelligence: 37 tools — hybrid search, blast-radius, diff review, memory.",
+  "license": "MIT",
+  "mcpServers": {
+    "sverklo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "sverklo@0.19.0"
+      ]
+    }
+  }
+}

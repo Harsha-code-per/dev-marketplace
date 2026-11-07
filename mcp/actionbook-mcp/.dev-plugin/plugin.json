@@ -1,0 +1,11 @@
+{
+  "name": "actionbook-mcp",
+  "description": "Let your AI agent operate any website through a real, logged-in browser session.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "actionbook": {
+      "type": "http",
+      "url": "https://edge.actionbook.app/mcp"
+    }
+  }
+}

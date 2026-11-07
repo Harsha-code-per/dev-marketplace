@@ -1,0 +1,11 @@
+{
+  "name": "kody-mcp",
+  "description": "Your agents' cloud for individuals and teams. Search, execute, packages, jobs, and credentials.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "kody": {
+      "type": "http",
+      "url": "https://kody.codes/mcp"
+    }
+  }
+}

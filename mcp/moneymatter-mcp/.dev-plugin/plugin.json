@@ -1,0 +1,11 @@
+{
+  "name": "moneymatter-mcp",
+  "description": "Personal finance tracker: accounts, transactions, budgets, investments and analytics over OAuth.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "moneymatter": {
+      "type": "http",
+      "url": "https://mcp.moneymatter.app/mcp"
+    }
+  }
+}

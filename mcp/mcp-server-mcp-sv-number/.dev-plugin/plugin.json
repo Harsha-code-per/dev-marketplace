@@ -1,0 +1,14 @@
+{
+  "name": "mcp-server-mcp-sv-number",
+  "description": "Phone numbers for AI agents: order a private number, read the SMS verification code, hand it back.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "sv-number-mcp@1.0.2"
+      ]
+    }
+  }
+}

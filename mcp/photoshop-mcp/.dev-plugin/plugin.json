@@ -1,0 +1,14 @@
+{
+  "name": "photoshop-mcp",
+  "description": "MCP server for Adobe Photoshop — 128 tools (generative AI + recipes), standalone web UI. Control Ph…",
+  "license": "MIT",
+  "mcpServers": {
+    "photoshop-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@alisaitteke/photoshop-mcp@1.7.37"
+      ]
+    }
+  }
+}

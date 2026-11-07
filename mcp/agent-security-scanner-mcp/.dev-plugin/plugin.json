@@ -1,0 +1,14 @@
+{
+  "name": "agent-security-scanner-mcp",
+  "description": "Security layer for AI agents: blocks prompt injection, detects fake packages, scans vulnerabilities.",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-security-scanner-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "agent-security-scanner-mcp@2.0.1"
+      ]
+    }
+  }
+}

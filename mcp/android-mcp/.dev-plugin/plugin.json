@@ -1,0 +1,14 @@
+{
+  "name": "android-mcp",
+  "description": "Control Android devices and emulators via ADB — screenshots, UI automation, and logcat.",
+  "license": "MIT",
+  "mcpServers": {
+    "android": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "android-mcp-server@1.2.1"
+      ]
+    }
+  }
+}

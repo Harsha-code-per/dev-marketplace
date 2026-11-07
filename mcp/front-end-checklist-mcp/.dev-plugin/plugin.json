@@ -1,0 +1,11 @@
+{
+  "name": "front-end-checklist-mcp",
+  "description": "Review frontend code and live pages against 386 quality-gated web development rules.",
+  "license": "MIT",
+  "mcpServers": {
+    "front-end-checklist": {
+      "type": "http",
+      "url": "https://mcp.frontendchecklist.io"
+    }
+  }
+}

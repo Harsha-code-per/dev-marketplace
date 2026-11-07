@@ -1,0 +1,14 @@
+{
+  "name": "google-news-mcp",
+  "description": "Search Google News, get top stories and read articles. No API key or headless browser.",
+  "license": "MIT",
+  "mcpServers": {
+    "google-news": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "google-news-scraper-mcp@0.1.2"
+      ]
+    }
+  }
+}

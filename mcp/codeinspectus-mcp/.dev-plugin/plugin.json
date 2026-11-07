@@ -1,0 +1,14 @@
+{
+  "name": "codeinspectus-mcp",
+  "description": "Local-first MCP security scanner and CLI for AI-generated applications.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "codeinspectus": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "codeinspectus@4.0.0"
+      ]
+    }
+  }
+}

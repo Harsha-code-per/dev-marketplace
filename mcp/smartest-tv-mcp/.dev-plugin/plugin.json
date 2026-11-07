@@ -1,0 +1,13 @@
+{
+  "name": "smartest-tv-mcp",
+  "description": "Control any smart TV with natural language. Resolve Netflix/YouTube/Spotify and deep-link.",
+  "license": "MIT",
+  "mcpServers": {
+    "smartest-tv": {
+      "command": "uvx",
+      "args": [
+        "stv==0.4.1"
+      ]
+    }
+  }
+}

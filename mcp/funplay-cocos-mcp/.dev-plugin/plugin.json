@@ -1,0 +1,14 @@
+{
+  "name": "funplay-cocos-mcp",
+  "description": "stdio bridge for the local Cocos Creator Editor MCP server from FunplayAI/funplay-cocos-mcp.",
+  "license": "MIT",
+  "mcpServers": {
+    "funplay-cocos-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "funplay-cocos-mcp@0.7.0"
+      ]
+    }
+  }
+}

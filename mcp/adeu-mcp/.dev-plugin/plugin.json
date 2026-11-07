@@ -1,0 +1,14 @@
+{
+  "name": "adeu-mcp",
+  "description": "Automated DOCX Redlining Engine",
+  "license": "MIT",
+  "mcpServers": {
+    "adeu": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@adeu/mcp-server@1.7.1"
+      ]
+    }
+  }
+}

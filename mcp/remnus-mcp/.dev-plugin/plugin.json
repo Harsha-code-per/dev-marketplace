@@ -1,0 +1,11 @@
+{
+  "name": "remnus-mcp",
+  "description": "MCP-native open-source Notion alternative: read & write pages, databases and kanban boards.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "remnus": {
+      "type": "http",
+      "url": "https://www.remnus.com/api/mcp"
+    }
+  }
+}

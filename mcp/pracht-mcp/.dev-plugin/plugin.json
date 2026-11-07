@@ -1,0 +1,14 @@
+{
+  "name": "pracht-mcp",
+  "description": "Inspect, verify, diff, and scaffold a pracht app's routes, API, and capabilities from its app graph.",
+  "license": "MIT",
+  "mcpServers": {
+    "pracht": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pracht/cli@1.17.0"
+      ]
+    }
+  }
+}

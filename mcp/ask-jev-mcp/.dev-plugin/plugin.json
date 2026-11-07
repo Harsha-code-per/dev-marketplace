@@ -1,0 +1,11 @@
+{
+  "name": "ask-jev-mcp",
+  "description": "Evaluate state with typed choice, score, and probability questions.",
+  "license": "MIT",
+  "mcpServers": {
+    "ask-jev": {
+      "type": "http",
+      "url": "https://gen.pollinations.ai/mcp/ask-jev"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "korea-stock-mcp",
+  "description": "MCP server for korea stock",
+  "license": "ISC",
+  "mcpServers": {
+    "korea-stock-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "korea-stock-mcp@1.1.4"
+      ]
+    }
+  }
+}

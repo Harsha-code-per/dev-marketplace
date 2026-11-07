@@ -1,0 +1,14 @@
+{
+  "name": "pageindex-mcp",
+  "description": "Reasoning-based RAG system for chatting with long PDFs. Supports local and online files.",
+  "license": "MIT",
+  "mcpServers": {
+    "pageindex-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pageindex/mcp@1.9.0"
+      ]
+    }
+  }
+}

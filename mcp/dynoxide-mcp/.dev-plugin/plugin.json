@@ -1,0 +1,14 @@
+{
+  "name": "dynoxide-mcp",
+  "description": "A DynamoDB emulator with an MCP server exposing 35 DynamoDB tools to coding agents.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "dynoxide": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "dynoxide@1.5.0"
+      ]
+    }
+  }
+}

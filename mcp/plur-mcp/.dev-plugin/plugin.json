@@ -1,0 +1,14 @@
+{
+  "name": "plur-mcp",
+  "description": "Open, local-first engram memory for AI agents: read, correct, delete; shared over MCP.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "plur": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@plur-ai/mcp@0.23.0"
+      ]
+    }
+  }
+}

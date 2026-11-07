@@ -1,0 +1,13 @@
+{
+  "name": "korean-tax-calc-mcp",
+  "description": "Korean tax calculation and tax-audit judgment MCP: 96 tools with statutory citations.",
+  "license": "MIT",
+  "mcpServers": {
+    "korean-tax-calc-mcp": {
+      "command": "uvx",
+      "args": [
+        "korean-tax-calc-mcp==0.21.0"
+      ]
+    }
+  }
+}

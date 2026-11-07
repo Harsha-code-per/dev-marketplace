@@ -1,0 +1,14 @@
+{
+  "name": "cartcut-mcp",
+  "description": "Edit video in the CartCut desktop editor: cuts from a transcript, captions, motion, effects.",
+  "license": "MIT",
+  "mcpServers": {
+    "cartcut": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@cartesiancs/cartcut-mcp@0.1.0"
+      ]
+    }
+  }
+}

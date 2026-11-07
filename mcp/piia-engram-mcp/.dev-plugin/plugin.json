@@ -1,0 +1,13 @@
+{
+  "name": "piia-engram-mcp",
+  "description": "Local-first AI identity for MCP coding tools. Lessons, decisions, and context you control.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "piia-engram": {
+      "command": "uvx",
+      "args": [
+        "piia-engram==4.27.0"
+      ]
+    }
+  }
+}

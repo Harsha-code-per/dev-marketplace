@@ -1,0 +1,14 @@
+{
+  "name": "brightdata-mcp",
+  "description": "Bright Data's Web MCP server enabling AI agents to search, extract & navigate the web",
+  "license": "MIT",
+  "mcpServers": {
+    "brightdata-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@brightdata/mcp@4.6.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "figma-ui-mcp",
+  "description": "Bidirectional Figma MCP — AI draws UI on Figma canvas, reads designs back",
+  "license": "MIT",
+  "mcpServers": {
+    "figma-ui-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "figma-ui-mcp@2.5.30"
+      ]
+    }
+  }
+}

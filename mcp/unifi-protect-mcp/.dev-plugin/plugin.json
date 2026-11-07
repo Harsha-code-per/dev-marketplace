@@ -1,0 +1,13 @@
+{
+  "name": "unifi-protect-mcp",
+  "description": "Manage UniFi Protect cameras, events, recordings, and smart detections via MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "unifi-protect-mcp": {
+      "command": "uvx",
+      "args": [
+        "unifi-protect-mcp==0.1.6"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "code-memory-mcp",
+  "description": "Local semantic code search with Git history. Works offline, no API key needed.",
+  "license": "MIT",
+  "mcpServers": {
+    "code-memory": {
+      "command": "uvx",
+      "args": [
+        "code-memory==1.0.33"
+      ]
+    }
+  }
+}

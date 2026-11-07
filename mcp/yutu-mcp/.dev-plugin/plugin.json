@@ -1,0 +1,14 @@
+{
+  "name": "yutu-mcp",
+  "description": "CLI, MCP server, and AI agent to automate YouTube workflows",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "yutu": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@eat-pray-ai/yutu@0.11.0"
+      ]
+    }
+  }
+}

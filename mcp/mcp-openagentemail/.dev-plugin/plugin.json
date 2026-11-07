@@ -1,0 +1,14 @@
+{
+  "name": "mcp-openagentemail",
+  "description": "Unlimited agent mailboxes — create identities, read/wait for mail, extract OTPs, send email.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@openagentemail/mcp@0.10.0"
+      ]
+    }
+  }
+}

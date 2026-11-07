@@ -1,0 +1,14 @@
+{
+  "name": "skillsmith-mcp",
+  "description": "Share agent skills across your team, scan them for risk, and track what's actually used.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "skillsmith": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@skillsmith/mcp-server@0.8.0"
+      ]
+    }
+  }
+}

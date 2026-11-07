@@ -1,0 +1,14 @@
+{
+  "name": "excel-mcp",
+  "description": "Excel automation for AI - Sheets, Power Query, DAX, VBA, Tables, Ranges and more. Windows only.",
+  "license": "MIT",
+  "mcpServers": {
+    "excel": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@sbroenne/mcp-server-excel@2.6.11"
+      ]
+    }
+  }
+}

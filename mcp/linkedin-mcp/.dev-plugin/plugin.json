@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-mcp",
+  "description": "Managed LinkedIn MCP server for AI agents: search, connect, message and enrich on accounts you own.",
+  "license": "MIT",
+  "mcpServers": {
+    "linkedin-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@gtm-api/linkedin-mcp@1.3.2"
+      ]
+    }
+  }
+}

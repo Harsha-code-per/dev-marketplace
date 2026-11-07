@@ -1,0 +1,14 @@
+{
+  "name": "whoop-mcp",
+  "description": "MCP server for WHOOP health data — recovery, sleep, workouts, cycles, and trends.",
+  "license": "MIT",
+  "mcpServers": {
+    "whoop": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "whoop-ai-mcp@0.5.2"
+      ]
+    }
+  }
+}

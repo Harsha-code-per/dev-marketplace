@@ -1,0 +1,11 @@
+{
+  "name": "google-meta-ads-ga4-mcp",
+  "description": "Google Ads, Meta Ads, Google Analytics (GA4) & Search Console MCP server by Ryze AI",
+  "license": "MIT",
+  "mcpServers": {
+    "google-meta-ads-ga4-mcp": {
+      "type": "http",
+      "url": "https://connector.get-ryze.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "crg-mcp",
+  "description": "Token-efficient code review knowledge graph: semantic search and call-graph resolution.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "crg": {
+      "command": "uvx",
+      "args": [
+        "better-code-review-graph==3.31.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "classifier-mcp",
+  "description": "Sort up to 1,000 texts into your own labels with a calibrated confidence per answer. No API key.",
+  "license": "MIT",
+  "mcpServers": {
+    "classifier": {
+      "type": "http",
+      "url": "https://classifier.dev/mcp"
+    }
+  }
+}

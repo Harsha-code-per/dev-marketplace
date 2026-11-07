@@ -1,0 +1,13 @@
+{
+  "name": "codex-control-plane-mcp",
+  "description": "Durable MCP control plane for long-running Codex Desktop tasks.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "codex-control-plane-mcp": {
+      "command": "uvx",
+      "args": [
+        "codex-control-plane-mcp==0.2.1"
+      ]
+    }
+  }
+}

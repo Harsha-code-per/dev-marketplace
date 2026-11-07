@@ -1,0 +1,11 @@
+{
+  "name": "keeper-sh-mcp",
+  "description": "Keeper.sh calendar sync: read and book events, RSVP and find free time across synced calendars.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "keeper-sh": {
+      "type": "http",
+      "url": "https://www.keeper.sh/mcp"
+    }
+  }
+}

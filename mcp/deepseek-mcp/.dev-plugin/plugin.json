@@ -1,0 +1,14 @@
+{
+  "name": "deepseek-mcp",
+  "description": "Official DeepSeek MCP server for chat, completion, model listing, and balance endpoints.",
+  "license": "MIT",
+  "mcpServers": {
+    "deepseek": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "deepseek-mcp-server@0.3.1"
+      ]
+    }
+  }
+}

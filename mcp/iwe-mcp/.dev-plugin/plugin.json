@@ -1,0 +1,14 @@
+{
+  "name": "iwe-mcp",
+  "description": "Markdown knowledge base as agent memory. Runs against the notes directory it is started in.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "iwe": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@iwe-org/mcp@0.32.0"
+      ]
+    }
+  }
+}

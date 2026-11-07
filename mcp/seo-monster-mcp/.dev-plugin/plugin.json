@@ -1,0 +1,13 @@
+{
+  "name": "seo-monster-mcp",
+  "description": "Local-first SEO MCP: track AI citations, Search Console, GA4, PageSpeed, Cloudflare, IndexNow, CrUX.",
+  "license": "MIT",
+  "mcpServers": {
+    "seo-monster": {
+      "command": "uvx",
+      "args": [
+        "seo-monster==0.9.3"
+      ]
+    }
+  }
+}

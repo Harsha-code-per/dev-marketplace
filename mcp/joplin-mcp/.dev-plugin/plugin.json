@@ -1,0 +1,13 @@
+{
+  "name": "joplin-mcp",
+  "description": "FastMCP server exposing Joplin notes, notebooks, tags, and imports.",
+  "license": "MIT",
+  "mcpServers": {
+    "joplin-mcp": {
+      "command": "uvx",
+      "args": [
+        "joplin-mcp==0.10.0"
+      ]
+    }
+  }
+}

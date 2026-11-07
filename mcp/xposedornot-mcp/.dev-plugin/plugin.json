@@ -1,0 +1,11 @@
+{
+  "name": "xposedornot-mcp",
+  "description": "Real-time data-breach lookup and analytics for emails and domains from XposedOrNot.",
+  "license": "MIT",
+  "mcpServers": {
+    "xposedornot": {
+      "type": "http",
+      "url": "https://api.xposedornot.com/mcp"
+    }
+  }
+}

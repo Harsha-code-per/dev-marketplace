@@ -1,0 +1,13 @@
+{
+  "name": "itasca-mcp",
+  "description": "MCP server for ITASCA PFC, FLAC3D, 3DEC, MPoint and MassFlow: search docs, run simulations, plot.",
+  "license": "MIT",
+  "mcpServers": {
+    "itasca-mcp": {
+      "command": "uvx",
+      "args": [
+        "itasca-mcp==0.11.3"
+      ]
+    }
+  }
+}

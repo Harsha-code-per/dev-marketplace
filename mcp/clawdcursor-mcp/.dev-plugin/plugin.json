@@ -1,0 +1,14 @@
+{
+  "name": "clawdcursor-mcp",
+  "description": "Safe cross-OS desktop control for any AI agent - the fallback execution layer.",
+  "license": "MIT",
+  "mcpServers": {
+    "clawdcursor": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "clawdcursor@1.5.26"
+      ]
+    }
+  }
+}

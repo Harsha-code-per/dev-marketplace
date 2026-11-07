@@ -1,0 +1,14 @@
+{
+  "name": "charlotte-mcp",
+  "description": "Renders web pages into structured, agent-readable representations using headless Chromium.",
+  "license": "MIT",
+  "mcpServers": {
+    "charlotte": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ticktockbent/charlotte@0.1.3"
+      ]
+    }
+  }
+}

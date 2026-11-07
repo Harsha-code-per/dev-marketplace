@@ -1,0 +1,14 @@
+{
+  "name": "google-surf-mcp",
+  "description": "Web, academic and code search with graph RAG, data lineage, ontology and cross-project schema links.",
+  "license": "MIT",
+  "mcpServers": {
+    "google-surf-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "google-surf-mcp@1.1.6"
+      ]
+    }
+  }
+}

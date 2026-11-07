@@ -1,0 +1,11 @@
+{
+  "name": "deepmem-mcp",
+  "description": "Mem0-compatible persistent memory for AI agents: write facts once, recall them semantically.",
+  "license": "MIT",
+  "mcpServers": {
+    "deepmem": {
+      "type": "http",
+      "url": "https://deepmem.dev/mcp"
+    }
+  }
+}

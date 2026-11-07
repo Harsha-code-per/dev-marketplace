@@ -1,0 +1,14 @@
+{
+  "name": "brainstorm-mcp",
+  "description": "Multi-model AI brainstorming debates with code review and quick perspectives",
+  "license": "MIT",
+  "mcpServers": {
+    "brainstorm-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "brainstorm-mcp@1.8.0"
+      ]
+    }
+  }
+}

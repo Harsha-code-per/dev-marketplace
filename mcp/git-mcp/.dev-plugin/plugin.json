@@ -1,0 +1,14 @@
+{
+  "name": "git-mcp",
+  "description": "Structured git operations (status, log, diff, branch, show) as typed JSON.",
+  "license": "MIT",
+  "mcpServers": {
+    "git": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@paretools/git@0.8.0"
+      ]
+    }
+  }
+}

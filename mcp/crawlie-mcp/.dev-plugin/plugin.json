@@ -1,0 +1,11 @@
+{
+  "name": "crawlie-mcp",
+  "description": "Technical SEO + GEO (AI-search) site audits: hosted crawls, prioritized fixes, report diffs.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "crawlie": {
+      "type": "http",
+      "url": "https://crawlie.app/mcp"
+    }
+  }
+}

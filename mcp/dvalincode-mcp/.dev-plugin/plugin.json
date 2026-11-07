@@ -1,0 +1,14 @@
+{
+  "name": "dvalincode-mcp",
+  "description": "Deterministic security scanning, no model or API key, plus offline-verifiable proof a fix worked.",
+  "license": "MIT",
+  "mcpServers": {
+    "dvalincode": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "dvalincode@0.22.0"
+      ]
+    }
+  }
+}

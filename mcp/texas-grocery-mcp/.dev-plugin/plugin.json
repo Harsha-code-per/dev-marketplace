@@ -1,0 +1,13 @@
+{
+  "name": "texas-grocery-mcp",
+  "description": "MCP server for HEB grocery store integration - search products, manage carts, clip coupons, and more",
+  "license": "MIT",
+  "mcpServers": {
+    "texas-grocery": {
+      "command": "uvx",
+      "args": [
+        "texas-grocery-mcp==0.1.3"
+      ]
+    }
+  }
+}

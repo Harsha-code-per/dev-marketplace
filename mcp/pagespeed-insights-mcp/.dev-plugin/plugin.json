@@ -1,0 +1,14 @@
+{
+  "name": "pagespeed-insights-mcp",
+  "description": "Google PageSpeed Insights and CrUX: six workflow tools for web performance.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "pagespeed-insights-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "pagespeed-insights-mcp@2.2.0"
+      ]
+    }
+  }
+}

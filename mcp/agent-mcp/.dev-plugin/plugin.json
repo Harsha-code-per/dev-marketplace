@@ -1,0 +1,14 @@
+{
+  "name": "agent-mcp",
+  "description": "Publish videos to TikTok, Reels, Shorts, X, and Facebook through Taisly.",
+  "license": "MIT",
+  "mcpServers": {
+    "agent": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@taisly/agent@0.2.10"
+      ]
+    }
+  }
+}

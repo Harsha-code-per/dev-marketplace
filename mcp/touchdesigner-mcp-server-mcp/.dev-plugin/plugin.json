@@ -1,0 +1,14 @@
+{
+  "name": "touchdesigner-mcp-server-mcp",
+  "description": "MCP server for TouchDesigner - Control and operate TouchDesigner projects through AI agents",
+  "license": "MIT",
+  "mcpServers": {
+    "touchdesigner-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "touchdesigner-mcp-server@1.2.0"
+      ]
+    }
+  }
+}

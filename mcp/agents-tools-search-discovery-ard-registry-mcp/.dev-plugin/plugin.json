@@ -1,0 +1,11 @@
+{
+  "name": "agents-tools-search-discovery-ard-registry-mcp",
+  "description": "Agent Resource Discovery (ARD, IETF draft) registry: search every ARD registry + verified MCP tools",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agents-tools-search-discovery-ard-registry": {
+      "type": "http",
+      "url": "https://neuronto.com/mcp"
+    }
+  }
+}

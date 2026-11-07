@@ -1,0 +1,14 @@
+{
+  "name": "dembrandt-mcp",
+  "description": "Design tokens from any live site: colours, type, spacing, components, drift against a baseline.",
+  "license": "MIT",
+  "mcpServers": {
+    "dembrandt": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "dembrandt@0.39.2"
+      ]
+    }
+  }
+}

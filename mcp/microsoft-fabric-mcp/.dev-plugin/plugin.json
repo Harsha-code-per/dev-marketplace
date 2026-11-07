@@ -1,0 +1,14 @@
+{
+  "name": "microsoft-fabric-mcp",
+  "description": "MCP tools for interacting with Microsoft Fabric",
+  "license": "MIT",
+  "mcpServers": {
+    "microsoft-fabric": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@microsoft/fabric-mcp@1.4.0"
+      ]
+    }
+  }
+}

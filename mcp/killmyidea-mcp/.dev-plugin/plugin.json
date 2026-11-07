@@ -1,0 +1,11 @@
+{
+  "name": "killmyidea-mcp",
+  "description": "Judges startup and side-project ideas: KILL IT, FIX IT or SHIP IT, a 0-100 score and 8 sub-scores.",
+  "license": "MIT",
+  "mcpServers": {
+    "killmyidea": {
+      "type": "http",
+      "url": "https://killmyidea.biz/api/mcp"
+    }
+  }
+}

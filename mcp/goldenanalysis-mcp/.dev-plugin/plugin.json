@@ -1,0 +1,13 @@
+{
+  "name": "goldenanalysis-mcp",
+  "description": "Read-only cross-cutting analysis, metrics, and reporting across the Golden Suite.",
+  "license": "MIT",
+  "mcpServers": {
+    "goldenanalysis": {
+      "command": "uvx",
+      "args": [
+        "goldenanalysis==0.5.0"
+      ]
+    }
+  }
+}

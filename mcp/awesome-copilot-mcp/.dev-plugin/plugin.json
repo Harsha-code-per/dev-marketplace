@@ -1,0 +1,16 @@
+{
+  "name": "awesome-copilot-mcp",
+  "description": "An MCP server that stores Copilot customizations from the Awesome Copilot repository",
+  "license": "MIT",
+  "mcpServers": {
+    "awesome-copilot": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/microsoft/mcp-dotnet-samples/awesome-copilot:1.0.2026110405"
+      ]
+    }
+  }
+}

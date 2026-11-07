@@ -1,0 +1,13 @@
+{
+  "name": "mcp-keboola",
+  "description": "Connect your AI assistants to Keboola and expose your data, transformations, SQL queries, ...",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "command": "uvx",
+      "args": [
+        "keboola-mcp-server==1.116.1"
+      ]
+    }
+  }
+}

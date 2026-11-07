@@ -1,0 +1,14 @@
+{
+  "name": "smart-connections-mcp",
+  "description": "Local semantic search over Obsidian vaults via Smart Connections embeddings. Multi-vault, private.",
+  "license": "MIT",
+  "mcpServers": {
+    "smart-connections-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "smart-connections-mcp@2.0.1"
+      ]
+    }
+  }
+}

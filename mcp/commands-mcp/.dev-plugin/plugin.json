@@ -1,0 +1,14 @@
+{
+  "name": "commands-mcp",
+  "description": "An MCP server to run arbitrary commands",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "commands": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@agent-infra/mcp-server-commands@latest"
+      ]
+    }
+  }
+}

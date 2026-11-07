@@ -1,0 +1,11 @@
+{
+  "name": "kite-mcp",
+  "description": "Build and fix Discord bots from a chat. Kite hosts them 24/7, with no code to deploy.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "kite": {
+      "type": "http",
+      "url": "https://kite.onl/api/mcp"
+    }
+  }
+}

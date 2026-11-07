@@ -1,0 +1,13 @@
+{
+  "name": "picocalc-mcp",
+  "description": "AI assistant access to PicoCalc MicroPython hardware over USB.",
+  "license": "MIT",
+  "mcpServers": {
+    "picocalc-mcp": {
+      "command": "uvx",
+      "args": [
+        "picocalc-mcp==0.1.1"
+      ]
+    }
+  }
+}

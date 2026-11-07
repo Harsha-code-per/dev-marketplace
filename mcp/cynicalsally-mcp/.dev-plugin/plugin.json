@@ -1,0 +1,14 @@
+{
+  "name": "cynicalsally-mcp",
+  "description": "Brutally honest code reviews: scores, real issues, and usable fixes. CLI + MCP server.",
+  "license": "MIT",
+  "mcpServers": {
+    "cynicalsally": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@cynicalsally/cli@0.7.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "repomix-mcp",
+  "description": "Pack local or remote codebases into AI-friendly files that LLMs and coding agents can read or search",
+  "license": "MIT",
+  "mcpServers": {
+    "repomix": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "repomix@1.18.1"
+      ]
+    }
+  }
+}

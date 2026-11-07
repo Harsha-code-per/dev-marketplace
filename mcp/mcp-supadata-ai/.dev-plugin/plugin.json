@@ -1,0 +1,11 @@
+{
+  "name": "mcp-supadata-ai",
+  "description": "Video transcripts, metadata and structured data from YouTube, TikTok, Instagram, X; web scraping.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://api.supadata.ai/mcp"
+    }
+  }
+}

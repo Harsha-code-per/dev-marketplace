@@ -1,0 +1,13 @@
+{
+  "name": "linux-mcp-server-mcp",
+  "description": "MCP server for read-only Linux system administration, diagnostics, and troubleshooting",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "linux-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "linux-mcp-server==1.4.0"
+      ]
+    }
+  }
+}

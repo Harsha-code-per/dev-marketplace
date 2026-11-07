@@ -1,0 +1,14 @@
+{
+  "name": "octocode-mcp",
+  "description": "AI-powered code indexer with semantic search and knowledge graphs",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "octocode": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@muvon/octocode@0.29.1"
+      ]
+    }
+  }
+}

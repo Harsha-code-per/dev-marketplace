@@ -1,0 +1,14 @@
+{
+  "name": "meta-ads-mcp",
+  "description": "MCP server for Meta Marketing API — Facebook & Instagram ad campaign management",
+  "license": "MIT",
+  "mcpServers": {
+    "meta-ads": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mikusnuz/meta-ads-mcp@1.6.1"
+      ]
+    }
+  }
+}

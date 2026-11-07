@@ -1,0 +1,11 @@
+{
+  "name": "bitview-mcp",
+  "description": "Read-only Bitcoin blockchain, mempool, mining, market, and on-chain analytics; no API key.",
+  "license": "MIT",
+  "mcpServers": {
+    "bitview": {
+      "type": "http",
+      "url": "https://mcp.bitview.space/"
+    }
+  }
+}

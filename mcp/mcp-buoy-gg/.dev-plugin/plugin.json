@@ -1,0 +1,14 @@
+{
+  "name": "mcp-buoy-gg",
+  "description": "Let AI agents read and drive a running React Native or Flutter app through Buoy's devtools.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@buoy-gg/mcp@7.0.41"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "jdocmunch-mcp",
+  "description": "Section-level doc search for .md, .rst, .adoc, .org, .ipynb, .html, .yaml, .json, and OpenAPI specs.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "jdocmunch-mcp": {
+      "command": "uvx",
+      "args": [
+        "jdocmunch-mcp==1.151.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "marketplaces-mcp-ru-mcp",
+  "description": "Wildberries, Ozon, Yandex Market & Avito seller APIs for AI assistants: schema-driven, safety-gated.",
+  "license": "MIT",
+  "mcpServers": {
+    "marketplaces-mcp-ru": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "marketplaces-mcp-ru@0.6.1"
+      ]
+    }
+  }
+}

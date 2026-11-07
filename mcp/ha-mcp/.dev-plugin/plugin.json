@@ -1,0 +1,13 @@
+{
+  "name": "ha-mcp",
+  "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+  "license": "MIT",
+  "mcpServers": {
+    "ha-mcp": {
+      "command": "uvx",
+      "args": [
+        "ha-mcp==9.1.1"
+      ]
+    }
+  }
+}

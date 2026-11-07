@@ -1,0 +1,14 @@
+{
+  "name": "ruv-swarm-mcp",
+  "description": "Neural network swarm orchestration with WebAssembly acceleration and MCP integration",
+  "license": "MIT",
+  "mcpServers": {
+    "ruv-swarm": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ruv-swarm@1.0.19"
+      ]
+    }
+  }
+}

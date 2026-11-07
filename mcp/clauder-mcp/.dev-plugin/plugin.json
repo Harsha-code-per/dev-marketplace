@@ -1,0 +1,13 @@
+{
+  "name": "clauder-mcp",
+  "description": "Connect RStudio to AI assistants for interactive R coding and data analysis.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "clauder": {
+      "command": "uvx",
+      "args": [
+        "clauder-mcp==0.16.1"
+      ]
+    }
+  }
+}

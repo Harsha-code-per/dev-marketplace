@@ -1,0 +1,11 @@
+{
+  "name": "docs-mcp-pmndrs",
+  "description": "Search and read the docs and examples of react-three-fiber, drei, zustand, jotai... from your agent",
+  "license": "MIT",
+  "mcpServers": {
+    "docs": {
+      "type": "http",
+      "url": "https://docs.pmnd.rs/api/mcp"
+    }
+  }
+}

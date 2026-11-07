@@ -1,0 +1,11 @@
+{
+  "name": "directory-mcp-the911fund",
+  "description": "Quality-ranked, cross-platform directory of AI coding skills, plugins and MCP servers.",
+  "license": "MIT",
+  "mcpServers": {
+    "directory": {
+      "type": "http",
+      "url": "https://skills.911fund.io/api/mcp"
+    }
+  }
+}

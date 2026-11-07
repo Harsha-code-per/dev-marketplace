@@ -1,0 +1,14 @@
+{
+  "name": "developers-mcp",
+  "description": "Access Mastercard Developers APIs, documentation, and API specifications through MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "developers-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mastercard/developers-mcp@0.1.5"
+      ]
+    }
+  }
+}

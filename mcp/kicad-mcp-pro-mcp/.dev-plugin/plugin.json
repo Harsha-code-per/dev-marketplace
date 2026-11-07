@@ -1,0 +1,14 @@
+{
+  "name": "kicad-mcp-pro-mcp",
+  "description": "Production-grade MCP server for KiCad EDA—PCB design, DRC, simulation, BOM, DFM, and manufacturing.",
+  "license": "MIT",
+  "mcpServers": {
+    "kicad-mcp-pro": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "kicad-mcp-pro@4.8.1"
+      ]
+    }
+  }
+}

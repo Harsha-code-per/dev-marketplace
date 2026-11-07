@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-mcp-arcadedata",
+  "description": "Built-in MCP server for ArcadeDB multi-model database (graph, document, vector, time-series)",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp-server": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/arcadedata/arcadedb:26.4.1-SNAPSHOT"
+      ]
+    }
+  }
+}

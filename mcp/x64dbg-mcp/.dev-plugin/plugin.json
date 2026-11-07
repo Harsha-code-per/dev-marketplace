@@ -1,0 +1,14 @@
+{
+  "name": "x64dbg-mcp",
+  "description": "MCP server for x64dbg debugger - 23 mega-tools for AI-powered reverse engineering and debugging",
+  "license": "MIT",
+  "mcpServers": {
+    "x64dbg": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "x64dbg-mcp-server@2.3.0"
+      ]
+    }
+  }
+}

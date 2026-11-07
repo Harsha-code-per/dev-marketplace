@@ -1,0 +1,14 @@
+{
+  "name": "hevy-mcp",
+  "description": "MCP server for managing workouts, routines, and exercise data through the Hevy API",
+  "license": "MIT",
+  "mcpServers": {
+    "hevy-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "hevy-mcp@3.2.1"
+      ]
+    }
+  }
+}

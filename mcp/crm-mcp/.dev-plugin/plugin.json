@@ -1,0 +1,11 @@
+{
+  "name": "crm-mcp",
+  "description": "Open-source CRM your AI agents can write to: companies, people, opportunities, tasks and notes.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "crm": {
+      "type": "http",
+      "url": "https://mcp.relaticle.com"
+    }
+  }
+}

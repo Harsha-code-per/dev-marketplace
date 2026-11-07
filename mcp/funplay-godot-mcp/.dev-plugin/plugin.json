@@ -1,0 +1,14 @@
+{
+  "name": "funplay-godot-mcp",
+  "description": "stdio bridge for the local Godot Editor MCP server from FunplayAI/funplay-godot-mcp.",
+  "license": "MIT",
+  "mcpServers": {
+    "funplay-godot-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "funplay-godot-mcp@0.10.1"
+      ]
+    }
+  }
+}

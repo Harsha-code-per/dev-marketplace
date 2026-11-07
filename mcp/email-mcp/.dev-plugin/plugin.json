@@ -1,0 +1,14 @@
+{
+  "name": "email-mcp",
+  "description": "IMAP/SMTP email MCP server — 52 tools, stdio + HTTP, IMAP IDLE push, multi-account, AI triage.",
+  "license": "LGPL-3.0",
+  "mcpServers": {
+    "email-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@codefuturist/email-mcp@0.6.0"
+      ]
+    }
+  }
+}

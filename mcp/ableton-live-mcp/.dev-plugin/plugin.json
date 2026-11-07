@@ -1,0 +1,13 @@
+{
+  "name": "ableton-live-mcp",
+  "description": "Control Ableton Live with 156 typed tools for music production and offline .als analysis.",
+  "license": "MIT",
+  "mcpServers": {
+    "ableton-live-mcp": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-ableton-live==1.8.1"
+      ]
+    }
+  }
+}

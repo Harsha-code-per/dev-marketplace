@@ -1,0 +1,14 @@
+{
+  "name": "home-assistant-mcp",
+  "description": "Vibecode your Home Assistant setup from your IDE: automations, dashboards, themes and configs",
+  "license": "MIT",
+  "mcpServers": {
+    "home-assistant-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@coolver/home-assistant-mcp@3.2.12"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "trello-mcp",
+  "description": "MCP server for Trello boards with rate limiting, type safety, and comprehensive API integration.",
+  "license": "MIT",
+  "mcpServers": {
+    "trello": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@delorenj/mcp-server-trello@1.8.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "yourmemory-mcp",
+  "description": "Persistent memory for AI agents. Memories decay with time and strengthen on recall.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "yourmemory": {
+      "command": "uvx",
+      "args": [
+        "yourmemory==1.4.18"
+      ]
+    }
+  }
+}

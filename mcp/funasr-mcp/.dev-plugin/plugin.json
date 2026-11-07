@@ -1,0 +1,16 @@
+{
+  "name": "funasr-mcp",
+  "description": "Transcribe local audio with FunASR and SenseVoice using private, on-device inference.",
+  "license": "MIT",
+  "mcpServers": {
+    "funasr-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/modelscope/funasr-mcp:0.1.2"
+      ]
+    }
+  }
+}

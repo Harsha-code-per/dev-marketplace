@@ -1,0 +1,13 @@
+{
+  "name": "freellmpool-mcp",
+  "description": "OpenAI-compatible MCP gateway cataloging 22 LLM providers, with routing, failover, and tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "freellmpool": {
+      "command": "uvx",
+      "args": [
+        "freellmpool==0.13.0"
+      ]
+    }
+  }
+}

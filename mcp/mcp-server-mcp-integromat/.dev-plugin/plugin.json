@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-mcp-integromat",
+  "description": "Build, run and debug Make automation scenarios.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-server": {
+      "type": "http",
+      "url": "https://mcp.make.com/v2"
+    }
+  }
+}

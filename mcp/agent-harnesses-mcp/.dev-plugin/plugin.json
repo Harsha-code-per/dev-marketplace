@@ -1,0 +1,13 @@
+{
+  "name": "agent-harnesses-mcp",
+  "description": "Agent-harness picks, decision guides, setup templates, and skills; live GitHub/HN discovery.",
+  "license": "CC-BY-SA-4.0",
+  "mcpServers": {
+    "agent-harnesses": {
+      "command": "uvx",
+      "args": [
+        "agent-harnesses-mcp==0.8.0"
+      ]
+    }
+  }
+}

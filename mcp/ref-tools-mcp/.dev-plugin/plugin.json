@@ -1,0 +1,14 @@
+{
+  "name": "ref-tools-mcp",
+  "description": "Token efficient search for coding agents over public and private documentation.",
+  "license": "MIT",
+  "mcpServers": {
+    "ref-tools-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ref-tools-mcp@3.0.1"
+      ]
+    }
+  }
+}

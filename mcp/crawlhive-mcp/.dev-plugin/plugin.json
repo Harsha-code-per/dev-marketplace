@@ -1,0 +1,11 @@
+{
+  "name": "crawlhive-mcp",
+  "description": "Memecoin safety scanner for Solana, BNB and Robinhood Chain with an onchain track record",
+  "license": "MIT",
+  "mcpServers": {
+    "crawlhive": {
+      "type": "http",
+      "url": "https://crawlhive.xyz/mcp"
+    }
+  }
+}

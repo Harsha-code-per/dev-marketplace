@@ -1,0 +1,14 @@
+{
+  "name": "agent-screenplay-mcp",
+  "description": "Beautiful screen recordings of any website or desktop app, scripted by your agent.",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-screenplay": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "agent-screenplay@0.1.7"
+      ]
+    }
+  }
+}

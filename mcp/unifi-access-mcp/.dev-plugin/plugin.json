@@ -1,0 +1,13 @@
+{
+  "name": "unifi-access-mcp",
+  "description": "Manage UniFi Access doors, credentials, policies, visitors, and events via MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "unifi-access-mcp": {
+      "command": "uvx",
+      "args": [
+        "unifi-access-mcp==0.1.6"
+      ]
+    }
+  }
+}

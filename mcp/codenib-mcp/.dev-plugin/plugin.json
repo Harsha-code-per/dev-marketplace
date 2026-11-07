@@ -1,0 +1,13 @@
+{
+  "name": "codenib-mcp",
+  "description": "Source-linked CodeGraph exploration, ranked search, and static navigation for coding agents.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "codenib": {
+      "command": "uvx",
+      "args": [
+        "codenib==0.2.5"
+      ]
+    }
+  }
+}

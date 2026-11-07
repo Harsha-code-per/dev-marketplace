@@ -1,0 +1,27 @@
+name: build index
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/**, verified.json]
+permissions:
+  contents: write
+concurrency: build
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun scripts/build.ts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: commit if changed
+        run: |
+          git add -A .dev-plugin mcp
+          git diff --cached --quiet && exit 0
+          git -c user.name="dev-marketplace" -c user.email="actions@users.noreply.github.com" commit -q -m "chore: rebuild index"
+          git push

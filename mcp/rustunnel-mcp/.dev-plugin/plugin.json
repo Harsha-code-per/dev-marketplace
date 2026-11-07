@@ -1,0 +1,16 @@
+{
+  "name": "rustunnel-mcp",
+  "description": "Give AI agents public HTTPS/TCP/UDP URLs for any localhost service. Open source, self-hostable.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "rustunnel": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/joaoh82/rustunnel-mcp:0.8.9"
+      ]
+    }
+  }
+}

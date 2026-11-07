@@ -1,0 +1,13 @@
+{
+  "name": "pyscn-mcp",
+  "description": "Python code analysis for AI agents: complexity, dead code, clones, coupling, and a health score.",
+  "license": "MIT",
+  "mcpServers": {
+    "pyscn": {
+      "command": "uvx",
+      "args": [
+        "pyscn-mcp==1.33.1"
+      ]
+    }
+  }
+}

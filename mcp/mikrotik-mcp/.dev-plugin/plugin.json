@@ -1,0 +1,13 @@
+{
+  "name": "mikrotik-mcp",
+  "description": "MCP server for MikroTik routers: firewall, NAT, routing, DHCP, DNS, WireGuard and more via SSH.",
+  "license": "MIT",
+  "mcpServers": {
+    "mikrotik-mcp": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-mikrotik==0.27.0.0"
+      ]
+    }
+  }
+}

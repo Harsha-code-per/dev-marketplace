@@ -1,0 +1,14 @@
+{
+  "name": "browsentic-mcp",
+  "description": "Agentic browser harness: your agent CLI in your real, signed-in browser, from a side panel or MCP.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "browsentic": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "browsentic@0.9.0"
+      ]
+    }
+  }
+}

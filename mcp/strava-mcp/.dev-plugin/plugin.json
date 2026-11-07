@@ -1,0 +1,14 @@
+{
+  "name": "strava-mcp",
+  "description": "MCP server for accessing Strava API",
+  "license": "MIT",
+  "mcpServers": {
+    "strava-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "strava-mcp-server@1.0.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "gemini-cloud-assist-mcp",
+  "description": "MCP Server for understanding, managing & troubleshooting your GCP environment.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "gemini-cloud-assist-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@google-cloud/gemini-cloud-assist-mcp@0.1.1"
+      ]
+    }
+  }
+}

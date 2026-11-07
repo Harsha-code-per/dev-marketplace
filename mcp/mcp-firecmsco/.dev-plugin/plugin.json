@@ -1,0 +1,14 @@
+{
+  "name": "mcp-firecmsco",
+  "description": "Manage FireCMS Cloud from an AI agent: Firestore data, collections, schemas and users.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@firecms/mcp-server@3.5.1"
+      ]
+    }
+  }
+}

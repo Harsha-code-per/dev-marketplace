@@ -1,0 +1,13 @@
+{
+  "name": "strimzi-kafka-cli-mcp",
+  "description": "Manage Apache Kafka on Kubernetes via Strimzi. Clusters, topics, users, connectors, MM2.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "strimzi-kafka-cli": {
+      "command": "uvx",
+      "args": [
+        "strimzi-kafka-cli==1.0.0b11"
+      ]
+    }
+  }
+}

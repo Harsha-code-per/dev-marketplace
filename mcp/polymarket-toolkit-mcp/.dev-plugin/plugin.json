@@ -1,0 +1,14 @@
+{
+  "name": "polymarket-toolkit-mcp",
+  "description": "Read-only Polymarket data tools for AI agents: profiles, PnL, market scans. No keys, no orders.",
+  "license": "MIT",
+  "mcpServers": {
+    "polymarket-toolkit": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "polymarket-toolkit-mcp@0.7.1"
+      ]
+    }
+  }
+}

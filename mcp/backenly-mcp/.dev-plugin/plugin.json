@@ -1,0 +1,14 @@
+{
+  "name": "backenly-mcp",
+  "description": "Postgres backend your coding agent builds over MCP; destructive actions wait for a person.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "backenly": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@backenly/mcp-server@0.4.0"
+      ]
+    }
+  }
+}

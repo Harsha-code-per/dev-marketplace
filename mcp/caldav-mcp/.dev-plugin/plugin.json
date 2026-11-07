@@ -1,0 +1,14 @@
+{
+  "name": "caldav-mcp",
+  "description": "CalDAV calendar operations (list, create, update, delete events) as MCP tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "caldav-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "caldav-mcp@0.9.0"
+      ]
+    }
+  }
+}

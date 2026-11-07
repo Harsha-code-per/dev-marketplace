@@ -1,0 +1,16 @@
+{
+  "name": "crawlberg-mcp",
+  "description": "Scrape, crawl, and map websites to Markdown or JSON via local CLI.",
+  "license": "MIT",
+  "mcpServers": {
+    "crawlberg": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/xberg-io/crawlberg:1.12.3"
+      ]
+    }
+  }
+}

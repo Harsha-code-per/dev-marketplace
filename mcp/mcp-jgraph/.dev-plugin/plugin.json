@@ -1,0 +1,11 @@
+{
+  "name": "mcp-jgraph",
+  "description": "Create draw.io diagrams in chat from Mermaid or XML, shown live and interactive. 10,000+ shapes.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.draw.io/mcp"
+    }
+  }
+}

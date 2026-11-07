@@ -1,0 +1,13 @@
+{
+  "name": "autoclip-mcp",
+  "description": "Clip long videos into short clips with covers and captions. Local CLI and MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "autoclip-mcp": {
+      "command": "uvx",
+      "args": [
+        "autoclip-mcp==1.5.7.post1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "intervals-icu-mcp",
+  "description": "Read/write Intervals.icu MCP server: activities, wellness, calendar, gear, and workouts.",
+  "license": "MIT",
+  "mcpServers": {
+    "intervals-icu-mcp": {
+      "command": "uvx",
+      "args": [
+        "intervals-icu-mcp==5.9.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "superlocalmemory-mcp",
+  "description": "Local-first memory for AI agents: recall with sources, answer checks, documents, mesh, governance.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "superlocalmemory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "superlocalmemory@4.2.13"
+      ]
+    }
+  }
+}

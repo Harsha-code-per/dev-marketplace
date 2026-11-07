@@ -1,0 +1,14 @@
+{
+  "name": "time-mcp",
+  "description": "Time MCP Server, giving LLMs time awareness capabilities.",
+  "license": "MIT",
+  "mcpServers": {
+    "time-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "time-mcp@1.0.6"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aicanvas-mcp",
+  "description": "Browse and install 75+ free animated, shadcn-compatible React components from AI Canvas.",
+  "license": "MIT",
+  "mcpServers": {
+    "aicanvas": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@aicanvas/mcp@0.2.5"
+      ]
+    }
+  }
+}

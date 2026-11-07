@@ -1,0 +1,13 @@
+{
+  "name": "scopus-mcp",
+  "description": "A Model Context Protocol server for the Elsevier Scopus API",
+  "license": "MIT",
+  "mcpServers": {
+    "scopus-mcp": {
+      "command": "uvx",
+      "args": [
+        "scopus-mcp==0.1.8"
+      ]
+    }
+  }
+}

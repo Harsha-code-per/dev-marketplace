@@ -1,0 +1,14 @@
+{
+  "name": "mcp-amazon-mcp",
+  "description": "MCP server for Amazon Selling Partner API (SP-API) — orders, listings, catalog, inventory, finances",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-amazon": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@codespar/mcp-amazon@0.2.0-alpha.3"
+      ]
+    }
+  }
+}

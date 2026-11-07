@@ -1,0 +1,11 @@
+{
+  "name": "exa-mcp",
+  "description": "Search the live web and fetch clean content from source pages.",
+  "license": "MIT",
+  "mcpServers": {
+    "exa": {
+      "type": "http",
+      "url": "https://gen.pollinations.ai/mcp/exa"
+    }
+  }
+}

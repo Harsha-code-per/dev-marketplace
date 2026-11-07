@@ -1,0 +1,11 @@
+{
+  "name": "tendem-mcp",
+  "description": "Delegate tasks to vetted human experts - research, writing, analysis, and data work.",
+  "license": "MIT",
+  "mcpServers": {
+    "tendem-mcp": {
+      "type": "http",
+      "url": "https://mcp.tendem.ai/mcp?utm_hash=b093faed05"
+    }
+  }
+}

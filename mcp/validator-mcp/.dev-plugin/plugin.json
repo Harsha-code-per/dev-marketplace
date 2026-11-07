@@ -1,0 +1,11 @@
+{
+  "name": "validator-mcp",
+  "description": "Validate oh-my-posh configurations and segment snippets against the official schema.",
+  "license": "MIT",
+  "mcpServers": {
+    "validator": {
+      "type": "http",
+      "url": "https://ohmyposh.dev/api/mcp"
+    }
+  }
+}

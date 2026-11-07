@@ -1,0 +1,14 @@
+{
+  "name": "firebase-mcp",
+  "description": "Gives AI development tools Firebase-specific capabilities and expertise.",
+  "license": "MIT",
+  "mcpServers": {
+    "firebase-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "firebase-tools@14.27.0"
+      ]
+    }
+  }
+}

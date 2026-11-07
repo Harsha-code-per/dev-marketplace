@@ -1,0 +1,14 @@
+{
+  "name": "chatcrystal-mcp",
+  "description": "Local-first AI PKM memory for coding conversations.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "chatcrystal": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "chatcrystal@0.6.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ouroboros-mcp",
+  "description": "Pins an acceptance spec; the verify command and expected output never enter the success contract.",
+  "license": "MIT",
+  "mcpServers": {
+    "ouroboros": {
+      "command": "uvx",
+      "args": [
+        "ouroboros-ai==0.51.5"
+      ]
+    }
+  }
+}

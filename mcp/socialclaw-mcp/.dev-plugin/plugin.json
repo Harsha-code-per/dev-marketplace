@@ -1,0 +1,14 @@
+{
+  "name": "socialclaw-mcp",
+  "description": "Connect any AI agent to 11+ social platforms: schedule, publish & track posts via hosted MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "socialclaw": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "socialclaw@0.1.20"
+      ]
+    }
+  }
+}

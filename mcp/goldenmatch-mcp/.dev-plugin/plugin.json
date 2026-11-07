@@ -1,0 +1,13 @@
+{
+  "name": "goldenmatch-mcp",
+  "description": "Find duplicate records in 30 seconds. Zero-config entity resolution, 97.2% F1 out of the box.",
+  "license": "MIT",
+  "mcpServers": {
+    "goldenmatch": {
+      "command": "uvx",
+      "args": [
+        "goldenmatch==3.13.0"
+      ]
+    }
+  }
+}

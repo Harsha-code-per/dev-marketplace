@@ -1,0 +1,16 @@
+{
+  "name": "bgg-mcp",
+  "description": "BoardGameGeek MCP server providing access to BGG API data through standardized tools",
+  "license": "MIT",
+  "mcpServers": {
+    "bgg-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/kdaniel/bgg-mcp:1.9.2"
+      ]
+    }
+  }
+}

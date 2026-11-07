@@ -1,0 +1,14 @@
+{
+  "name": "thunderbird-cli-mcp",
+  "description": "Give AI agents full read/write email access via Mozilla Thunderbird. Zero credentials.",
+  "license": "MIT",
+  "mcpServers": {
+    "thunderbird-cli": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "thunderbird-cli-mcp@1.0.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cronometer-api-mcp",
+  "description": "MCP server for Cronometer nutrition tracking — food logs, diary, macros, fasting",
+  "license": "MIT",
+  "mcpServers": {
+    "cronometer-api-mcp": {
+      "command": "uvx",
+      "args": [
+        "cronometer-api-mcp==0.2.6"
+      ]
+    }
+  }
+}

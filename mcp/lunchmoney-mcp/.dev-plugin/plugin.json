@@ -1,0 +1,14 @@
+{
+  "name": "lunchmoney-mcp",
+  "description": "MCP server for managing LunchMoney personal finances: transactions, budgets, categories, and more.",
+  "license": "MIT",
+  "mcpServers": {
+    "lunchmoney-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@akutishevsky/lunchmoney-mcp@3.0.0"
+      ]
+    }
+  }
+}

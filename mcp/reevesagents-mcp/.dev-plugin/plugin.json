@@ -1,0 +1,14 @@
+{
+  "name": "reevesagents-mcp",
+  "description": "Spawn, read and steer AI coding CLIs (Claude Code, Codex, Kimi and more) in local tmux windows.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "reevesagents": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "reevesagents@2.1.0"
+      ]
+    }
+  }
+}

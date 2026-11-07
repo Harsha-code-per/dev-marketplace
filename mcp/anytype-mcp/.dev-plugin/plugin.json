@@ -1,0 +1,14 @@
+{
+  "name": "anytype-mcp",
+  "description": "Official MCP server for Anytype API - your encrypted, local and collaborative wiki.",
+  "license": "MIT",
+  "mcpServers": {
+    "anytype-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@anyproto/anytype-mcp@1.0.7"
+      ]
+    }
+  }
+}

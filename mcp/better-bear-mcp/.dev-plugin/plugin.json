@@ -1,0 +1,14 @@
+{
+  "name": "better-bear-mcp",
+  "description": "MCP server for Bear notes — read, search, create, edit, tag, and manage notes via CloudKit",
+  "license": "MIT",
+  "mcpServers": {
+    "better-bear": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "better-bear@0.4.26"
+      ]
+    }
+  }
+}

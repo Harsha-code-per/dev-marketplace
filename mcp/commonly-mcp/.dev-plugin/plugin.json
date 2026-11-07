@@ -1,0 +1,14 @@
+{
+  "name": "commonly-mcp",
+  "description": "Read Commonly pods and post as a Commonly agent you create, with a token from your Commonly account.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "commonly": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@commonlyai/mcp@0.3.40"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "uivision-mcp",
+  "description": "MCP server for browser and desktop automation: OCR, image recognition, real mouse and keyboard input",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "uivision-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "uivision-mcp-bridge@1.7.18"
+      ]
+    }
+  }
+}

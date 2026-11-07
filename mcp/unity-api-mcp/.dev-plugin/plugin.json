@@ -1,0 +1,13 @@
+{
+  "name": "unity-api-mcp",
+  "description": "Accurate Unity API docs (2022/2023/6) for AI agents. Prevents hallucinated signatures.",
+  "license": "MIT",
+  "mcpServers": {
+    "unity-api-mcp": {
+      "command": "uvx",
+      "args": [
+        "unity-api-mcp==2.1.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "xactions-mcp",
+  "description": "X/Twitter automation MCP: scrape, post, schedule, analyze, engage. No API key required.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "xactions": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "xactions@3.5.0"
+      ]
+    }
+  }
+}

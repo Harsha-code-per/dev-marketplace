@@ -1,0 +1,14 @@
+{
+  "name": "mcp-open-and-async",
+  "description": "Draft decision docs, turn meetings into async artifacts, and triage sync vs async in your editor.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@open-and-async/mcp@1.1.0"
+      ]
+    }
+  }
+}

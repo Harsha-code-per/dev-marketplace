@@ -1,0 +1,14 @@
+{
+  "name": "ncp-mcp",
+  "description": "1 MCP to rule them all. Orchestrate, discover, and run any tool instantly.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "ncp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@portel/ncp@3.0.0"
+      ]
+    }
+  }
+}

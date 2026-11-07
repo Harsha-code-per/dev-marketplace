@@ -1,0 +1,14 @@
+{
+  "name": "brightspace-mcp",
+  "description": "D2L Brightspace MCP server: grades, due dates, assignments, announcements and files. Any school.",
+  "license": "MIT",
+  "mcpServers": {
+    "brightspace": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "brightspace-mcp-server@5.1.41"
+      ]
+    }
+  }
+}

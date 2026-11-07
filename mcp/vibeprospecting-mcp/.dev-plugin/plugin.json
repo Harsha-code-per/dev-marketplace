@@ -1,0 +1,11 @@
+{
+  "name": "vibeprospecting-mcp",
+  "description": "B2B company and contact data for lead lists, enrichment, research, and outreach. OAuth sign-in.",
+  "license": "MIT",
+  "mcpServers": {
+    "vibeprospecting": {
+      "type": "http",
+      "url": "https://vibeprospecting.explorium.ai/mcp"
+    }
+  }
+}

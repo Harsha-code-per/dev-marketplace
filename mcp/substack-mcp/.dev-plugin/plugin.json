@@ -1,0 +1,14 @@
+{
+  "name": "substack-mcp",
+  "description": "Manage Substack publishing, subscribers, analytics, reader feeds, comments, and images through MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "substack-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "substack-mcp@1.3.2"
+      ]
+    }
+  }
+}

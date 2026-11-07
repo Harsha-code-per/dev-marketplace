@@ -1,0 +1,11 @@
+{
+  "name": "compiler-explorer-mcp",
+  "description": "Compile code with thousands of compilers, inspect the assembly, and share godbolt.org links",
+  "license": "BSD-2-Clause",
+  "mcpServers": {
+    "compiler-explorer": {
+      "type": "http",
+      "url": "https://godbolt.org/mcp"
+    }
+  }
+}

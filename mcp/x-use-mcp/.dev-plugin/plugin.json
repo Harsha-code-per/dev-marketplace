@@ -1,0 +1,13 @@
+{
+  "name": "x-use-mcp",
+  "description": "Research X (Twitter), read inboxes and review publishing through MCP. No X API key required.",
+  "license": "MIT",
+  "mcpServers": {
+    "x-use": {
+      "command": "uvx",
+      "args": [
+        "x-use-mcp==3.2.0"
+      ]
+    }
+  }
+}

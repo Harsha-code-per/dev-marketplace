@@ -1,0 +1,14 @@
+{
+  "name": "heyclaude-mcp",
+  "description": "Search the HeyClaude directory of Claude Code agents, MCP servers, skills, and tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "heyclaude": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@heyclaude/mcp@0.4.0"
+      ]
+    }
+  }
+}

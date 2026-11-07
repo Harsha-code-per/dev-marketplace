@@ -1,0 +1,14 @@
+{
+  "name": "google-drive-mcp",
+  "description": "Secure access to Google Drive, Docs, Sheets, Slides, and Calendar through MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "google-drive-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@piotr-agier/google-drive-mcp@2.12.0"
+      ]
+    }
+  }
+}

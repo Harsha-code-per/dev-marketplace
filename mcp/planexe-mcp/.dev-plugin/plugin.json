@@ -1,0 +1,11 @@
+{
+  "name": "planexe-mcp",
+  "description": "MCP server for generating rough-draft project plans from natural-language prompts.",
+  "license": "MIT",
+  "mcpServers": {
+    "planexe": {
+      "type": "http",
+      "url": "https://mcp.planexe.org/mcp"
+    }
+  }
+}

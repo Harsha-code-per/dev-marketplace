@@ -1,0 +1,14 @@
+{
+  "name": "wilma-mcp",
+  "description": "Finland's Wilma school system for parents and students: schedule, homework, exams and messages.",
+  "license": "MIT",
+  "mcpServers": {
+    "wilma": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@wilm-ai/wilma-cli@2.4.0"
+      ]
+    }
+  }
+}

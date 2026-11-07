@@ -1,0 +1,14 @@
+{
+  "name": "trvl-mcp",
+  "description": "Door-to-door travel MCP + CLI: flights, hotels, trains, cars, ferries. No API keys, Go binary.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "trvl": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "trvl-mcp@1.27.0"
+      ]
+    }
+  }
+}

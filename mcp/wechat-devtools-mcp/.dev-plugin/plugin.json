@@ -1,0 +1,13 @@
+{
+  "name": "wechat-devtools-mcp",
+  "description": "MCP Server for WeChat DevTools CLI - Automate development & testing with 7 aggregated APIs.",
+  "license": "MIT",
+  "mcpServers": {
+    "wechat-devtools-mcp": {
+      "command": "uvx",
+      "args": [
+        "wechat-devtools-mcp==0.9.20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mcp-gateway-mcp",
+  "description": "Universal MCP gateway with Meta-MCP discovery, routing, and REST API capabilities.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp-gateway": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/mikkoparkkola/mcp-gateway:3.5.1"
+      ]
+    }
+  }
+}

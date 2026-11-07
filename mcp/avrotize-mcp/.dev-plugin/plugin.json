@@ -1,0 +1,13 @@
+{
+  "name": "avrotize-mcp",
+  "description": "Schema conversion and schema-driven code generation MCP server.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "avrotize": {
+      "command": "uvx",
+      "args": [
+        "avrotize==3.4.3"
+      ]
+    }
+  }
+}

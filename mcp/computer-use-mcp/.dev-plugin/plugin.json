@@ -1,0 +1,14 @@
+{
+  "name": "computer-use-mcp",
+  "description": "Control your computer with screenshots, mouse, and keyboard automation.",
+  "license": "MIT",
+  "mcpServers": {
+    "computer-use-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "computer-use-mcp@1.8.0"
+      ]
+    }
+  }
+}

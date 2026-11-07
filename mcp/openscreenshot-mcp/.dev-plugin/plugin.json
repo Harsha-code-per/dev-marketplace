@@ -1,0 +1,14 @@
+{
+  "name": "openscreenshot-mcp",
+  "description": "Capture website screenshots (viewport or full page) with local Chrome, or on OpenScreenShot Cloud.",
+  "license": "MIT",
+  "mcpServers": {
+    "openscreenshot": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "openscreenshot@2.5.2"
+      ]
+    }
+  }
+}

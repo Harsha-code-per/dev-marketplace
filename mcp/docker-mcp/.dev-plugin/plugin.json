@@ -1,0 +1,14 @@
+{
+  "name": "docker-mcp",
+  "description": "Structured Docker operations (ps, images, logs, build) as typed JSON.",
+  "license": "MIT",
+  "mcpServers": {
+    "docker": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@paretools/docker@0.8.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-native-analytics-mcp",
+  "description": "Agent-Native Amplitude/Mixpanel - connect data sources, prompt for charts",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-native-analytics": {
+      "type": "http",
+      "url": "https://analytics.agent-native.com/mcp"
+    }
+  }
+}

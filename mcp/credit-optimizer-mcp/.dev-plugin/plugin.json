@@ -1,0 +1,13 @@
+{
+  "name": "credit-optimizer-mcp",
+  "description": "Optimizes Manus AI credit usage by 30-75% via intelligent model routing and smart testing.",
+  "license": "MIT",
+  "mcpServers": {
+    "credit-optimizer": {
+      "command": "uvx",
+      "args": [
+        "mcp-credit-optimizer==5.2.0"
+      ]
+    }
+  }
+}

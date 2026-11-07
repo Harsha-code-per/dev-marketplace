@@ -1,0 +1,14 @@
+{
+  "name": "nowaikit-mcp",
+  "description": "ServiceNow MCP server: 450+ tools for Claude, ChatGPT, Copilot & any AI. Read-only by default.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "nowaikit": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "nowaikit@4.7.3"
+      ]
+    }
+  }
+}

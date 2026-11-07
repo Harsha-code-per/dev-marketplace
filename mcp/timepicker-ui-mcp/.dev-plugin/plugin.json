@@ -1,0 +1,14 @@
+{
+  "name": "timepicker-ui-mcp",
+  "description": "MCP server for timepicker-ui: options, events, themes, public API, snippets and time validation.",
+  "license": "MIT",
+  "mcpServers": {
+    "timepicker-ui-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "timepicker-ui-mcp@2.1.0"
+      ]
+    }
+  }
+}

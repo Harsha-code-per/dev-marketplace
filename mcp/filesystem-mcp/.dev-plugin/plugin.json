@@ -1,0 +1,14 @@
+{
+  "name": "filesystem-mcp",
+  "description": "MCP server for filesystem access",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@agent-infra/mcp-server-filesystem@latest"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "scrapling-mcp",
+  "description": "Web scraping with stealth HTTP, real browsers, and Cloudflare bypass. CSS selectors supported.",
+  "license": "BSD-3-Clause",
+  "mcpServers": {
+    "scrapling": {
+      "command": "uvx",
+      "args": [
+        "scrapling==0.5.1"
+      ]
+    }
+  }
+}

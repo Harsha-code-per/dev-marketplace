@@ -1,0 +1,14 @@
+{
+  "name": "mikromcp",
+  "description": "MCP server for MikroTik RouterOS and SwOS: typed tools, dry-run, RBAC, audit logs, and rollback.",
+  "license": "MIT",
+  "mcpServers": {
+    "mikromcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mikromcp@1.16.1"
+      ]
+    }
+  }
+}

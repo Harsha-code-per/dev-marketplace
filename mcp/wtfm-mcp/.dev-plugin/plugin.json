@@ -1,0 +1,14 @@
+{
+  "name": "wtfm-mcp",
+  "description": "Your coding agent writes the user docs from your codebase, screenshots included.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "wtfm": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supportpages.io/wtfm@0.7.3"
+      ]
+    }
+  }
+}

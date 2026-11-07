@@ -1,0 +1,11 @@
+{
+  "name": "docs-mcp",
+  "description": "Remote MCP server for Tandem docs, install guides, SDKs, workflows, and agent setup help.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "docs-mcp": {
+      "type": "http",
+      "url": "https://tandem.ac/mcp"
+    }
+  }
+}

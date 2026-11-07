@@ -1,0 +1,11 @@
+{
+  "name": "lobu-mcp",
+  "description": "Shared, permission-aware company context for AI agents, with provenance, approvals and audit.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "lobu": {
+      "type": "http",
+      "url": "https://lobu.ai/mcp"
+    }
+  }
+}

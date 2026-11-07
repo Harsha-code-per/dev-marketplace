@@ -1,0 +1,13 @@
+{
+  "name": "zizkadb-mcp",
+  "description": "Causal memory and tamper-evident audit log for AI agents: log, why, search, time travel.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "zizkadb-mcp": {
+      "command": "uvx",
+      "args": [
+        "zizkadb-mcp==0.1.12"
+      ]
+    }
+  }
+}

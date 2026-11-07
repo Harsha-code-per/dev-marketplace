@@ -1,0 +1,13 @@
+{
+  "name": "proximo-proxmox-mcp",
+  "description": "The governed client for Proxmox (PVE, PBS, PMG, PDM): plans, keeps the receipts, puts things back.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "proximo-proxmox": {
+      "command": "uvx",
+      "args": [
+        "proximo-proxmox==0.52.0"
+      ]
+    }
+  }
+}

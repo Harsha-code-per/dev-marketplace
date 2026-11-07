@@ -1,0 +1,13 @@
+{
+  "name": "cn-scraper-mcp",
+  "description": "MCP server for AI agents to search major Chinese internet platforms with local-first login support.",
+  "license": "MIT",
+  "mcpServers": {
+    "cn-scraper-mcp": {
+      "command": "uvx",
+      "args": [
+        "cn-scraper-mcp==0.4.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-koala73",
+  "description": "Real-time global intelligence on conflict, markets, energy, trade, shipping and cyber. 102 tools.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://worldmonitor.app/mcp"
+    }
+  }
+}

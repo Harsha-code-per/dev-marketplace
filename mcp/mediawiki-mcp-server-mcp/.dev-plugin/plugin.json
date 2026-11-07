@@ -1,0 +1,14 @@
+{
+  "name": "mediawiki-mcp-server-mcp",
+  "description": "MCP server enabling AI clients to interact with any MediaWiki wiki through standard tools",
+  "license": "MIT",
+  "mcpServers": {
+    "mediawiki-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@professional-wiki/mediawiki-mcp-server@0.21.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "premiere-pro-mcp",
+  "description": "Local-first MCP for supported Adobe Premiere Pro workflows; start with a read-only connection check.",
+  "license": "MIT",
+  "mcpServers": {
+    "premiere-pro": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "premiere-pro-mcp@1.29.0"
+      ]
+    }
+  }
+}

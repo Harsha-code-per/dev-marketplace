@@ -1,0 +1,14 @@
+{
+  "name": "chap-mcp",
+  "description": "Auditable records of human decisions over AI agent work. Approvals, edits, overrides, escalations.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "chap": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@brightbeamai/chap-coordinator-mcp@0.3.4"
+      ]
+    }
+  }
+}

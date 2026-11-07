@@ -1,0 +1,14 @@
+{
+  "name": "appstore-connect-mcp",
+  "description": "MCP server for Apple Store Connect API integration with OAuth authentication support",
+  "license": "MIT",
+  "mcpServers": {
+    "appstore-connect-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ryaker/appstore-connect-mcp@1.0.0"
+      ]
+    }
+  }
+}

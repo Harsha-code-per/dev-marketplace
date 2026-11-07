@@ -1,0 +1,13 @@
+{
+  "name": "sonilo-mcp",
+  "description": "Licensed soundtracks and sound effects matched to your video. Commercial use OK.",
+  "license": "MIT",
+  "mcpServers": {
+    "sonilo-mcp": {
+      "command": "uvx",
+      "args": [
+        "sonilo-mcp==0.28.0"
+      ]
+    }
+  }
+}

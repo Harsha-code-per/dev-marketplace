@@ -1,0 +1,11 @@
+{
+  "name": "flowershow-mcp",
+  "description": "Publish Markdown and HTML from your AI session as a live website. No account needed.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "flowershow": {
+      "type": "http",
+      "url": "https://flowershow.app/api/mcp"
+    }
+  }
+}

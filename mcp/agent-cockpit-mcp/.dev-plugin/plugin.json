@@ -1,0 +1,14 @@
+{
+  "name": "agent-cockpit-mcp",
+  "description": "Evidence-chain whiteboard for AI research agents: every claim traces back to its run and code.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "agent-cockpit": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tingyen/agent-cockpit@0.1.0"
+      ]
+    }
+  }
+}

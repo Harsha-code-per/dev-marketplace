@@ -1,0 +1,11 @@
+{
+  "name": "runx-mcp",
+  "description": "The governed runtime for agent skills. Search the catalog and inspect a skill before running it.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "runx": {
+      "type": "http",
+      "url": "https://api.runx.ai/mcp"
+    }
+  }
+}

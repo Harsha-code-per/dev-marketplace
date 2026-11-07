@@ -1,0 +1,11 @@
+{
+  "name": "mcp-chatbotxio",
+  "description": "Omnichannel customer messaging, CRM contacts, flows, sequences, broadcasts, and AI automation.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://app.chatbotx.io/mcp/messages"
+    }
+  }
+}

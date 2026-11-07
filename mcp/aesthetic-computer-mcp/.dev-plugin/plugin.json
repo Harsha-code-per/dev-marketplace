@@ -1,0 +1,14 @@
+{
+  "name": "aesthetic-computer-mcp",
+  "description": "MCP server for aesthetic.computer - publish JavaScript, KidLisp art, and clock melodies",
+  "license": "ISC",
+  "mcpServers": {
+    "aesthetic-computer": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@aesthetic.computer/mcp@1.0.1"
+      ]
+    }
+  }
+}

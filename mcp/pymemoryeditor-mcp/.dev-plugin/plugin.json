@@ -1,0 +1,13 @@
+{
+  "name": "pymemoryeditor-mcp",
+  "description": "Read, write and scan process memory, Cheat Engine style, on Windows, Linux and macOS.",
+  "license": "MIT",
+  "mcpServers": {
+    "pymemoryeditor": {
+      "command": "uvx",
+      "args": [
+        "pymemoryeditor==3.4.1"
+      ]
+    }
+  }
+}

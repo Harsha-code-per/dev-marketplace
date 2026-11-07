@@ -1,0 +1,14 @@
+{
+  "name": "color-space-mcp",
+  "description": "Conversions across 221 color spaces, tested against cited sources: CSS strings, gamut, LUTs",
+  "license": "CC0-1.0",
+  "mcpServers": {
+    "color-space": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "color-space@3.5.0"
+      ]
+    }
+  }
+}

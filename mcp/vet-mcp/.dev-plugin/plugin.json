@@ -1,0 +1,16 @@
+{
+  "name": "vet-mcp",
+  "description": "Protect your AI agents and IDEs from malicious open-source packages.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "vet-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/safedep/vet:v1.20.0"
+      ]
+    }
+  }
+}

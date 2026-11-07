@@ -1,0 +1,14 @@
+{
+  "name": "threejs-devtools-mcp",
+  "description": "Inspect and edit Three.js scenes, materials, shaders, lights in real time from any AI agent",
+  "license": "MIT",
+  "mcpServers": {
+    "threejs-devtools": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "threejs-devtools-mcp@0.2.1"
+      ]
+    }
+  }
+}

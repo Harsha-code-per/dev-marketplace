@@ -1,0 +1,14 @@
+{
+  "name": "godot-mcp-tomyud1",
+  "description": "MCP server for Godot game engine integration — control the Godot editor with AI",
+  "license": "MIT",
+  "mcpServers": {
+    "godot-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "godot-mcp-server@0.6.1"
+      ]
+    }
+  }
+}

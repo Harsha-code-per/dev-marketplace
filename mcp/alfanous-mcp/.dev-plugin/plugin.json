@@ -1,0 +1,13 @@
+{
+  "name": "alfanous-mcp",
+  "description": "Search and explore the Holy Qur'an with Arabic text, transliteration, and advanced search support.",
+  "license": "LGPL-3.0",
+  "mcpServers": {
+    "alfanous": {
+      "command": "uvx",
+      "args": [
+        "alfanous3-mcp==1.9.4"
+      ]
+    }
+  }
+}

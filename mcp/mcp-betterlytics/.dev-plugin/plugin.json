@@ -1,0 +1,11 @@
+{
+  "name": "mcp-betterlytics",
+  "description": "Query your Betterlytics web analytics from AI agents: traffic, funnels, journeys, errors, uptime.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://betterlytics.io/api/mcp"
+    }
+  }
+}

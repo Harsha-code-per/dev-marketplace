@@ -1,0 +1,14 @@
+{
+  "name": "anymd-mcp",
+  "description": "Any file → clean Markdown for AI agents: PDF, Office, EPUB, HTML, images, audio/video. Local MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "anymd": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@sylphx/anymd@8.5.9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "praisonai-mcp",
+  "description": "AI Agents Framework with Self Reflection and MCP support",
+  "license": "MIT",
+  "mcpServers": {
+    "praisonai": {
+      "command": "uvx",
+      "args": [
+        "praisonai==2.3.42"
+      ]
+    }
+  }
+}

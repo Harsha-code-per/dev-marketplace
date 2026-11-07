@@ -1,0 +1,14 @@
+{
+  "name": "yolfi-agent-mcp",
+  "description": "Let AI agents add Yolfi crypto checkout, paylinks, webhooks, and status checks.",
+  "license": "MIT",
+  "mcpServers": {
+    "yolfi-agent": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@yolfi/agent@0.2.0"
+      ]
+    }
+  }
+}

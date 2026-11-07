@@ -1,0 +1,13 @@
+{
+  "name": "browser-use-mcp",
+  "description": "Browser agents and stealth cloud browsers for AI: run web tasks, fill forms, extract data.",
+  "license": "MIT",
+  "mcpServers": {
+    "browser-use": {
+      "command": "uvx",
+      "args": [
+        "browser-use==0.13.11"
+      ]
+    }
+  }
+}

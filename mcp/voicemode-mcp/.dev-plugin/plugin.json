@@ -1,0 +1,13 @@
+{
+  "name": "voicemode-mcp",
+  "description": "Natural voice conversations for AI assistants - STT/TTS via MCP",
+  "license": "MIT",
+  "mcpServers": {
+    "voicemode": {
+      "command": "uvx",
+      "args": [
+        "voice-mode==9.0.2"
+      ]
+    }
+  }
+}

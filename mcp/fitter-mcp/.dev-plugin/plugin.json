@@ -1,0 +1,16 @@
+{
+  "name": "fitter-mcp",
+  "description": "Turn any website or API into structured JSON with LLM-authored declarative scraping configs.",
+  "license": "MIT",
+  "mcpServers": {
+    "fitter": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/pxyup/fitter-mcp:v1.8.3"
+      ]
+    }
+  }
+}

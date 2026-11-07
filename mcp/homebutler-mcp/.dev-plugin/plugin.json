@@ -1,0 +1,14 @@
+{
+  "name": "homebutler-mcp",
+  "description": "Tells an agent what changed on a server since it last looked - status, Docker, backups, Proxmox.",
+  "license": "MIT",
+  "mcpServers": {
+    "homebutler": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "homebutler@1.4.0"
+      ]
+    }
+  }
+}

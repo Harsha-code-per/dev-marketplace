@@ -1,0 +1,14 @@
+{
+  "name": "buddy-phone-bridge-mcp",
+  "description": "Android phone tools for AI agents (read the screen, tap, type, open apps), served by the Buddy app.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "buddy-phone-bridge": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "buddy-phone-bridge@1.2.0"
+      ]
+    }
+  }
+}

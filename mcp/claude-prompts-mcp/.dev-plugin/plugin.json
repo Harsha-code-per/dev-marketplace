@@ -1,0 +1,14 @@
+{
+  "name": "claude-prompts-mcp",
+  "description": "Reusable prompt templates, multi-step workflow chains, and quality gates for any MCP client.",
+  "license": "MIT",
+  "mcpServers": {
+    "claude-prompts-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "claude-prompts@4.0.1"
+      ]
+    }
+  }
+}

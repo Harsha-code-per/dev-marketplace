@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-docs-mcp",
+  "description": "Spree Commerce docs for AI coding agents: build headless B2B and marketplace ecommerce on its APIs.",
+  "license": "BSD-3-Clause",
+  "mcpServers": {
+    "ecommerce-docs": {
+      "type": "http",
+      "url": "https://spreecommerce.org/docs/mcp"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "arm-mcp",
+  "description": "Official Arm MCP server for code migration, optimization, and Arm architecture guidance",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "arm-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/armlimited/arm-mcp:2.4.0"
+      ]
+    }
+  }
+}

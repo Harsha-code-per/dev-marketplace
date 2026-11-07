@@ -1,0 +1,11 @@
+{
+  "name": "omentir-mcp",
+  "description": "Find LinkedIn prospects, draft outreach, and run human-paced campaigns from your AI agent.",
+  "license": "MIT",
+  "mcpServers": {
+    "omentir": {
+      "type": "http",
+      "url": "https://omentir.com/api/agent/v1/mcp"
+    }
+  }
+}

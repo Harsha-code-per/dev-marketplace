@@ -1,0 +1,14 @@
+{
+  "name": "quicken-mac-mcp",
+  "description": "Read-only access to Quicken For Mac financial data: transactions, spending, and portfolios.",
+  "license": "MIT",
+  "mcpServers": {
+    "quicken-mac-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "quicken-mac-mcp@1.6.0"
+      ]
+    }
+  }
+}

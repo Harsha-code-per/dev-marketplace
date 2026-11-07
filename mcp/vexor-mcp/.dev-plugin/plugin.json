@@ -1,0 +1,13 @@
+{
+  "name": "vexor-mcp",
+  "description": "A semantic search engine for files and code.",
+  "license": "MIT",
+  "mcpServers": {
+    "vexor": {
+      "command": "uvx",
+      "args": [
+        "vexor==0.31.0"
+      ]
+    }
+  }
+}

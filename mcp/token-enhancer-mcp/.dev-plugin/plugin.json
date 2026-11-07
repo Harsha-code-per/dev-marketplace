@@ -1,0 +1,13 @@
+{
+  "name": "token-enhancer-mcp",
+  "description": "Cuts AI web-fetching costs up to 99.9% by stripping page junk before it reaches your LLM.",
+  "license": "MIT",
+  "mcpServers": {
+    "token-enhancer": {
+      "command": "uvx",
+      "args": [
+        "xelektron-token-enhancer==0.2.1"
+      ]
+    }
+  }
+}

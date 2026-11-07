@@ -1,0 +1,14 @@
+{
+  "name": "runno-mcp",
+  "description": "MCP Server for the Runno Sandbox",
+  "license": "MIT",
+  "mcpServers": {
+    "runno": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@runno/mcp@0.10.6"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "oscar-mcp",
+  "description": "An assistant reads your OSCAR installation (OSC, MIDI, DMX) and drafts interfaces you review.",
+  "license": "BSD-3-Clause",
+  "mcpServers": {
+    "oscar": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "createwithoscar@1.0.2"
+      ]
+    }
+  }
+}

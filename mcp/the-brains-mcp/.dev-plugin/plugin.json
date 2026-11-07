@@ -1,0 +1,11 @@
+{
+  "name": "the-brains-mcp",
+  "description": "Search cited playbooks from top founders and investors on growth, distribution and pricing.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "the-brains": {
+      "type": "http",
+      "url": "https://mcp.brains.ceo/mcp"
+    }
+  }
+}

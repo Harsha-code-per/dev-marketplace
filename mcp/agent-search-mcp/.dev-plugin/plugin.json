@@ -1,0 +1,14 @@
+{
+  "name": "agent-search-mcp",
+  "description": "Free-first Chinese and English web search MCP using zero-key sources and inspectable evidence.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agent-search-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "agent-search-mcp@3.2.1"
+      ]
+    }
+  }
+}

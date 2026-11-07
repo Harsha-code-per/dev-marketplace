@@ -1,0 +1,13 @@
+{
+  "name": "pathfinder-mcp",
+  "description": "Code intelligence MCP server: call graphs, type inference, and symbol search for Python/Go.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "pathfinder": {
+      "command": "uvx",
+      "args": [
+        "codepathfinder==2.1.1"
+      ]
+    }
+  }
+}

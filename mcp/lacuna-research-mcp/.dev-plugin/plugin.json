@@ -1,0 +1,13 @@
+{
+  "name": "lacuna-research-mcp",
+  "description": "Search Lacuna's ML research graph for papers, directions, authors, venues, and hypotheses.",
+  "license": "MIT",
+  "mcpServers": {
+    "lacuna-research-mcp": {
+      "command": "uvx",
+      "args": [
+        "lacuna-research-mcp==0.6.8"
+      ]
+    }
+  }
+}

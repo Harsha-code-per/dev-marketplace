@@ -1,0 +1,13 @@
+{
+  "name": "unifi-network-mcp",
+  "description": "Manage UniFi Network devices, clients, firewall, VLANs, VPNs, and more via MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "unifi-network-mcp": {
+      "command": "uvx",
+      "args": [
+        "unifi-network-mcp==0.7.8"
+      ]
+    }
+  }
+}

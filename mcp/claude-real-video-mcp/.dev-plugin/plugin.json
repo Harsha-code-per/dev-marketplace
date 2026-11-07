@@ -1,0 +1,13 @@
+{
+  "name": "claude-real-video-mcp",
+  "description": "Let any LLM watch a video locally — and search everything it has ever watched.",
+  "license": "MIT",
+  "mcpServers": {
+    "claude-real-video": {
+      "command": "uvx",
+      "args": [
+        "claude-real-video==0.10.5"
+      ]
+    }
+  }
+}

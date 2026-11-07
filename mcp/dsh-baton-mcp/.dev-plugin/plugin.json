@@ -1,0 +1,14 @@
+{
+  "name": "dsh-baton-mcp",
+  "description": "Hand tasks from Claude Code, Codex or any MCP client to a local DeepSeek Harness.",
+  "license": "MIT",
+  "mcpServers": {
+    "dsh-baton": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "dsh-baton-mcp@0.6.6"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "notebooklm-mcp-secure-mcp",
+  "description": "Security-hardened NotebookLM MCP with post-quantum encryption",
+  "license": "MIT",
+  "mcpServers": {
+    "notebooklm-mcp-secure": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pan-sec/notebooklm-mcp@2026.5.0"
+      ]
+    }
+  }
+}

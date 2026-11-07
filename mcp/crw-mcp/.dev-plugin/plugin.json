@@ -1,0 +1,16 @@
+{
+  "name": "crw-mcp",
+  "description": "Open-source web scraper for AI agents with scrape, crawl, and map tools",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "crw": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/fastcrw/crw:latest"
+      ]
+    }
+  }
+}

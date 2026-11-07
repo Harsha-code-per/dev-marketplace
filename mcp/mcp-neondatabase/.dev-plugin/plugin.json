@@ -1,0 +1,11 @@
+{
+  "name": "mcp-neondatabase",
+  "description": "Official Neon MCP server for managing Neon projects and Lakebase Postgres databases.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.neon.tech/mcp"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "composio-mcp",
+  "description": "Read Gmail, read and commit to GitHub, update Sheets, and post to Slack through Composio.",
+  "license": "MIT",
+  "mcpServers": {
+    "composio": {
+      "type": "http",
+      "url": "https://gen.pollinations.ai/mcp/composio"
+    }
+  }
+}

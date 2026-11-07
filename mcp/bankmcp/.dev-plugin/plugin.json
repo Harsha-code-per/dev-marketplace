@@ -1,0 +1,14 @@
+{
+  "name": "bankmcp",
+  "description": "Read-only MCP server for your own bank accounts via Enable Banking. Self-hosted, one user.",
+  "license": "MIT",
+  "mcpServers": {
+    "bankmcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "bankmcp@0.1.14"
+      ]
+    }
+  }
+}

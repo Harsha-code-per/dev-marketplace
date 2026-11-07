@@ -1,0 +1,13 @@
+{
+  "name": "agentburn-mcp",
+  "description": "Local profiler: which usage window took you out, and where your agent's money goes",
+  "license": "MIT",
+  "mcpServers": {
+    "agentburn": {
+      "command": "uvx",
+      "args": [
+        "agentburn==0.14.0"
+      ]
+    }
+  }
+}

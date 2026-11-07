@@ -1,0 +1,13 @@
+{
+  "name": "opik-mcp",
+  "description": "Read and score Opik traces, experiments, datasets and prompts from your AI assistant.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "opik-mcp": {
+      "command": "uvx",
+      "args": [
+        "opik-mcp==3.0.9"
+      ]
+    }
+  }
+}

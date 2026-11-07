@@ -1,0 +1,11 @@
+{
+  "name": "sessy-mcp",
+  "description": "Read-only Amazon SES observability: search events, inspect bounces, pull delivery stats.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "sessy": {
+      "type": "http",
+      "url": "https://api.sessy.do/mcp"
+    }
+  }
+}

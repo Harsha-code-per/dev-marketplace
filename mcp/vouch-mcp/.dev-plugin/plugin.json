@@ -1,0 +1,13 @@
+{
+  "name": "vouch-mcp",
+  "description": "Git-native, review-gated knowledge base for LLM agents. Cited retrieval, audited writes.",
+  "license": "MIT",
+  "mcpServers": {
+    "vouch": {
+      "command": "uvx",
+      "args": [
+        "vouch-kb==1.2.2"
+      ]
+    }
+  }
+}

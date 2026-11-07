@@ -1,0 +1,14 @@
+{
+  "name": "ai-tool-radar-mcp",
+  "description": "MCP server for the Rise of Machine AI tools directory.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "ai-tool-radar-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ai-tool-radar-mcp@0.1.1"
+      ]
+    }
+  }
+}

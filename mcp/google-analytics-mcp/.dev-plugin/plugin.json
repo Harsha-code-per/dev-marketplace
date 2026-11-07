@@ -1,0 +1,13 @@
+{
+  "name": "google-analytics-mcp",
+  "description": "GA4 MCP server for AI agents: schema discovery, server-side aggregation, analysis-ready defaults.",
+  "license": "MIT",
+  "mcpServers": {
+    "google-analytics-mcp": {
+      "command": "uvx",
+      "args": [
+        "google-analytics-mcp==2.11.7"
+      ]
+    }
+  }
+}

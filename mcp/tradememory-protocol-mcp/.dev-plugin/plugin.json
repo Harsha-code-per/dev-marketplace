@@ -1,0 +1,13 @@
+{
+  "name": "tradememory-protocol-mcp",
+  "description": "Tamper-evident decision audit trail and outcome-weighted memory for AI trading agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "tradememory-protocol": {
+      "command": "uvx",
+      "args": [
+        "tradememory-protocol==0.5.6"
+      ]
+    }
+  }
+}

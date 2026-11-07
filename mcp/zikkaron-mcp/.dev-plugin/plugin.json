@@ -1,0 +1,13 @@
+{
+  "name": "zikkaron-mcp",
+  "description": "Biologically-inspired persistent memory engine for Claude Code MCP agents",
+  "license": "MIT",
+  "mcpServers": {
+    "zikkaron": {
+      "command": "uvx",
+      "args": [
+        "zikkaron==1.0.0"
+      ]
+    }
+  }
+}

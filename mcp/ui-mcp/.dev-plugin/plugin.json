@@ -1,0 +1,11 @@
+{
+  "name": "ui-mcp",
+  "description": "Search free React, Tailwind, and shadcn components, blocks, and dashboards; get installable source.",
+  "license": "MIT",
+  "mcpServers": {
+    "ui": {
+      "type": "http",
+      "url": "https://mcp.watermelon.sh/mcp"
+    }
+  }
+}

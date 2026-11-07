@@ -1,0 +1,14 @@
+{
+  "name": "scrcpy-mcp",
+  "description": "MCP server for Android device control via ADB and scrcpy",
+  "license": "MIT",
+  "mcpServers": {
+    "scrcpy-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "scrcpy-mcp@0.5.0"
+      ]
+    }
+  }
+}

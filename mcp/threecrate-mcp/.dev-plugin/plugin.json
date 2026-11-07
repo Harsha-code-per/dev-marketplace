@@ -1,0 +1,13 @@
+{
+  "name": "threecrate-mcp",
+  "description": "Clean, align, measure and repair 3D scans and meshes; make scans printable as STL.",
+  "license": "MIT",
+  "mcpServers": {
+    "threecrate-mcp": {
+      "command": "uvx",
+      "args": [
+        "threecrate-mcp==0.2.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cli-microsoft365-mcp-server-mcp",
+  "description": "MCP server for CLI for Microsoft 365 to manage your tenant using natural language",
+  "license": "MIT",
+  "mcpServers": {
+    "cli-microsoft365-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pnp/cli-microsoft365-mcp-server@0.1.22"
+      ]
+    }
+  }
+}

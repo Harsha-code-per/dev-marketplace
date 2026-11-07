@@ -1,0 +1,14 @@
+{
+  "name": "domshell-mcp",
+  "description": "Drive Chrome with filesystem commands (ls, cd, grep, click, type). One MCP tool, multi-agent.",
+  "license": "MIT",
+  "mcpServers": {
+    "domshell": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@apireno/domshell@2.0.10"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "treg-mcp",
+  "description": "OpenRouter for tools and data. Compare catalog providers and call them from one hosted MCP endpoint.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "treg": {
+      "type": "http",
+      "url": "https://treg.to/mcp"
+    }
+  }
+}

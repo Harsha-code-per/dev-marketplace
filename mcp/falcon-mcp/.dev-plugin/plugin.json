@@ -1,0 +1,13 @@
+{
+  "name": "falcon-mcp",
+  "description": "Connects AI agents with CrowdStrike Falcon for security analysis and automation.",
+  "license": "MIT",
+  "mcpServers": {
+    "falcon-mcp": {
+      "command": "uvx",
+      "args": [
+        "falcon-mcp==0.20.2"
+      ]
+    }
+  }
+}

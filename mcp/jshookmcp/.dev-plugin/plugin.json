@@ -1,0 +1,14 @@
+{
+  "name": "jshookmcp",
+  "description": "Search-first MCP server for JavaScript reverse engineering: 735 tools across 36 domains.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "jshookmcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@jshookmcp/jshook@0.4.2"
+      ]
+    }
+  }
+}

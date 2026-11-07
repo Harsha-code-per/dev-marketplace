@@ -1,0 +1,14 @@
+{
+  "name": "template-server-name-mcp",
+  "description": "Template MCP server example.",
+  "license": "MIT",
+  "mcpServers": {
+    "template-server-name": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@azure/mcp-template@0.0.12-alpha.5932986"
+      ]
+    }
+  }
+}

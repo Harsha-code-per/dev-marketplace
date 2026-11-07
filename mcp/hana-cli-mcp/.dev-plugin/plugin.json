@@ -1,0 +1,14 @@
+{
+  "name": "hana-cli-mcp",
+  "description": "150+ SAP HANA database tools as MCP tools for AI assistants",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "hana-cli": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "hana-cli@4.202607.1"
+      ]
+    }
+  }
+}

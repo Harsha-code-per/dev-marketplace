@@ -1,0 +1,11 @@
+{
+  "name": "uizze-mcp",
+  "description": "UI design that stands out. Full-screen UI references and design materials for coding agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "uizze": {
+      "type": "http",
+      "url": "https://uizze.com/mcp"
+    }
+  }
+}

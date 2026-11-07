@@ -1,0 +1,14 @@
+{
+  "name": "desktop-commander-mcp",
+  "description": "MCP server for terminal commands, file operations, and process management",
+  "license": "MIT",
+  "mcpServers": {
+    "desktop-commander": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@wonderwhy-er/desktop-commander@0.3.1"
+      ]
+    }
+  }
+}

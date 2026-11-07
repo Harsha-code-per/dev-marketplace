@@ -1,0 +1,14 @@
+{
+  "name": "github-mcp",
+  "description": "MCP server for GitHub operations (PRs, issues, actions) with structured, token-efficient output",
+  "license": "MIT",
+  "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@paretools/github@0.7.1"
+      ]
+    }
+  }
+}

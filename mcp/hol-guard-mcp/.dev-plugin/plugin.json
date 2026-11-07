@@ -1,0 +1,13 @@
+{
+  "name": "hol-guard-mcp",
+  "description": "Local-first AI agent security evidence and approval workflows through HOL Guard's stdio MCP server.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "hol-guard": {
+      "command": "uvx",
+      "args": [
+        "hol-guard==3.59.0"
+      ]
+    }
+  }
+}

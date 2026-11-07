@@ -1,0 +1,13 @@
+{
+  "name": "mineru-open-mcp",
+  "description": "Parse PDFs, images, doc, docx, ppt, pptx, xls, xlsx, html into Markdown using MinerU API.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mineru-open-mcp": {
+      "command": "uvx",
+      "args": [
+        "mineru-open-mcp==1.0.20"
+      ]
+    }
+  }
+}

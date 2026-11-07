@@ -1,0 +1,14 @@
+{
+  "name": "prism-coder-mcp",
+  "description": "Session memory for coding agents: local-first recall, drift detection, on-device inference.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "prism-coder": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "prism-mcp-server@20.22.4"
+      ]
+    }
+  }
+}

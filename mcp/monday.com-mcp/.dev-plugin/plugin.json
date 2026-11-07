@@ -1,0 +1,11 @@
+{
+  "name": "monday.com-mcp",
+  "description": "MCP server for monday.com integration.",
+  "license": "MIT",
+  "mcpServers": {
+    "monday.com": {
+      "type": "http",
+      "url": "https://mcp.monday.com/mcp"
+    }
+  }
+}

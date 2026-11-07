@@ -1,0 +1,11 @@
+{
+  "name": "mcp-solidinvoice",
+  "description": "Create and send invoices and quotes, manage clients, and track payments in SolidInvoice.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://solidinvoice.app/_mcp"
+    }
+  }
+}

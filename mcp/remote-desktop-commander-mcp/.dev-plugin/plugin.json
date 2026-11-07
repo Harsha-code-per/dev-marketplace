@@ -1,0 +1,11 @@
+{
+  "name": "remote-desktop-commander-mcp",
+  "description": "Remote Desktop Commander: use files, terminal and processes on your own computers from any AI app.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "remote-desktop-commander": {
+      "type": "http",
+      "url": "https://mcp.desktopcommander.app/mcp"
+    }
+  }
+}

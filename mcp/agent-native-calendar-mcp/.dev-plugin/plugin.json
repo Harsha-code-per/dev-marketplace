@@ -1,0 +1,11 @@
+{
+  "name": "agent-native-calendar-mcp",
+  "description": "Agent-Native Google Calendar - manage events, sync, and public booking",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-native-calendar": {
+      "type": "http",
+      "url": "https://calendar.agent-native.com/mcp"
+    }
+  }
+}

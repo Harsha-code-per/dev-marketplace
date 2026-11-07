@@ -1,0 +1,13 @@
+{
+  "name": "cloud-audit-mcp",
+  "description": "AWS security scanner with attack chain detection, IAM privilege escalation, and fixes",
+  "license": "MIT",
+  "mcpServers": {
+    "cloud-audit": {
+      "command": "uvx",
+      "args": [
+        "cloud-audit==2.0.1"
+      ]
+    }
+  }
+}

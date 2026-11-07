@@ -1,0 +1,11 @@
+{
+  "name": "mengram-mcp",
+  "description": "Long-term memory for AI agents: semantic facts, episodic events, and procedural workflows",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mengram": {
+      "type": "http",
+      "url": "https://mengram.io/mcp"
+    }
+  }
+}

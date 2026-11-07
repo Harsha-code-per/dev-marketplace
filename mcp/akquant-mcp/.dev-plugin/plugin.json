@@ -1,0 +1,13 @@
+{
+  "name": "akquant-mcp",
+  "description": "Write and backtest trading strategies with AKQuant: API lookup, strategy checks, backtest runs",
+  "license": "MIT",
+  "mcpServers": {
+    "akquant": {
+      "command": "uvx",
+      "args": [
+        "akquant==0.3.80"
+      ]
+    }
+  }
+}

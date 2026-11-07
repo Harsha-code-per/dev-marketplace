@@ -1,0 +1,13 @@
+{
+  "name": "reaper-mcp",
+  "description": "Enables AI assistants to control REAPER for mixing, mastering, MIDI and music production.",
+  "license": "MIT",
+  "mcpServers": {
+    "reaper-mcp": {
+      "command": "uvx",
+      "args": [
+        "twelvetake-reaper-mcp==1.10.1"
+      ]
+    }
+  }
+}

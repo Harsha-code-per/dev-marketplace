@@ -1,0 +1,13 @@
+{
+  "name": "leis-mcp",
+  "description": "Busca e cita o texto oficial de mais de 1,2 milhão de normas brasileiras (ctresb/leis).",
+  "license": "MIT",
+  "mcpServers": {
+    "leis-mcp": {
+      "command": "uvx",
+      "args": [
+        "leis-mcp==0.2.0"
+      ]
+    }
+  }
+}

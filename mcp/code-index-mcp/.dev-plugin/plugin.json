@@ -1,0 +1,14 @@
+{
+  "name": "code-index-mcp",
+  "description": "Rust code index MCP server, native 1C:Enterprise (BSL) support. 37 tools, AST for 14 languages.",
+  "license": "MIT",
+  "mcpServers": {
+    "code-index": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@regsorm/code-index-mcp@1.15.6"
+      ]
+    }
+  }
+}

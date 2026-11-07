@@ -1,0 +1,14 @@
+{
+  "name": "accessibility-agents-mcp",
+  "description": "WCAG 2.2 scanners for web pages, Office, PDF, ePub and Markdown: contrast, axe, veraPDF and more.",
+  "license": "MIT",
+  "mcpServers": {
+    "accessibility-agents": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@community-access/accessibility-agents-mcp@7.1.0"
+      ]
+    }
+  }
+}

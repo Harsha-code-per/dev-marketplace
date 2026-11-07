@@ -1,0 +1,13 @@
+{
+  "name": "attestix-mcp",
+  "description": "AI agent identity, signed credentials, delegated authority and governance evidence.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "attestix": {
+      "command": "uvx",
+      "args": [
+        "attestix==0.5.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "secondhand-mcp",
+  "description": "Search Facebook Marketplace, eBay, Depop, and Poshmark from AI — filters, photos, full listings.",
+  "license": "MIT",
+  "mcpServers": {
+    "secondhand-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "secondhand-mcp@0.6.0"
+      ]
+    }
+  }
+}

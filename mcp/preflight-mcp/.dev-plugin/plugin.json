@@ -1,0 +1,14 @@
+{
+  "name": "preflight-mcp",
+  "description": "New Relic MCP server for observing AI coding assistants (Claude Code, Cursor, Copilot, etc.)",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "preflight": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@newrelic/preflight@1.71.0"
+      ]
+    }
+  }
+}

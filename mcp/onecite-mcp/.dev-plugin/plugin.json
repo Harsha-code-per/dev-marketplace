@@ -1,0 +1,13 @@
+{
+  "name": "onecite-mcp",
+  "description": "Generate academic citations from DOI, arXiv, titles, or URLs in BibTeX, APA, MLA formats.",
+  "license": "MIT",
+  "mcpServers": {
+    "onecite": {
+      "command": "uvx",
+      "args": [
+        "onecite==0.0.11"
+      ]
+    }
+  }
+}

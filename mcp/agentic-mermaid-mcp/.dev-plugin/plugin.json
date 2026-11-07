@@ -1,0 +1,14 @@
+{
+  "name": "agentic-mermaid-mcp",
+  "description": "Render, verify, describe, and safely edit Mermaid diagrams through MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "agentic-mermaid": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "agentic-mermaid@0.5.6"
+      ]
+    }
+  }
+}

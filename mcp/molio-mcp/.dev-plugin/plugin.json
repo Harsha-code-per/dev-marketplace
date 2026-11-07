@@ -1,0 +1,14 @@
+{
+  "name": "molio-mcp",
+  "description": "Read-only access to your Molio local knowledge base: search, read, browse, and AI Q&A.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "molio": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@molio/cli@0.1.2"
+      ]
+    }
+  }
+}

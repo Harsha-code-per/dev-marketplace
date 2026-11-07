@@ -1,0 +1,13 @@
+{
+  "name": "backlot-mcp",
+  "description": "Local emulator for Slack, Gmail, Drive, GitHub, Jira, Notion, S3 and more, with per-document ACLs",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "backlot": {
+      "command": "uvx",
+      "args": [
+        "backlot==0.1.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vexa-mcp",
+  "description": "Meeting bot and transcripts for Google Meet, Teams and Zoom. Live or after, speakers labelled.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "vexa": {
+      "type": "http",
+      "url": "https://api.cloud.vexa.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dynamodb-mcp",
+  "description": "MCP server for AWS DynamoDB with fine-grained tool control and configurable access levels.",
+  "license": "MIT",
+  "mcpServers": {
+    "dynamodb": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "aws-dynamodb-mcp-server@0.2.7"
+      ]
+    }
+  }
+}

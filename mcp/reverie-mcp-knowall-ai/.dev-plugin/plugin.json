@@ -1,0 +1,14 @@
+{
+  "name": "reverie-mcp-knowall-ai",
+  "description": "Graph memory that dreams: Neo4j knowledge-graph memory for AI agents with hybrid search",
+  "license": "MIT",
+  "mcpServers": {
+    "reverie": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@knowall-ai/reverie@0.5.1"
+      ]
+    }
+  }
+}

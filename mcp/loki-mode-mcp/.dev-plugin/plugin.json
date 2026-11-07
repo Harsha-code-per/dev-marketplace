@@ -1,0 +1,14 @@
+{
+  "name": "loki-mode-mcp",
+  "description": "Autonomous spec-to-product coding-agent CLI with an MCP server exposing 39 tools over stdio.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "loki-mode": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "loki-mode@10.9.1"
+      ]
+    }
+  }
+}

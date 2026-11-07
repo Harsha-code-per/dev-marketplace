@@ -1,0 +1,14 @@
+{
+  "name": "sentry-mcp",
+  "description": "MCP server for Sentry - error monitoring, issue tracking, and debugging for AI assistants",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "sentry-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@sentry/mcp-server@0.49.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "easyeda-copilot-mcp",
+  "description": "AI tools for EasyEDA Pro schematics, PCB placement and routing, SPICE simulation, and DRC.",
+  "license": "MIT",
+  "mcpServers": {
+    "easyeda-copilot": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "easyeda-copilot-mcp@1.3.2"
+      ]
+    }
+  }
+}

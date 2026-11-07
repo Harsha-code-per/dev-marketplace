@@ -1,0 +1,13 @@
+{
+  "name": "mirobody-mcp",
+  "description": "Lab results to LOINC codes and UCUM units, symptoms and diagnoses to ICPC-3. Offline, no API key.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mirobody": {
+      "command": "uvx",
+      "args": [
+        "mirobody==1.6.0"
+      ]
+    }
+  }
+}

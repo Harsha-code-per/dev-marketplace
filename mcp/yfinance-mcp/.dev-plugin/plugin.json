@@ -1,0 +1,13 @@
+{
+  "name": "yfinance-mcp",
+  "description": "Access Yahoo Finance stock data, news, screeners, options, financials, and charts through MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "yfinance-mcp": {
+      "command": "uvx",
+      "args": [
+        "yfmcp==0.14.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "silverbullet-ai-mcp",
+  "description": "Exposes silverbullet-ai tools from a SilverBullet space to MCP clients",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "silverbullet-ai-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "silverbullet-ai-mcp@0.10.0-alpha.4"
+      ]
+    }
+  }
+}

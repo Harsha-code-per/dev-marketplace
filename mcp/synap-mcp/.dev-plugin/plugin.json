@@ -1,0 +1,11 @@
+{
+  "name": "synap-mcp",
+  "description": "Persistent memory for AI agents — log and recall conversation context over MCP.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "synap": {
+      "type": "http",
+      "url": "https://synap-mcp.maximem.ai/mcp"
+    }
+  }
+}

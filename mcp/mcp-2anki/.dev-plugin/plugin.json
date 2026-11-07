@@ -1,0 +1,11 @@
+{
+  "name": "mcp-2anki",
+  "description": "Turn text, files, URLs, or photos into Anki flashcard decks from your AI assistant.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://2anki.net/mcp"
+    }
+  }
+}

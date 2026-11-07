@@ -1,0 +1,13 @@
+{
+  "name": "streamdeck-mcp",
+  "description": "MCP server for Elgato Stream Deck control — set buttons, manage pages, wire actions",
+  "license": "MIT",
+  "mcpServers": {
+    "streamdeck-mcp": {
+      "command": "uvx",
+      "args": [
+        "streamdeck-mcp==0.1.2"
+      ]
+    }
+  }
+}

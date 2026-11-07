@@ -1,0 +1,14 @@
+{
+  "name": "dbcode-mcp",
+  "description": "Query and explore 100+ databases through your DBCode connections.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "dbcode": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dbcode/mcp@1.0.1"
+      ]
+    }
+  }
+}

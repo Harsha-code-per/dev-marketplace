@@ -1,0 +1,14 @@
+{
+  "name": "olcli-mcp",
+  "description": "Overleaf projects from an MCP client: files, compile and PDF, diff, comments and tracked changes",
+  "license": "MIT",
+  "mcpServers": {
+    "olcli": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@aloth/olcli@0.16.1"
+      ]
+    }
+  }
+}

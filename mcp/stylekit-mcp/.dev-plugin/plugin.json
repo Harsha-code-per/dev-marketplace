@@ -1,0 +1,14 @@
+{
+  "name": "stylekit-mcp",
+  "description": "MCP server for StyleKit styles, tokens, recipes, lint and repair over stdio or HTTP.",
+  "license": "MIT",
+  "mcpServers": {
+    "stylekit-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "stylekit-mcp@0.5.0"
+      ]
+    }
+  }
+}

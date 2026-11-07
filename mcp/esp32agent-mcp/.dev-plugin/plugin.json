@@ -1,0 +1,14 @@
+{
+  "name": "esp32agent-mcp",
+  "description": "Let AI agents see and operate a real iPhone via an ESP32-S3 USB HID + AirPlay. No jailbreak.",
+  "license": "MIT",
+  "mcpServers": {
+    "esp32agent": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "esp32agent@0.1.3"
+      ]
+    }
+  }
+}

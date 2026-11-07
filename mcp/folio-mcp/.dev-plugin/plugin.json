@@ -1,0 +1,11 @@
+{
+  "name": "folio-mcp",
+  "description": "Self-hosted Git-backed team wiki: search, read and edit pages, data tables and whiteboards.",
+  "license": "MIT",
+  "mcpServers": {
+    "folio": {
+      "type": "http",
+      "url": "https://demo.foliowiki.online/mcp"
+    }
+  }
+}

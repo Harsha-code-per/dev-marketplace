@@ -1,0 +1,14 @@
+{
+  "name": "dnstwist-mcp",
+  "description": "MCP server for dnstwist: detect typosquatting, phishing and brand impersonation domains.",
+  "license": "MIT",
+  "mcpServers": {
+    "dnstwist": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@burtthecoder/mcp-dnstwist@1.1.4"
+      ]
+    }
+  }
+}

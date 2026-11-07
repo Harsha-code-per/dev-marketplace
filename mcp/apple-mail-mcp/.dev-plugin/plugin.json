@@ -1,0 +1,13 @@
+{
+  "name": "apple-mail-mcp",
+  "description": "Apple Mail MCP server with full-coverage FTS5 body search, reliable on large mailboxes.",
+  "license": "GPL-3.0",
+  "mcpServers": {
+    "apple-mail-mcp": {
+      "command": "uvx",
+      "args": [
+        "apple-mail-mcp==0.5.0"
+      ]
+    }
+  }
+}

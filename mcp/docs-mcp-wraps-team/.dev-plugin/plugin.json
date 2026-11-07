@@ -1,0 +1,11 @@
+{
+  "name": "docs-mcp-wraps-team",
+  "description": "Search the Wraps docs and estimate AWS SES costs. Public, read-only, no authentication.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "docs": {
+      "type": "http",
+      "url": "https://wraps.dev/mcp"
+    }
+  }
+}

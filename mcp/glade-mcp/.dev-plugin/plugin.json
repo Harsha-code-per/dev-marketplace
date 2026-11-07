@@ -1,0 +1,13 @@
+{
+  "name": "glade-mcp",
+  "description": "Control the Unity and Godot editors from AI clients: scenes, scripts, physics, materials.",
+  "license": "MIT",
+  "mcpServers": {
+    "glade-mcp": {
+      "command": "uvx",
+      "args": [
+        "gladekit-mcp==0.7.14"
+      ]
+    }
+  }
+}

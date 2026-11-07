@@ -1,0 +1,14 @@
+{
+  "name": "akb-mcp",
+  "description": "Git-backed org memory for AI agents — hybrid search, tables, files & a URI graph over MCP.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "akb": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "akb-mcp@2.0.4"
+      ]
+    }
+  }
+}

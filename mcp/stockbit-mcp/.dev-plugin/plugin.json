@@ -1,0 +1,14 @@
+{
+  "name": "stockbit-mcp",
+  "description": "Indonesian exchange (IDX) via your own Stockbit account: quotes, bandarmology, charts. Unofficial.",
+  "license": "MIT",
+  "mcpServers": {
+    "stockbit-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "stockbit-mcp@1.4.1"
+      ]
+    }
+  }
+}

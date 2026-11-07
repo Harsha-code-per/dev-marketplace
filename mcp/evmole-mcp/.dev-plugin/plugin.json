@@ -1,0 +1,14 @@
+{
+  "name": "evmole-mcp",
+  "description": "Local structured analysis of deployed EVM runtime bytecode",
+  "license": "MIT",
+  "mcpServers": {
+    "evmole": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "evmole-mcp@0.9.4"
+      ]
+    }
+  }
+}

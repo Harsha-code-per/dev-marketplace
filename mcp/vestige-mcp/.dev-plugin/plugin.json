@@ -1,0 +1,14 @@
+{
+  "name": "vestige-mcp",
+  "description": "Causal Proof Engine for AI agents: signed log, zero vectors, failures traced to their cause.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "vestige": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "vestige-mcp-server@4.2.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mcp-appwrite",
+  "description": "Build and deploy backends: auth, Postgres/MySQL/vector databases, storage, functions, hosting, CDN",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-appwrite==2.4.3"
+      ]
+    }
+  }
+}

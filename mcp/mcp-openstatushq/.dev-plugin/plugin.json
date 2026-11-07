@@ -1,0 +1,11 @@
+{
+  "name": "mcp-openstatushq",
+  "description": "Manage monitors, status pages, incidents and maintenances in your openstatus workspace.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://api.openstatus.dev/mcp"
+    }
+  }
+}

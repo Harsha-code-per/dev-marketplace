@@ -1,0 +1,11 @@
+{
+  "name": "aihot-mcp",
+  "description": "Chinese AI news: search topics, explore hot events, and read daily, weekly and monthly briefs.",
+  "license": "MIT",
+  "mcpServers": {
+    "aihot": {
+      "type": "http",
+      "url": "https://aihot.news/api/mcp"
+    }
+  }
+}

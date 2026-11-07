@@ -1,0 +1,13 @@
+{
+  "name": "arifos-mcp-ariffazil",
+  "description": "Constitutional AI governance server with 5-organ Trinity and enforced floors F1-F13.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "arifos-mcp": {
+      "command": "uvx",
+      "args": [
+        "arifos==2026.2.22"
+      ]
+    }
+  }
+}

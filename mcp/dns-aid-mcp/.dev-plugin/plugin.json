@@ -1,0 +1,13 @@
+{
+  "name": "dns-aid-mcp",
+  "description": "Discover and publish AI agents via DNS using SVCB records (RFC 9460)",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "dns-aid": {
+      "command": "uvx",
+      "args": [
+        "dns-aid==0.28.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "office-oxide-mcp",
+  "description": "Rust-native MCP server for Office document processing",
+  "license": "GPL-3.0",
+  "mcpServers": {
+    "office-oxide-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@aimino/opendocswork-mcp@0.2.1"
+      ]
+    }
+  }
+}

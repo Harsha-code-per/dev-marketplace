@@ -1,0 +1,14 @@
+{
+  "name": "sem-mcp",
+  "description": "Entity-level code intelligence: semantic diff, impact analysis, blame, and context for AI agents",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "sem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ataraxy-labs/sem@0.29.0"
+      ]
+    }
+  }
+}

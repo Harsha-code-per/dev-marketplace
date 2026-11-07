@@ -1,0 +1,16 @@
+{
+  "name": "shaft-mcp",
+  "description": "SHAFT browser automation, capture, and offline deterministic failure diagnosis",
+  "license": "MIT",
+  "mcpServers": {
+    "shaft-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/shafthq/shaft-engine-mcp:10.4.20261102"
+      ]
+    }
+  }
+}

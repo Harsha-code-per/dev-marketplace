@@ -1,0 +1,11 @@
+{
+  "name": "honcho-mcp",
+  "description": "Memory that reasons: continual learning for stateful agents. Better context, fewer tokens.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "honcho": {
+      "type": "http",
+      "url": "https://mcp.honcho.dev"
+    }
+  }
+}

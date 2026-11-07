@@ -1,0 +1,13 @@
+{
+  "name": "context-engine-mcp",
+  "description": "Compress logs, retrieval chunks, and code context into structured LLM-ready signal.",
+  "license": "MIT",
+  "mcpServers": {
+    "context-engine": {
+      "command": "uvx",
+      "args": [
+        "melonelish-context-engine==0.1.0"
+      ]
+    }
+  }
+}

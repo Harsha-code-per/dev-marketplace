@@ -1,0 +1,14 @@
+{
+  "name": "synabun-mcp",
+  "description": "Persistent memory MCP server for Claude Code, Codex and OpenCode, stored locally in SQLite",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "synabun": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "synabun@2.2.2"
+      ]
+    }
+  }
+}

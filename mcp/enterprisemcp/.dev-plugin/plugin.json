@@ -1,0 +1,11 @@
+{
+  "name": "enterprisemcp",
+  "description": "Official Microsoft MCP Server to query Microsoft Entra data using natural language",
+  "license": "CC-BY-4.0",
+  "mcpServers": {
+    "enterprisemcp": {
+      "type": "http",
+      "url": "https://mcp.svc.cloud.microsoft/enterprise"
+    }
+  }
+}

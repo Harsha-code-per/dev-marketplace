@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-guide-mcp",
+  "description": "Search the Claude Code Ultimate Guide and machine-readable references from any MCP client.",
+  "license": "CC-BY-SA-4.0",
+  "mcpServers": {
+    "claude-code-guide": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "claude-code-ultimate-guide-mcp@1.3.7"
+      ]
+    }
+  }
+}

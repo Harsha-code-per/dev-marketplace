@@ -1,0 +1,14 @@
+{
+  "name": "ori-memory-mcp",
+  "description": "Persistent memory infrastructure for AI agents. Identity, knowledge graph, and search.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "ori-memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ori-memory@0.3.0"
+      ]
+    }
+  }
+}

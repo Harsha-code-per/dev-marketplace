@@ -1,0 +1,13 @@
+{
+  "name": "aktools-mcp",
+  "description": "Search and fetch AKShare financial data (stocks, futures, funds, macro) from AI assistants",
+  "license": "MIT",
+  "mcpServers": {
+    "aktools": {
+      "command": "uvx",
+      "args": [
+        "aktools==0.1.4"
+      ]
+    }
+  }
+}

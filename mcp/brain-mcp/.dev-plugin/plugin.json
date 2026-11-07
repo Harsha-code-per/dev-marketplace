@@ -1,0 +1,13 @@
+{
+  "name": "brain-mcp",
+  "description": "Records your Claude Code, Codex and Pi history before deletion. Cited-or-abstain recall.",
+  "license": "MIT",
+  "mcpServers": {
+    "brain-mcp": {
+      "command": "uvx",
+      "args": [
+        "brain-mcp==2.0.0"
+      ]
+    }
+  }
+}

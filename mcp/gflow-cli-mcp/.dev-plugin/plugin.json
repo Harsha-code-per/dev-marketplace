@@ -1,0 +1,13 @@
+{
+  "name": "gflow-cli-mcp",
+  "description": "Drive Google Flow from an agent: Veo video and Imagen image generation",
+  "license": "MIT",
+  "mcpServers": {
+    "gflow-cli": {
+      "command": "uvx",
+      "args": [
+        "gflow-cli==0.95.0"
+      ]
+    }
+  }
+}

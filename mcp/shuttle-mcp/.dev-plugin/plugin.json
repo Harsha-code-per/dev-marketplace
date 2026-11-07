@@ -1,0 +1,16 @@
+{
+  "name": "shuttle-mcp",
+  "description": "Android framework and solution that prevents TransactionTooLargeException crashes by design.",
+  "license": "MIT",
+  "mcpServers": {
+    "shuttle": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/grarcht/shuttle-mcp:4.0.0"
+      ]
+    }
+  }
+}

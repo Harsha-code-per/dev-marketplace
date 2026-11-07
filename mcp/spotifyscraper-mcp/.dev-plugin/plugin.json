@@ -1,0 +1,13 @@
+{
+  "name": "spotifyscraper-mcp",
+  "description": "Public Spotify metadata, lyrics and podcasts for LLM agents. No API key, read-only.",
+  "license": "MIT",
+  "mcpServers": {
+    "spotifyscraper": {
+      "command": "uvx",
+      "args": [
+        "spotifyscraper==3.9.2"
+      ]
+    }
+  }
+}

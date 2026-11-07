@@ -1,0 +1,14 @@
+{
+  "name": "unreal-engine-mcp",
+  "description": "EngineWire: drive the Unreal Editor (UE 5.0-5.8): levels, Blueprints, UI, materials, VFX and more.",
+  "license": "MIT",
+  "mcpServers": {
+    "unreal-engine-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "unreal-engine-mcp-server@0.6.1-beta-a"
+      ]
+    }
+  }
+}

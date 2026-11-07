@@ -1,0 +1,14 @@
+{
+  "name": "audionaut-mcp",
+  "description": "Edit Audionaut multitrack projects: cut, fade, analyse, export. Requires the Audionaut app.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "audionaut": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "audionaut-mcp@0.5.0"
+      ]
+    }
+  }
+}

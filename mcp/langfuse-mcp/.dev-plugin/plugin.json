@@ -1,0 +1,13 @@
+{
+  "name": "langfuse-mcp",
+  "description": "Langfuse MCP server for accessing and analyzing telemetry data via natural language",
+  "license": "MIT",
+  "mcpServers": {
+    "langfuse-mcp": {
+      "command": "uvx",
+      "args": [
+        "langfuse-mcp==0.14.0"
+      ]
+    }
+  }
+}

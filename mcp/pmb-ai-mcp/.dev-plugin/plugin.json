@@ -1,0 +1,13 @@
+{
+  "name": "pmb-ai-mcp",
+  "description": "Local-first persistent memory for AI coding agents.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "pmb-ai": {
+      "command": "uvx",
+      "args": [
+        "pmb-ai==1.1.0"
+      ]
+    }
+  }
+}

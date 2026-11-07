@@ -1,0 +1,13 @@
+{
+  "name": "datawrapper-mcp",
+  "description": "A Model Context Protocol (MCP) server and app for creating Datawrapper charts using AI assistants",
+  "license": "MIT",
+  "mcpServers": {
+    "datawrapper-mcp": {
+      "command": "uvx",
+      "args": [
+        "datawrapper-mcp==0.4.0"
+      ]
+    }
+  }
+}

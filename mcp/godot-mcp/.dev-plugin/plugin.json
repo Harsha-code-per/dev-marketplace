@@ -1,0 +1,14 @@
+{
+  "name": "godot-mcp",
+  "description": "Agent-driven Godot playtesting: editor control, input injection, game-time stepping, live state.",
+  "license": "MIT",
+  "mcpServers": {
+    "godot-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@satelliteoflove/godot-mcp@4.1.11"
+      ]
+    }
+  }
+}

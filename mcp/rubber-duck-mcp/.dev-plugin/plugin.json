@@ -1,0 +1,14 @@
+{
+  "name": "rubber-duck-mcp",
+  "description": "Bridge to multiple LLMs and CLI agents: councils, debates, voting, and more",
+  "license": "MIT",
+  "mcpServers": {
+    "rubber-duck": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-rubber-duck@1.18.0"
+      ]
+    }
+  }
+}

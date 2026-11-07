@@ -1,0 +1,13 @@
+{
+  "name": "wireshark-mcp",
+  "description": "Professional network analysis with tshark. Security audits, deep-dives, and threat detection.",
+  "license": "MIT",
+  "mcpServers": {
+    "wireshark-mcp": {
+      "command": "uvx",
+      "args": [
+        "wireshark-mcp==0.6.5"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trading-signals-mcp",
+  "description": "Live AI crypto trading signals for agents. Try 3 signals without a key; sign in from your agent.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "trading-signals": {
+      "type": "http",
+      "url": "https://signals.x70.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "misata-mcp",
+  "description": "Declarative synthetic data: multi-table data that holds the facts you declare, checked by DuckDB.",
+  "license": "MIT",
+  "mcpServers": {
+    "misata": {
+      "command": "uvx",
+      "args": [
+        "misata==0.9.8"
+      ]
+    }
+  }
+}

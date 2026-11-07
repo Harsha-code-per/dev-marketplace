@@ -1,0 +1,14 @@
+{
+  "name": "context-mcp",
+  "description": "Local-first documentation for AI agents. Offline, instant, private doc retrieval.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "context": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@neuledge/context@1.4.2"
+      ]
+    }
+  }
+}

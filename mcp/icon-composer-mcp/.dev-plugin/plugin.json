@@ -1,0 +1,14 @@
+{
+  "name": "icon-composer-mcp",
+  "description": "CLI and MCP server for creating Apple .icon bundles with Liquid Glass effects (iOS 26+)",
+  "license": "MIT",
+  "mcpServers": {
+    "icon-composer-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "icon-composer-mcp@1.1.0"
+      ]
+    }
+  }
+}

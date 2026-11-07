@@ -1,0 +1,14 @@
+{
+  "name": "mcp-abap-adt-compact-mcp",
+  "description": "Compact MCP server for SAP ABAP ADT over HTTP, RFC or SNC: one tool per operation, object in args",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp-abap-adt-compact": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mcp-abap-adt/compact@23.1.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "synaplan-mcp",
+  "description": "Self-hosted AI workspace: semantic RAG document search, long-term memory, and AI chat via MCP.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "synaplan": {
+      "type": "http",
+      "url": "https://web.synaplan.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "figma-context-mcp",
+  "description": "Give your coding agent access to your Figma data. Implement designs in any framework in one-shot.",
+  "license": "MIT",
+  "mcpServers": {
+    "figma-context-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "figma-developer-mcp@0.13.2"
+      ]
+    }
+  }
+}

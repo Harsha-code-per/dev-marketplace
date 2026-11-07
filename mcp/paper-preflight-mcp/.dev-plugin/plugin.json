@@ -1,0 +1,13 @@
+{
+  "name": "paper-preflight-mcp",
+  "description": "Checks every LaTeX reference against Crossref, dblp, arXiv, DataCite, PubMed and OpenAlex. No LLM.",
+  "license": "MIT",
+  "mcpServers": {
+    "paper-preflight": {
+      "command": "uvx",
+      "args": [
+        "paper-preflight==1.0.0"
+      ]
+    }
+  }
+}

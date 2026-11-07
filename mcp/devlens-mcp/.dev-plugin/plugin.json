@@ -1,0 +1,14 @@
+{
+  "name": "devlens-mcp",
+  "description": "Query a precomputed code graph (nodes, edges, summaries) of TS/JS/React/Next.js/Node repos via MCP.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "devlens": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@devlensio/cli@0.7.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "svelte-llm-mcp",
+  "description": "An MCP server that provides access to Svelte 5 and SvelteKit documentation",
+  "license": "MIT",
+  "mcpServers": {
+    "svelte-llm-mcp": {
+      "type": "http",
+      "url": "https://svelte-llm.stanislav.garden/mcp/mcp"
+    }
+  }
+}

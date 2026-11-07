@@ -1,0 +1,14 @@
+{
+  "name": "appsignal-mcp",
+  "description": "MCP server for AppSignal — get alert details, search logs, and retrieve logs within time ranges.",
+  "license": "MIT",
+  "mcpServers": {
+    "appsignal": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "appsignal-mcp-server@0.5.4"
+      ]
+    }
+  }
+}

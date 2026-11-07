@@ -1,0 +1,14 @@
+{
+  "name": "next-ai-drawio-mcp",
+  "description": "draw.io diagrams your AI agent draws on a live browser canvas that you can also edit by hand",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "next-ai-drawio": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@next-ai-drawio/mcp-server@0.4.13"
+      ]
+    }
+  }
+}

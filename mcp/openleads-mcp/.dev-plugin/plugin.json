@@ -1,0 +1,13 @@
+{
+  "name": "openleads-mcp",
+  "description": "Find leads with honest email evidence, then work them: CRM, sequences, tasks, deals. No API keys.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "openleads": {
+      "command": "uvx",
+      "args": [
+        "openleads==5.2.0"
+      ]
+    }
+  }
+}

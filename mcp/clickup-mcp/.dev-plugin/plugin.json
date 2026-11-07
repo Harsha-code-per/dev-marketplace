@@ -1,0 +1,14 @@
+{
+  "name": "clickup-mcp",
+  "description": "Premium AI integration. Tasks, lists, docs, folders, time. 50+ tools. Instant setup.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "clickup": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@taazkareem/clickup-mcp-server@0.12.12"
+      ]
+    }
+  }
+}

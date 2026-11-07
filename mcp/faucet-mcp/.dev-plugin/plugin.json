@@ -1,0 +1,14 @@
+{
+  "name": "faucet-mcp",
+  "description": "SQL database to MCP tools and REST API: PostgreSQL, MySQL, SQL Server, Oracle, SQLite, Snowflake.",
+  "license": "MIT",
+  "mcpServers": {
+    "faucet": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@faucetdb/faucet@0.1.15"
+      ]
+    }
+  }
+}

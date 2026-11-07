@@ -1,0 +1,13 @@
+{
+  "name": "godotiq-mcp",
+  "description": "Intelligent MCP server for Godot 4. Spatial intelligence, code analysis, 35 tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "godotiq": {
+      "command": "uvx",
+      "args": [
+        "godotiq==0.1.3"
+      ]
+    }
+  }
+}

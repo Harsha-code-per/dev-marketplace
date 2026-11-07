@@ -1,0 +1,13 @@
+{
+  "name": "sec-edgar-mcp",
+  "description": "SEC EDGAR MCP server that provides access to the US public filings through the US SEC EDGAR API",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "sec-edgar-mcp": {
+      "command": "uvx",
+      "args": [
+        "sec-edgar-mcp==1.0.5"
+      ]
+    }
+  }
+}

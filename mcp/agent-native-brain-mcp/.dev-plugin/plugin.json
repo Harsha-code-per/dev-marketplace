@@ -1,0 +1,11 @@
+{
+  "name": "agent-native-brain-mcp",
+  "description": "Cited company knowledge from Slack, meetings, transcripts, and decisions",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-native-brain": {
+      "type": "http",
+      "url": "https://brain.agent-native.com/mcp"
+    }
+  }
+}

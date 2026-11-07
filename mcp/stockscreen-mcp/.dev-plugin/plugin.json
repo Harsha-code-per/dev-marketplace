@@ -1,0 +1,13 @@
+{
+  "name": "stockscreen-mcp",
+  "description": "Daily stock screens, RS ratings, market breadth and group rankings for 12 markets. No API keys.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "stockscreen-mcp": {
+      "command": "uvx",
+      "args": [
+        "stockscreen-mcp==0.3.0"
+      ]
+    }
+  }
+}

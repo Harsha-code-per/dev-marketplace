@@ -1,0 +1,14 @@
+{
+  "name": "flow-mcp",
+  "description": "Build, validate, simulate, and deploy walkerOS event pipelines",
+  "license": "MIT",
+  "mcpServers": {
+    "flow": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@walkeros/mcp@4.5.0"
+      ]
+    }
+  }
+}

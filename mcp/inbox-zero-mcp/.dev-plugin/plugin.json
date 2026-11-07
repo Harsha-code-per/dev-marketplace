@@ -1,0 +1,11 @@
+{
+  "name": "inbox-zero-mcp",
+  "description": "Search Gmail and Outlook, save drafts, manage email rules, and view email stats.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "inbox-zero": {
+      "type": "http",
+      "url": "https://www.getinboxzero.com/mcp"
+    }
+  }
+}

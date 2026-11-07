@@ -1,0 +1,14 @@
+{
+  "name": "livetennisapi-mcp",
+  "description": "Live tennis scores, players, rankings, odds and win-probability. ATP, WTA, Challenger, ITF, juniors.",
+  "license": "MIT",
+  "mcpServers": {
+    "livetennisapi-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "livetennisapi-mcp@1.6.5"
+      ]
+    }
+  }
+}

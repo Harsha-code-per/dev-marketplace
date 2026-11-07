@@ -1,0 +1,14 @@
+{
+  "name": "xcodemcp",
+  "description": "Control Xcode directly via JXA for build, test, debug operations with XCLogParser integration",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "xcodemcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "xcodemcp@2.1.4"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aai-gateway-mcp",
+  "description": "Unified MCP & Skill management gateway, shared across AI agents, 99% context token savings",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "aai-gateway": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "aai-gateway@1.1.10"
+      ]
+    }
+  }
+}

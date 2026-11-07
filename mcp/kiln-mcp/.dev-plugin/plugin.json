@@ -1,0 +1,13 @@
+{
+  "name": "kiln-mcp",
+  "description": "Spawn an object into existence: describe it, and your agent designs it, checks it, and 3D prints it.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "kiln": {
+      "command": "uvx",
+      "args": [
+        "kiln3d==1.5.1"
+      ]
+    }
+  }
+}

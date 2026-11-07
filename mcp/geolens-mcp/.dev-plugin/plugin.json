@@ -1,0 +1,13 @@
+{
+  "name": "geolens-mcp",
+  "description": "Read-only access to a self-hosted GeoLens spatial catalog: datasets, features, maps, sandboxed SQL.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "geolens": {
+      "command": "uvx",
+      "args": [
+        "geolens-mcp==1.29.2"
+      ]
+    }
+  }
+}

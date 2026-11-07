@@ -1,0 +1,13 @@
+{
+  "name": "tsbootstrap-mcp",
+  "description": "Read-only time-series bootstrap server: diagnose a series and compute confidence intervals.",
+  "license": "MIT",
+  "mcpServers": {
+    "tsbootstrap": {
+      "command": "uvx",
+      "args": [
+        "tsbootstrap==0.7.3"
+      ]
+    }
+  }
+}

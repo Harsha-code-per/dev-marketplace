@@ -1,0 +1,11 @@
+{
+  "name": "mcp-posthog",
+  "description": "Official PostHog MCP Server for product analytics, feature flags, experiments, and more.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.posthog.com/mcp"
+    }
+  }
+}

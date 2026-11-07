@@ -1,0 +1,14 @@
+{
+  "name": "cargo-mcp",
+  "description": "Structured Rust cargo operations (build, test, clippy) as typed JSON.",
+  "license": "MIT",
+  "mcpServers": {
+    "cargo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@paretools/cargo@0.7.1"
+      ]
+    }
+  }
+}

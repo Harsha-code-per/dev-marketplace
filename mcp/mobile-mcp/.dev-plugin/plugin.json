@@ -1,0 +1,14 @@
+{
+  "name": "mobile-mcp",
+  "description": "MCP server for iOS and Android Mobile Development, Automation and Testing",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mobile-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mobilenext/mobile-mcp@1.0.16"
+      ]
+    }
+  }
+}

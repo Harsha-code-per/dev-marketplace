@@ -1,0 +1,11 @@
+{
+  "name": "equation-mcp",
+  "description": "Create interactive 2D and 3D graphs with validated equations, shareable links, and PNG previews.",
+  "license": "MIT",
+  "mcpServers": {
+    "equation": {
+      "type": "http",
+      "url": "https://equation.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "agent-reliability-skills-mcp",
+  "description": "Generates a pre-coding reliability skill (SKILL.md) for your agent repo from Trustabl's rules.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agent-reliability-skills": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@trustabl/agent-reliability-skills@0.1.0-rc.2"
+      ]
+    }
+  }
+}

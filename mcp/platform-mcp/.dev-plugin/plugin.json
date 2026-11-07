@@ -1,0 +1,11 @@
+{
+  "name": "platform-mcp",
+  "description": "Secure and manage MCP servers through the Speakeasy AI Control Plane from your agent.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "platform": {
+      "type": "http",
+      "url": "https://ai.speakeasy.com/platform-mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "drissionpage-mcp",
+  "description": "Local browser automation for MCP clients powered by DrissionPage.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "drissionpage-mcp": {
+      "command": "uvx",
+      "args": [
+        "drissionpage-mcp==0.8.5"
+      ]
+    }
+  }
+}

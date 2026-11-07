@@ -1,0 +1,14 @@
+{
+  "name": "perplexity-comet-mcp",
+  "description": "Bridge Claude Code with Perplexity Comet for autonomous browsing and tab management",
+  "license": "MIT",
+  "mcpServers": {
+    "perplexity-comet-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "perplexity-comet-mcp@2.5.0"
+      ]
+    }
+  }
+}

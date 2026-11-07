@@ -1,0 +1,11 @@
+{
+  "name": "emem-mcp",
+  "description": "Shared, verifiable memory for machines and AI. Encode where data lives; decode with any AI.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "emem": {
+      "type": "http",
+      "url": "https://emem.dev/mcp"
+    }
+  }
+}

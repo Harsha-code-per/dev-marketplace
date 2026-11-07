@@ -1,0 +1,16 @@
+{
+  "name": "scaleway-mcp",
+  "description": "Scaleway MCP server for interacting with the Scaleway APIs",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "scaleway-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "scaleway/cli:2.65.1"
+      ]
+    }
+  }
+}

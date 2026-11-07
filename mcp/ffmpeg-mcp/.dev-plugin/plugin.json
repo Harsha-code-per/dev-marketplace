@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-mcp",
+  "description": "Trim, convert, resize, compress, and remix audio and video.",
+  "license": "MIT",
+  "mcpServers": {
+    "ffmpeg": {
+      "type": "http",
+      "url": "https://gen.pollinations.ai/mcp/ffmpeg"
+    }
+  }
+}

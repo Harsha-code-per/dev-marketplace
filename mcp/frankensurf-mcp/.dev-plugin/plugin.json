@@ -1,0 +1,13 @@
+{
+  "name": "frankensurf-mcp",
+  "description": "Read any web page and search the web: 28 tools, cheapest first, every page checked.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "frankensurf": {
+      "command": "uvx",
+      "args": [
+        "frankensurf==0.50.0"
+      ]
+    }
+  }
+}

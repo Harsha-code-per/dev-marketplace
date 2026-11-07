@@ -1,0 +1,13 @@
+{
+  "name": "nova3d-mcp",
+  "description": "Structured, part-aware 3D generation for AI agents. Named-part GLB, preview URL, Blender script.",
+  "license": "MIT",
+  "mcpServers": {
+    "nova3d": {
+      "command": "uvx",
+      "args": [
+        "nova3d-mcp==0.4.0"
+      ]
+    }
+  }
+}

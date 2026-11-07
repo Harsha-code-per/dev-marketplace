@@ -1,0 +1,11 @@
+{
+  "name": "sosumi-mcp",
+  "description": "Search and read Apple developer documentation, HIG, and WWDC transcripts as Markdown.",
+  "license": "MIT",
+  "mcpServers": {
+    "sosumi": {
+      "type": "http",
+      "url": "https://sosumi.ai/mcp"
+    }
+  }
+}

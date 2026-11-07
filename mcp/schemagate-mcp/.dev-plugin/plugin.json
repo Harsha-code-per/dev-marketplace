@@ -1,0 +1,13 @@
+{
+  "name": "schemagate-mcp",
+  "description": "Identity-scoped schema selection for text-to-SQL. Returns only the tables the caller may read.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "schemagate": {
+      "command": "uvx",
+      "args": [
+        "schemagate==1.16.0"
+      ]
+    }
+  }
+}

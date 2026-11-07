@@ -1,0 +1,13 @@
+{
+  "name": "fhir-mcp-server-mcp",
+  "description": "MCP server providing seamless access to FHIR APIs for AI tools and healthcare applications",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "fhir-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "fhir-mcp-server==0.11.0"
+      ]
+    }
+  }
+}

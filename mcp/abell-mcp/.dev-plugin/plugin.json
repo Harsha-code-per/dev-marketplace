@@ -1,0 +1,14 @@
+{
+  "name": "abell-mcp",
+  "description": "AI tools related to Abell. Currently includes MCP of Abell",
+  "license": "MIT",
+  "mcpServers": {
+    "abell": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "abell-ai@0.0.9"
+      ]
+    }
+  }
+}

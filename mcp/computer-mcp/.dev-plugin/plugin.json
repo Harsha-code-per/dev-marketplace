@@ -1,0 +1,11 @@
+{
+  "name": "computer-mcp",
+  "description": "A private persistent computer: files that survive between runs, a bash shell and JavaScript.",
+  "license": "MIT",
+  "mcpServers": {
+    "computer": {
+      "type": "http",
+      "url": "https://gen.pollinations.ai/mcp/computer"
+    }
+  }
+}

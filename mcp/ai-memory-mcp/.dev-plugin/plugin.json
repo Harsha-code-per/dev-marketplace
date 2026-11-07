@@ -1,0 +1,16 @@
+{
+  "name": "ai-memory-mcp",
+  "description": "Persistent memory for any AI — zero token cost until recall",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "ai-memory": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/alphaonedev/ai-memory:0.5.1"
+      ]
+    }
+  }
+}

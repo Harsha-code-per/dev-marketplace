@@ -1,0 +1,14 @@
+{
+  "name": "pulse-fetch-mcp",
+  "description": "MCP server that extracts clean, structured content from web pages with anti-bot bypass capabilities.",
+  "license": "MIT",
+  "mcpServers": {
+    "pulse-fetch": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pulsemcp/pulse-fetch@0.2.14"
+      ]
+    }
+  }
+}

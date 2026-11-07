@@ -1,0 +1,13 @@
+{
+  "name": "people-context-mcp",
+  "description": "Local-first MCP server giving AI agents contextual knowledge about the people in your life",
+  "license": "MIT",
+  "mcpServers": {
+    "people-context": {
+      "command": "uvx",
+      "args": [
+        "people-context==1.5.0"
+      ]
+    }
+  }
+}

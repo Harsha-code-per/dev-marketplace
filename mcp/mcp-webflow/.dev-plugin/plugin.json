@@ -1,0 +1,11 @@
+{
+  "name": "mcp-webflow",
+  "description": "AI-powered design and management for Webflow Sites",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.webflow.com/mcp"
+    }
+  }
+}

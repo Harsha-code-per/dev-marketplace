@@ -1,0 +1,14 @@
+{
+  "name": "memory-mcp",
+  "description": "Persistent memory + git snapshots for Claude Code. Never lose context or code.",
+  "license": "MIT",
+  "mcpServers": {
+    "memory-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "claude-code-memory@1.2.1"
+      ]
+    }
+  }
+}

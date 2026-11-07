@@ -1,0 +1,11 @@
+{
+  "name": "mcp-trade-it-inc",
+  "description": "Connect brokerage accounts to AI assistants: holdings, orders, asset lookup, and approved trading.",
+  "license": "CC0-1.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.tradeit.app/mcp"
+    }
+  }
+}

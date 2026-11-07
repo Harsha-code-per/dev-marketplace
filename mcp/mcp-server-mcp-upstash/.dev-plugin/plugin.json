@@ -1,0 +1,14 @@
+{
+  "name": "mcp-server-mcp-upstash",
+  "description": "No longer maintained. Use the remote Upstash MCP server: https://mcp.upstash.com/mcp",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/mcp-server@0.4.0"
+      ]
+    }
+  }
+}

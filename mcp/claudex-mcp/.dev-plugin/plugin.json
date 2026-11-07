@@ -1,0 +1,14 @@
+{
+  "name": "claudex-mcp",
+  "description": "Persistent memory + FTS5 search MCP server for Claude Code conversation history.",
+  "license": "MIT",
+  "mcpServers": {
+    "claudex": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@kunwarshah/claudex@1.3.4"
+      ]
+    }
+  }
+}

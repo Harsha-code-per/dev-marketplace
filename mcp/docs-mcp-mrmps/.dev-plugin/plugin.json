@@ -1,0 +1,11 @@
+{
+  "name": "docs-mcp-mrmps",
+  "description": "classifier.dev documentation as tools: list, read and search the reference, benchmark and guides.",
+  "license": "MIT",
+  "mcpServers": {
+    "docs": {
+      "type": "http",
+      "url": "https://classifier.dev/mcp/docs"
+    }
+  }
+}

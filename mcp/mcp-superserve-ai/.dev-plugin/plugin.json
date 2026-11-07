@@ -1,0 +1,14 @@
+{
+  "name": "mcp-superserve-ai",
+  "description": "MCP server for Superserve sandboxes: create, exec, and manage Firecracker microVMs",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@superserve/mcp@0.3.4"
+      ]
+    }
+  }
+}

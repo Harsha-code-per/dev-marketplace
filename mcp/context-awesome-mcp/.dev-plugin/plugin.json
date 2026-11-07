@@ -1,0 +1,14 @@
+{
+  "name": "context-awesome-mcp",
+  "description": "MCP server for accessing curated awesome list documentation",
+  "license": "MIT",
+  "mcpServers": {
+    "context-awesome": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "context-awesome@0.1.1"
+      ]
+    }
+  }
+}

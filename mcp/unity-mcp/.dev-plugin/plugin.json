@@ -1,0 +1,11 @@
+{
+  "name": "unity-mcp",
+  "description": "Make games with AI: one MCP server that connects your agent to Unity, Unreal and Godot editors.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "unity-mcp": {
+      "type": "http",
+      "url": "https://ai-game.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "safari-mcp",
+  "description": "Native Safari browser automation for AI agents — 98 tools, zero Chrome overhead.",
+  "license": "MIT",
+  "mcpServers": {
+    "safari-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "safari-mcp@2.23.0"
+      ]
+    }
+  }
+}

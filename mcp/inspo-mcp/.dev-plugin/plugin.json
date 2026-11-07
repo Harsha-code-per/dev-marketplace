@@ -1,0 +1,14 @@
+{
+  "name": "inspo-mcp",
+  "description": "Real production websites for coding agents: palettes, fonts, fold autopsies and reference JSX.",
+  "license": "MIT",
+  "mcpServers": {
+    "inspo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "inspo-mcp@0.1.16"
+      ]
+    }
+  }
+}

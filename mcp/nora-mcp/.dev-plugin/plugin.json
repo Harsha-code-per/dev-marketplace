@@ -1,0 +1,14 @@
+{
+  "name": "nora-mcp",
+  "description": "Operate self-hosted OpenClaw and Hermes agent fleets on Docker or Kubernetes from MCP clients.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "nora": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@noraai/mcp-server@0.1.4"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trypost-mcp",
+  "description": "Run social media with agents. Connect over MCP to plan, write, and post to every network.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "trypost": {
+      "type": "http",
+      "url": "https://app.trypost.it/mcp/trypost"
+    }
+  }
+}

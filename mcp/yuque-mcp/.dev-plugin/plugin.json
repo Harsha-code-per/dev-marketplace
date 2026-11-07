@@ -1,0 +1,14 @@
+{
+  "name": "yuque-mcp",
+  "description": "MCP server for Yuque — expose your knowledge base to AI assistants.",
+  "license": "MIT",
+  "mcpServers": {
+    "yuque-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "yuque-mcp@0.1.4"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "financetoolkit-mcp",
+  "description": "500+ transparent financial methods calculated from raw statements, not third-party endpoints.",
+  "license": "MIT",
+  "mcpServers": {
+    "financetoolkit": {
+      "command": "uvx",
+      "args": [
+        "financetoolkit==2.3.2"
+      ]
+    }
+  }
+}

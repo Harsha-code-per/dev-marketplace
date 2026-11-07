@@ -1,0 +1,13 @@
+{
+  "name": "omega-memory-mcp",
+  "description": "Persistent memory, coordination, and learning for AI agents. Local-first, 25 MCP tools.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "omega-memory": {
+      "command": "uvx",
+      "args": [
+        "omega-memory==1.3.0"
+      ]
+    }
+  }
+}

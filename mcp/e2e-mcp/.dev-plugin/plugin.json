@@ -1,0 +1,14 @@
+{
+  "name": "e2e-mcp",
+  "description": "Open live web and mobile app sessions from an e2e project to inspect the app and try locators.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "e2e": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "e2e@0.23.0"
+      ]
+    }
+  }
+}

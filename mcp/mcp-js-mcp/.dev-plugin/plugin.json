@@ -1,0 +1,16 @@
+{
+  "name": "mcp-js-mcp",
+  "description": "Run JavaScript and TypeScript in sandboxed V8 isolates with policy-controlled host capabilities.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mcp-js": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/wholelottahoopla/mcp-js:0.22.0"
+      ]
+    }
+  }
+}

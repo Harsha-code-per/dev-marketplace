@@ -1,0 +1,14 @@
+{
+  "name": "roslyn-codelens-mcp",
+  "description": "Roslyn MCP server: semantic .NET/C# intelligence - analysis, refactoring, tests, IL inspection.",
+  "license": "MIT",
+  "mcpServers": {
+    "roslyn-codelens": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "roslyn-codelens-mcp@2.18.2"
+      ]
+    }
+  }
+}

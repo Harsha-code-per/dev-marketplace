@@ -1,0 +1,13 @@
+{
+  "name": "screaming-frog-mcp",
+  "description": "Headless Screaming Frog SEO Spider via its CLI: run crawls, export and filter data, no GUI needed.",
+  "license": "MIT",
+  "mcpServers": {
+    "screaming-frog-mcp": {
+      "command": "uvx",
+      "args": [
+        "screaming-frog-mcp==0.4.3"
+      ]
+    }
+  }
+}

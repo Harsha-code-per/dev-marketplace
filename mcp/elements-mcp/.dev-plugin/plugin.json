@@ -1,0 +1,14 @@
+{
+  "name": "elements-mcp",
+  "description": "NVIDIA Elements UI design system and agent tools for AI/ML, robotics, and autonomous vehicles.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "elements": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@nvidia-elements/cli@2.2.16"
+      ]
+    }
+  }
+}

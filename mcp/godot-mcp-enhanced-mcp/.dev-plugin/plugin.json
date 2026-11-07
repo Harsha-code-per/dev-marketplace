@@ -1,0 +1,14 @@
+{
+  "name": "godot-mcp-enhanced-mcp",
+  "description": "Enhanced Godot 4.5-4.7 MCP: headless+editor+bridge, secure GDScript sandbox, closed-loop AI dev.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "godot-mcp-enhanced": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "godot-mcp-enhanced@0.24.0"
+      ]
+    }
+  }
+}

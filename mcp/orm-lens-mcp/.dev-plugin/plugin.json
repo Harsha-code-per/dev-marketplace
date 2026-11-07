@@ -1,0 +1,13 @@
+{
+  "name": "orm-lens-mcp",
+  "description": "Django and SQLAlchemy static analysis: models, relations, migrations, Alembic, N+1.",
+  "license": "MIT",
+  "mcpServers": {
+    "orm-lens": {
+      "command": "uvx",
+      "args": [
+        "orm-lens==1.17.1"
+      ]
+    }
+  }
+}

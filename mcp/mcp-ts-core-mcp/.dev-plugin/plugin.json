@@ -1,0 +1,14 @@
+{
+  "name": "mcp-ts-core-mcp",
+  "description": "Agent-native TypeScript framework for building MCP servers.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp-ts-core": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@cyanheads/mcp-ts-core@0.13.21"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "martin-loop-mcp",
+  "description": "One system around coding agents to run, verify, recover, and hand off software work.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "martin-loop": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@martinloop/mcp@0.9.0"
+      ]
+    }
+  }
+}

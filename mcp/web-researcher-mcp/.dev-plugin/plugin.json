@@ -1,0 +1,16 @@
+{
+  "name": "web-researcher-mcp",
+  "description": "Your AI research assistant that cites real sources and stays honest",
+  "license": "MIT",
+  "mcpServers": {
+    "web-researcher-mcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/zoharbabin/web-researcher-mcp:1.50.4"
+      ]
+    }
+  }
+}

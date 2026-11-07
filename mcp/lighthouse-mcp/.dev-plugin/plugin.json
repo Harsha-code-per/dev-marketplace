@@ -1,0 +1,14 @@
+{
+  "name": "lighthouse-mcp",
+  "description": "MCP server for Google Lighthouse performance metrics",
+  "license": "MIT",
+  "mcpServers": {
+    "lighthouse-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "lighthouse-mcp@0.1.9"
+      ]
+    }
+  }
+}

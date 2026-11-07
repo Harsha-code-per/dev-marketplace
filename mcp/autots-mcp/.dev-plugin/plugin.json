@@ -1,0 +1,13 @@
+{
+  "name": "autots-mcp",
+  "description": "Automated time series forecasting with model search, anomaly detection, and event risk analysis",
+  "license": "MIT",
+  "mcpServers": {
+    "autots": {
+      "command": "uvx",
+      "args": [
+        "autots-mcp==1.0.1"
+      ]
+    }
+  }
+}

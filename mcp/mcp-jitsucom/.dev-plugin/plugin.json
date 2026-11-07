@@ -1,0 +1,11 @@
+{
+  "name": "mcp-jitsucom",
+  "description": "Manage Jitsu data pipelines: destinations, streams, connections, functions, live events.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://use.jitsu.com/mcp"
+    }
+  }
+}

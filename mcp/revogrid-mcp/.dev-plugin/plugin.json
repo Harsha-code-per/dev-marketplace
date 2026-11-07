@@ -1,0 +1,11 @@
+{
+  "name": "revogrid-mcp",
+  "description": "Token-free MCP server for structured RevoGrid Core, Pro, and Enterprise knowledge retrieval.",
+  "license": "MIT",
+  "mcpServers": {
+    "revogrid-mcp": {
+      "type": "http",
+      "url": "https://mcp.rv-grid.com"
+    }
+  }
+}

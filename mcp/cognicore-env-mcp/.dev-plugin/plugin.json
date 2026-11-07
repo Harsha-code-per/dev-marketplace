@@ -1,0 +1,11 @@
+{
+  "name": "cognicore-env-mcp",
+  "description": "Memory, reflection and safety for AI agents. Hosted or local, no vector database.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "cognicore-env": {
+      "type": "http",
+      "url": "https://mcp.cognicoree.tech/mcp/stream"
+    }
+  }
+}

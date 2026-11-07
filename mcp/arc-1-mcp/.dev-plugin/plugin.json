@@ -1,0 +1,14 @@
+{
+  "name": "arc-1-mcp",
+  "description": "MCP server for SAP ABAP systems",
+  "license": "MIT",
+  "mcpServers": {
+    "arc-1": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "arc-1@1.10.0"
+      ]
+    }
+  }
+}

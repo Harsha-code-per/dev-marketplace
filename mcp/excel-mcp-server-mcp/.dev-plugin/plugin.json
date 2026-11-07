@@ -1,0 +1,13 @@
+{
+  "name": "excel-mcp-server-mcp",
+  "description": "Create and edit Excel files with AI: charts, PivotTables, formulas. No Excel needed.",
+  "license": "MIT",
+  "mcpServers": {
+    "excel-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "excel-mcp-server==2.2.6"
+      ]
+    }
+  }
+}

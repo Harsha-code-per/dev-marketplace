@@ -1,0 +1,13 @@
+{
+  "name": "orcaslicer-mcp",
+  "description": "Work a running OrcaSlicer with AI: slice, tune, and understand what each setting costs",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "orcaslicer-mcp": {
+      "command": "uvx",
+      "args": [
+        "orcaslicer-mcp==0.1.19"
+      ]
+    }
+  }
+}

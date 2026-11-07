@@ -1,0 +1,13 @@
+{
+  "name": "excalidraw-architect-mcp",
+  "description": "Generate beautiful Excalidraw architecture diagrams with auto-layout and component styling",
+  "license": "MIT",
+  "mcpServers": {
+    "excalidraw-architect-mcp": {
+      "command": "uvx",
+      "args": [
+        "excalidraw-architect-mcp==0.2.2"
+      ]
+    }
+  }
+}

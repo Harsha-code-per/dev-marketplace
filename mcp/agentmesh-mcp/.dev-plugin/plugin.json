@@ -1,0 +1,14 @@
+{
+  "name": "agentmesh-mcp",
+  "description": "Discover and call remote MCP tools as your own authenticated Agent Mesh member.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agentmesh": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@agentmesh-p2p/sdk@0.2.0"
+      ]
+    }
+  }
+}

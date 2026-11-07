@@ -1,0 +1,13 @@
+{
+  "name": "docling-rs-mcp",
+  "description": "Documents to Markdown for agents: PDF layout, tables and OCR, Office, HTML, scans. docling in Rust.",
+  "license": "MIT",
+  "mcpServers": {
+    "docling-rs": {
+      "command": "uvx",
+      "args": [
+        "docling-rs-mcp==2.67.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alpha_vantage_mcp",
+  "description": "Real-time financial market data: stocks, forex, crypto, commodities, and economic indicators",
+  "license": "MIT",
+  "mcpServers": {
+    "alpha_vantage_mcp": {
+      "type": "http",
+      "url": "https://mcp.alphavantage.co/mcp"
+    }
+  }
+}

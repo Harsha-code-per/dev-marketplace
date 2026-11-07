@@ -1,0 +1,14 @@
+{
+  "name": "kordoc-mcp",
+  "description": "Parse Korean documents (HWP, HWPX, PDF, XLSX, DOCX, PPTX) to Markdown; fill forms, diff, render.",
+  "license": "MIT",
+  "mcpServers": {
+    "kordoc": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "kordoc@4.24.52"
+      ]
+    }
+  }
+}

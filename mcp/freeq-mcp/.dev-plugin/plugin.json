@@ -1,0 +1,11 @@
+{
+  "name": "freeq-mcp",
+  "description": "Read and verify freeq conversations: channels, history, search, signatures, pins.",
+  "license": "MIT",
+  "mcpServers": {
+    "freeq": {
+      "type": "http",
+      "url": "https://irc.freeq.at/mcp"
+    }
+  }
+}

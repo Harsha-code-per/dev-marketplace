@@ -1,0 +1,16 @@
+{
+  "name": "ksail-mcp",
+  "description": "SDK for creating, managing, and operating Kubernetes clusters and workloads with ease.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "ksail": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/devantler-tech/ksail:v7.212.9"
+      ]
+    }
+  }
+}

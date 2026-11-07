@@ -1,0 +1,14 @@
+{
+  "name": "anilist-mcp",
+  "description": "AniList MCP server for accessing AniList API data",
+  "license": "MIT",
+  "mcpServers": {
+    "anilist-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "anilist-mcp@1.4.0"
+      ]
+    }
+  }
+}

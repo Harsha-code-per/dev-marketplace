@@ -1,0 +1,11 @@
+{
+  "name": "morocco-communes-mcp",
+  "description": "Morocco's régions, provinces and communes: HCP codes, names, census population and boundaries",
+  "license": "MIT",
+  "mcpServers": {
+    "morocco-communes": {
+      "type": "http",
+      "url": "https://communes.pages.dev/mcp"
+    }
+  }
+}

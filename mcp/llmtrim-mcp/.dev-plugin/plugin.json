@@ -1,0 +1,14 @@
+{
+  "name": "llmtrim-mcp",
+  "description": "MCP server and proxy that compresses LLM prompts, tool output, and replies to cut token cost.",
+  "license": "MPL-2.0",
+  "mcpServers": {
+    "llmtrim": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@llmtrim/cli@0.13.4"
+      ]
+    }
+  }
+}

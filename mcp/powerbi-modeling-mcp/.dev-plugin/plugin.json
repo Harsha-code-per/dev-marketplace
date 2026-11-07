@@ -1,0 +1,14 @@
+{
+  "name": "powerbi-modeling-mcp",
+  "description": "The Power BI Authoring MCP server lets an AI agent create and change Power BI semantic models.",
+  "license": "MIT",
+  "mcpServers": {
+    "powerbi-modeling-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@microsoft/powerbi-modeling-mcp@1.0.1"
+      ]
+    }
+  }
+}

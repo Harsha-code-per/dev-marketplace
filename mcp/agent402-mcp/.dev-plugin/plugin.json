@@ -1,0 +1,14 @@
+{
+  "name": "agent402-mcp",
+  "description": "Agentic Finance: 500+ agent tools, multi-chain USDC over x402 or MPP, or free via proof-of-work",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "agent402": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "agent402-mcp@0.13.31"
+      ]
+    }
+  }
+}

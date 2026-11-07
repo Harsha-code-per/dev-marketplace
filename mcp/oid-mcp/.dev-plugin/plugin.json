@@ -1,0 +1,13 @@
+{
+  "name": "oid-mcp",
+  "description": "MCP server giving AI agents eyes on OpenImageDebugger buffers in live gdb/lldb sessions",
+  "license": "MIT",
+  "mcpServers": {
+    "oid-mcp": {
+      "command": "uvx",
+      "args": [
+        "oid-mcp==0.3.6"
+      ]
+    }
+  }
+}

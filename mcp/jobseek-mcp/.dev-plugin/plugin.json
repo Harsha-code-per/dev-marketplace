@@ -1,0 +1,14 @@
+{
+  "name": "jobseek-mcp",
+  "description": "Search jobs and companies on Job Seek (jseek.co)",
+  "license": "MIT",
+  "mcpServers": {
+    "jobseek": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@jseek/mcp-server@0.2.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "openzim-mcp",
+  "description": "Offline MCP access to ZIM knowledge archives — Wikipedia, Wiktionary, Stack Exchange, Kiwix.",
+  "license": "MIT",
+  "mcpServers": {
+    "openzim-mcp": {
+      "command": "uvx",
+      "args": [
+        "openzim-mcp==3.4.0"
+      ]
+    }
+  }
+}

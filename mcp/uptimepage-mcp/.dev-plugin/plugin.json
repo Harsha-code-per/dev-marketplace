@@ -1,0 +1,11 @@
+{
+  "name": "uptimepage-mcp",
+  "description": "Monitor uptime and incidents, run checks, and publish status updates from your Uptimepage org.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "uptimepage": {
+      "type": "http",
+      "url": "https://mcp.uptimepage.dev/mcp"
+    }
+  }
+}

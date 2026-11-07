@@ -1,0 +1,13 @@
+{
+  "name": "silica-core-mcp",
+  "description": "Retrieval over the folder the session opened: files, search, read, code_pack, write_note.",
+  "license": "MIT",
+  "mcpServers": {
+    "silica-core": {
+      "command": "uvx",
+      "args": [
+        "silica-core==0.12.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "workopia-mcp",
+  "description": "Search 6.3M+ live jobs from companies' own career pages, plus resume tailoring & cover letters.",
+  "license": "MIT",
+  "mcpServers": {
+    "workopia-mcp": {
+      "type": "http",
+      "url": "https://workopia.io/api/mcp-jobs"
+    }
+  }
+}
