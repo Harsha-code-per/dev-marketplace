@@ -1,6 +1,6 @@
 {
   "name": "web-researcher-mcp",
-  "description": "Your AI research assistant that cites real sources and stays honest",
+  "description": "Search the web and primary sources, read pages behind your logins, verify citations. Runs locally.",
   "license": "MIT",
   "mcpServers": {
     "web-researcher-mcp": {
@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/zoharbabin/web-researcher-mcp:1.50.4"
+        "ghcr.io/zoharbabin/web-researcher-mcp:1.51.0"
       ]
     }
   }

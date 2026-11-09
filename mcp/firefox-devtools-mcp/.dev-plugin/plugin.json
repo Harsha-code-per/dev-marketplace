@@ -1,0 +1,14 @@
+{
+  "name": "firefox-devtools-mcp",
+  "description": "Control and debug Firefox: navigate, fill forms, inspect network and console, profile.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "firefox-devtools-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mozilla/firefox-devtools-mcp@0.10.7"
+      ]
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "geolens": {
       "command": "uvx",
       "args": [
-        "geolens-mcp==1.30.0"
+        "geolens-mcp==1.30.1"
       ]
     }
   }

@@ -1,0 +1,13 @@
+{
+  "name": "hypruse-mcp",
+  "description": "Computer use for Hyprland: semantic desktop state over IPC, plus vision and native input",
+  "license": "MIT",
+  "mcpServers": {
+    "hypruse": {
+      "command": "uvx",
+      "args": [
+        "hypruse==0.13.1"
+      ]
+    }
+  }
+}
