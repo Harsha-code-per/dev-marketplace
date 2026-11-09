@@ -67,8 +67,10 @@ async function gh(url: string, init: RequestInit = {}) {
     }).catch(() => undefined)
     last = response ? `HTTP ${response.status}` : "connection failed"
     if (response?.status === 403 || response?.status === 429) {
+      // Secondary limits send retry-after and no reset time; with neither, a minute is what search needs.
+      const after = Number(response.headers.get("retry-after") ?? 0) * 1000
       const reset = Number(response.headers.get("x-ratelimit-reset") ?? 0) * 1000 - Date.now()
-      await Bun.sleep(Math.min(Math.max(reset, 10_000), 120_000))
+      await Bun.sleep(Math.min(Math.max(after, reset, 60_000), 300_000))
       continue
     }
     if (!response || response.status >= 500) {
@@ -84,7 +86,10 @@ async function gh(url: string, init: RequestInit = {}) {
 async function searchRepos(query: string) {
   const names: string[] = []
   for (let page = 1; page <= 10; page++) {
-    const data = await gh(`/search/repositories?q=${encodeURIComponent(query)}&sort=stars&per_page=100&page=${page}`)
+    // Later pages only add less-starred repos; if one keeps failing, keep what's found instead of failing the build.
+    const data = await gh(`/search/repositories?q=${encodeURIComponent(query)}&sort=stars&per_page=100&page=${page}`).catch(
+      (error) => (page === 1 ? Promise.reject(error) : undefined),
+    )
     const items = (data?.items ?? []) as { full_name: string }[]
     names.push(...items.map((item) => item.full_name))
     if (items.length < 100) break
@@ -98,7 +103,7 @@ async function searchMarketplaceFiles() {
   for (let page = 1; page <= 10; page++) {
     const data = await gh(
       `/search/code?q=${encodeURIComponent("filename:marketplace.json path:.claude-plugin")}&per_page=100&page=${page}`,
-    )
+    ).catch((error) => (page === 1 ? Promise.reject(error) : undefined))
     const items = (data?.items ?? []) as { repository: { full_name: string } }[]
     names.push(...items.map((item) => item.repository.full_name))
     if (items.length < 100) break
