@@ -6,7 +6,7 @@
     "pyscn": {
       "command": "uvx",
       "args": [
-        "pyscn-mcp==1.33.1"
+        "pyscn-mcp==1.33.2"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "openflowkit@0.2.4"
+        "openflowkit@0.3.0"
       ]
     }
   }

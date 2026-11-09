@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@akutishevsky/lunchmoney-mcp@3.0.0"
+        "@akutishevsky/lunchmoney-mcp@4.0.1"
       ]
     }
   }

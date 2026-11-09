@@ -1,0 +1,14 @@
+{
+  "name": "mcp-gsheets",
+  "description": "MCP server for Google Sheets API — read, write, format, batch operations.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-gsheets": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-gsheets@1.11.1"
+      ]
+    }
+  }
+}

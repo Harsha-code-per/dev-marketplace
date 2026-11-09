@@ -1,0 +1,13 @@
+{
+  "name": "mcpcap",
+  "description": "An MCP server for analyzing PCAP files.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcpcap": {
+      "command": "uvx",
+      "args": [
+        "mcpcap==0.10.0"
+      ]
+    }
+  }
+}

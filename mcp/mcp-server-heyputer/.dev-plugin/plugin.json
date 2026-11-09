@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-heyputer",
+  "description": "Puter MCP enables AI tools to interact with Puter: manage files, websites, workers, and more",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mcp-server": {
+      "type": "http",
+      "url": "https://mcp.puter.com/"
+    }
+  }
+}

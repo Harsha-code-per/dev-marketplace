@@ -1,0 +1,11 @@
+{
+  "name": "apify-mcp-server",
+  "description": "Extract data from any website with thousands of scrapers, crawlers, and automations on Apify Store ⚡",
+  "license": "MIT",
+  "mcpServers": {
+    "apify-mcp-server": {
+      "type": "http",
+      "url": "https://mcp.apify.com/"
+    }
+  }
+}

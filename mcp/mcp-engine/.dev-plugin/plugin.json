@@ -1,0 +1,14 @@
+{
+  "name": "mcp-engine",
+  "description": "Power BI MCP server (Supports Windows and macOS)",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp-engine": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-engine@3.9.119"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "atlassian-dc-mcp-jira",
+  "description": "MCP server for Atlassian Jira Data Center - search, view, and create issues",
+  "license": "MIT",
+  "mcpServers": {
+    "atlassian-dc-mcp-jira": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@atlassian-dc-mcp/jira@0.43.1"
+      ]
+    }
+  }
+}

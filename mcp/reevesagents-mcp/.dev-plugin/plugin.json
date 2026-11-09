@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "reevesagents@2.1.0"
+        "reevesagents@2.2.0"
       ]
     }
   }

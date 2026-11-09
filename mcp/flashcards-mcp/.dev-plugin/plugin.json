@@ -1,0 +1,11 @@
+{
+  "name": "flashcards-mcp",
+  "description": "Read, write, and conversationally review open-source flashcards through split read/write MCP tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "flashcards": {
+      "type": "http",
+      "url": "https://mcp.flashcards-open-source-app.com/mcp"
+    }
+  }
+}

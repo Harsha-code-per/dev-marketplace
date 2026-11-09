@@ -6,7 +6,7 @@
     "zizkadb-mcp": {
       "command": "uvx",
       "args": [
-        "zizkadb-mcp==0.1.12"
+        "zizkadb-mcp==0.1.13"
       ]
     }
   }

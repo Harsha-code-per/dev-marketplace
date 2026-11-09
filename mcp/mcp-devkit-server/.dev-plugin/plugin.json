@@ -1,0 +1,14 @@
+{
+  "name": "mcp-devkit-server",
+  "description": "Provides AI assistants with direct access to Mapbox developer APIs and documentation.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-devkit-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mapbox/mcp-devkit-server@0.9.0"
+      ]
+    }
+  }
+}

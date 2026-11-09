@@ -1,0 +1,11 @@
+{
+  "name": "journalit-mcp",
+  "description": "Trading journal in Obsidian. Ask Claude or ChatGPT about your trades; edits are previewed first.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "journalit": {
+      "type": "http",
+      "url": "https://api.journalit.co/mcp"
+    }
+  }
+}

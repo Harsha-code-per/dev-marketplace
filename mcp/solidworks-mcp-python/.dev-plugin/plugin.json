@@ -1,0 +1,13 @@
+{
+  "name": "solidworks-mcp-python",
+  "description": "Drive SolidWorks from AI agents: parts, assemblies, drawings and export over the COM API.",
+  "license": "MIT",
+  "mcpServers": {
+    "solidworks-mcp-python": {
+      "command": "uvx",
+      "args": [
+        "solidworks-mcp-python==1.5.0"
+      ]
+    }
+  }
+}

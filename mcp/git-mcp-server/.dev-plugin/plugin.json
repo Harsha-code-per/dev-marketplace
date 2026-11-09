@@ -1,0 +1,14 @@
+{
+  "name": "git-mcp-server",
+  "description": "Comprehensive Git MCP server enabling native git tools including clone, commit, worktree, & more.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "git-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@cyanheads/git-mcp-server@2.15.3"
+      ]
+    }
+  }
+}

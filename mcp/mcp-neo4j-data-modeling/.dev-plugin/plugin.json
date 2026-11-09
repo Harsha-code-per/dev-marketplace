@@ -1,0 +1,13 @@
+{
+  "name": "mcp-neo4j-data-modeling",
+  "description": "A simple Neo4j MCP server for creating graph data models.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-neo4j-data-modeling": {
+      "command": "uvx",
+      "args": [
+        "mcp-neo4j-data-modeling==0.6.1"
+      ]
+    }
+  }
+}

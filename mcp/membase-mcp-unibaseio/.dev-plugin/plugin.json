@@ -1,0 +1,11 @@
+{
+  "name": "membase-mcp-unibaseio",
+  "description": "Long-term memory for you and your AIs: search memories, read the profile, add facts and documents.",
+  "license": "MIT",
+  "mcpServers": {
+    "membase": {
+      "type": "http",
+      "url": "https://api.app.membase.com/mcp-http"
+    }
+  }
+}

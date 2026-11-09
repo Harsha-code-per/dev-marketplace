@@ -1,0 +1,14 @@
+{
+  "name": "webcomponents-react-mcp-server",
+  "description": "MCP server for UI5 Web Components for React - Developer documentation and API assistance",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "webcomponents-react-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ui5/webcomponents-react-mcp@2.28.2"
+      ]
+    }
+  }
+}

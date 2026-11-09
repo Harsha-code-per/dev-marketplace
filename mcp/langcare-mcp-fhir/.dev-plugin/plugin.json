@@ -1,0 +1,14 @@
+{
+  "name": "langcare-mcp-fhir",
+  "description": "An MCP FHIR server written in Go for EMR systems like Epic and Cerner",
+  "license": "MIT",
+  "mcpServers": {
+    "langcare-mcp-fhir": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@langcare/langcare-mcp-fhir@2.0.4"
+      ]
+    }
+  }
+}

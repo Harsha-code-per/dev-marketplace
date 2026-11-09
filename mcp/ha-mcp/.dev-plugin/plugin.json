@@ -6,7 +6,7 @@
     "ha-mcp": {
       "command": "uvx",
       "args": [
-        "ha-mcp==9.1.1"
+        "ha-mcp==9.1.2"
       ]
     }
   }

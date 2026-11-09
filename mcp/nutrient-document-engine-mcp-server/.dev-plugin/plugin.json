@@ -1,0 +1,14 @@
+{
+  "name": "nutrient-document-engine-mcp-server",
+  "description": "MCP server for self-hosted Nutrient Document Engine: extract, edit, redact, and annotate documents.",
+  "license": "MIT",
+  "mcpServers": {
+    "nutrient-document-engine-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@nutrient-sdk/document-engine-mcp-server@0.0.3"
+      ]
+    }
+  }
+}

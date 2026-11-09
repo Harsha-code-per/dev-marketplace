@@ -1,0 +1,14 @@
+{
+  "name": "mcp-console-automation",
+  "description": "MCP server for AI-driven console application automation and monitoring",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-console-automation": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-console-automation@1.0.2"
+      ]
+    }
+  }
+}

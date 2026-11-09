@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@muvon/octocode@0.29.1"
+        "@muvon/octocode@0.29.2"
       ]
     }
   }

@@ -1,0 +1,14 @@
+{
+  "name": "mcp-airwallex",
+  "description": "MCP server for Airwallex — cross-border collection + payouts, global accounts, FX, transfers",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-airwallex": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@codespar/mcp-airwallex@0.2.2"
+      ]
+    }
+  }
+}

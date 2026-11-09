@@ -1,0 +1,11 @@
+{
+  "name": "newera-mcp",
+  "description": "Design homes with your AI: floor plans, furniture, joinery, lighting and photos, live.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "newera": {
+      "type": "http",
+      "url": "https://mcp.3dneweraai.com/mcp"
+    }
+  }
+}

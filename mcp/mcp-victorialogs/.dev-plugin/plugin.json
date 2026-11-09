@@ -1,0 +1,20 @@
+{
+  "name": "mcp-victorialogs",
+  "description": "MCP Server for VictoriaLogs. Provides integration with VictoriaLogs API and documentation",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp-victorialogs": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "VL_INSTANCE_ENTRYPOINT",
+        "-e",
+        "VL_INSTANCE_BEARER_TOKEN",
+        "ghcr.io/victoriametrics/mcp-victorialogs:1.9.0"
+      ]
+    }
+  }
+}

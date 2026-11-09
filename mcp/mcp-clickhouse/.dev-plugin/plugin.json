@@ -1,0 +1,13 @@
+{
+  "name": "mcp-clickhouse",
+  "description": "Official ClickHouse MCP server for querying and exploring ClickHouse clusters and chDB.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp-clickhouse": {
+      "command": "uvx",
+      "args": [
+        "mcp-clickhouse==0.7.0"
+      ]
+    }
+  }
+}

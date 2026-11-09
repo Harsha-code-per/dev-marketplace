@@ -1,0 +1,14 @@
+{
+  "name": "mcp-open-library",
+  "description": "Search books and authors on the Internet Archive's Open Library",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-open-library": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-open-library@1.2.6"
+      ]
+    }
+  }
+}

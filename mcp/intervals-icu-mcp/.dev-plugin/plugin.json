@@ -6,7 +6,7 @@
     "intervals-icu-mcp": {
       "command": "uvx",
       "args": [
-        "intervals-icu-mcp==5.9.0"
+        "intervals-icu-mcp==5.9.1"
       ]
     }
   }

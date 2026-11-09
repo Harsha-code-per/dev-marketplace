@@ -1,0 +1,14 @@
+{
+  "name": "mcp-ssh-manager",
+  "description": "SSH for AI agents: commands, files, backups and health, with approval, a vault and an audit trail",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-ssh-manager": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-ssh-manager@4.0.3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "luxalgo-mcp-server",
+  "description": "LuxAlgo for AI agents: the Library, prop firms, Market Trackers, Edge Stats, and your Trade Journal",
+  "license": "MIT",
+  "mcpServers": {
+    "luxalgo-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@luxalgo/mcp@2.1.0"
+      ]
+    }
+  }
+}

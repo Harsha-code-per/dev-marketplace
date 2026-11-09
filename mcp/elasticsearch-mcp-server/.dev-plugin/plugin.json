@@ -1,0 +1,13 @@
+{
+  "name": "elasticsearch-mcp-server",
+  "description": "MCP server for interacting with Elasticsearch",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "elasticsearch-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "elasticsearch-mcp-server==2.0.15"
+      ]
+    }
+  }
+}

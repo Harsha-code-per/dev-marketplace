@@ -1,0 +1,13 @@
+{
+  "name": "zscaler-mcp-server",
+  "description": "Manage Zscaler Zero Trust Exchange via 400+ tools — ZPA, ZIA, ZDX, ZCC, ZTW, ZMS, EASM, and more.",
+  "license": "MIT",
+  "mcpServers": {
+    "zscaler-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "zscaler-mcp==0.15.4"
+      ]
+    }
+  }
+}

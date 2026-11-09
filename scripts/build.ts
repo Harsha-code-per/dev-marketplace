@@ -48,26 +48,37 @@ const verified = new Set<string>(await Bun.file(path.join(ROOT, "verified.json")
 
 // ---------- GitHub ----------
 
+/**
+ * A GitHub API call. Rate limits, 5xx and dropped connections are retried; if one still fails the build stops,
+ * so a bad night keeps the previous index instead of publishing one with entries missing. Other 4xx mean "none".
+ */
 async function gh(url: string, init: RequestInit = {}) {
-  for (let attempt = 0; attempt < 4; attempt++) {
+  let last = "no response"
+  for (let attempt = 0; attempt < 6; attempt++) {
     const response = await fetch(url.startsWith("http") ? url : `https://api.github.com${url}`, {
       ...init,
+      signal: AbortSignal.timeout(60_000),
       headers: {
         Accept: "application/vnd.github+json",
         "User-Agent": "dev-marketplace-index",
         ...(TOKEN ? { Authorization: `Bearer ${TOKEN}` } : {}),
         ...init.headers,
       },
-    })
-    if (response.status === 403 || response.status === 429) {
+    }).catch(() => undefined)
+    last = response ? `HTTP ${response.status}` : "connection failed"
+    if (response?.status === 403 || response?.status === 429) {
       const reset = Number(response.headers.get("x-ratelimit-reset") ?? 0) * 1000 - Date.now()
       await Bun.sleep(Math.min(Math.max(reset, 10_000), 120_000))
+      continue
+    }
+    if (!response || response.status >= 500) {
+      await Bun.sleep(2 ** attempt * 1000)
       continue
     }
     if (!response.ok) return undefined
     return response.json() as Promise<any>
   }
-  return undefined
+  throw new Error(`GitHub request kept failing (${last}): ${url}`)
 }
 
 async function searchRepos(query: string) {
@@ -132,7 +143,14 @@ async function repos(names: string[], withFiles: boolean) {
         return `r${index}: repository(owner: ${JSON.stringify(owner)}, name: ${JSON.stringify(name)}) { ${fields} }`
       })
       .join("\n")} }`
-    const data = await gh("/graphql", { method: "POST", body: JSON.stringify({ query }) })
+    // GitHub sometimes fails one large query over and over while the rest go through; halve it until it does.
+    const data = await gh("/graphql", { method: "POST", body: JSON.stringify({ query }) }).catch(async (error) => {
+      if (batch.length === 1) throw error
+      const half = Math.ceil(batch.length / 2)
+      await fetchBatch(batch.slice(0, half))
+      await fetchBatch(batch.slice(half))
+      return undefined
+    })
     for (const value of Object.values(data?.data ?? {}) as any[]) {
       if (!value) continue
       out.set(value.nameWithOwner.toLowerCase(), {
@@ -187,8 +205,7 @@ async function registry() {
   let cursor = ""
   for (let page = 0; page < 1000; page++) {
     const url = `https://registry.modelcontextprotocol.io/v0/servers?limit=100&version=latest${cursor ? `&cursor=${encodeURIComponent(cursor)}` : ""}`
-    const data = (await fetch(url).then((response) => (response.ok ? response.json() : undefined))) as any
-    if (!data) break
+    const data = await registryPage(url)
     servers.push(...(data.servers ?? []).map((item: any) => item.server))
     cursor = data.metadata?.nextCursor ?? ""
     process.stdout.write(`\r  registry ${servers.length}`)
@@ -196,6 +213,17 @@ async function registry() {
   }
   process.stdout.write("\n")
   return servers
+}
+
+/** One page of the registry, retried; a page that never loads stops the build rather than cutting the list short. */
+async function registryPage(url: string): Promise<any> {
+  for (let attempt = 0; attempt < 6; attempt++) {
+    // A request can stall without failing; the timeout turns that into a retry.
+    const response = await fetch(url, { signal: AbortSignal.timeout(60_000) }).catch(() => undefined)
+    if (response?.ok) return response.json()
+    await Bun.sleep(2 ** attempt * 1000)
+  }
+  throw new Error(`MCP Registry kept failing: ${url}`)
 }
 
 /** How to run a registry server, in the common .mcp.json shape, and the environment variables it needs. */

@@ -1,0 +1,14 @@
+{
+  "name": "mpp32-mcp-server",
+  "description": "Payment layer for AI agents. One MCP, five protocols, thousands of paid APIs your agent can call.",
+  "license": "MIT",
+  "mcpServers": {
+    "mpp32-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mpp32-mcp-server@1.1.2"
+      ]
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "applemusic-mcp": {
       "command": "uvx",
       "args": [
-        "applemusic-mcp==0.22.0"
+        "applemusic-mcp==0.22.1"
       ]
     }
   }

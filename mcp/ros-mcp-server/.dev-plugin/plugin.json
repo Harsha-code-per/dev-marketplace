@@ -1,0 +1,13 @@
+{
+  "name": "ros-mcp-server",
+  "description": "Connect AI models like Claude & ChatGPT with ROS robots using MCP",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "ros-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "ros-mcp==3.1.2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mcp-abap-adt",
+  "description": "MCP server for SAP ABAP ADT over HTTP, RFC or SNC: repository analysis and RAP/classic ABAP CRUD",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp-abap-adt": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mcp-abap-adt/core@23.1.0"
+      ]
+    }
+  }
+}

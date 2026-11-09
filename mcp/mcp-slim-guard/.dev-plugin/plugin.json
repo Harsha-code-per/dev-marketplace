@@ -1,0 +1,14 @@
+{
+  "name": "mcp-slim-guard",
+  "description": "76% fewer MCP tokens in our standard benchmark. Same upstream call. Exact recovery.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-slim-guard": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-slim-guard@0.1.1-alpha.1"
+      ]
+    }
+  }
+}

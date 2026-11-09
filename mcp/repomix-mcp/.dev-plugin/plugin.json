@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "repomix@1.18.1"
+        "repomix@1.19.0"
       ]
     }
   }

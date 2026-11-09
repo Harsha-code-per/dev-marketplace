@@ -6,7 +6,7 @@
     "jcodemunch-mcp": {
       "command": "uvx",
       "args": [
-        "jcodemunch-mcp==1.108.422"
+        "jcodemunch-mcp==1.108.427"
       ]
     }
   }

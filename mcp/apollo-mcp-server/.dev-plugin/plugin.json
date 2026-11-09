@@ -1,0 +1,16 @@
+{
+  "name": "apollo-mcp-server",
+  "description": "MCP server that exposes GraphQL operations as tools for AI models.",
+  "license": "MIT",
+  "mcpServers": {
+    "apollo-mcp-server": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/apollographql/apollo-mcp-server:v2.1.0"
+      ]
+    }
+  }
+}

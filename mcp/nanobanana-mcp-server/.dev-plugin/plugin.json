@@ -1,0 +1,13 @@
+{
+  "name": "nanobanana-mcp-server",
+  "description": "An MCP server that provides image generation and editing capabilities",
+  "license": "MIT",
+  "mcpServers": {
+    "nanobanana-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "nanobanana-mcp-server==1.0.0"
+      ]
+    }
+  }
+}

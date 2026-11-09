@@ -1,0 +1,13 @@
+{
+  "name": "word-mcp-live",
+  "description": "Live Microsoft Word editing via MCP — tracked changes, undo, comments, 40+ tools",
+  "license": "MIT",
+  "mcpServers": {
+    "word-mcp-live": {
+      "command": "uvx",
+      "args": [
+        "word-mcp-live==1.2.0"
+      ]
+    }
+  }
+}

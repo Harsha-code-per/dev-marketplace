@@ -1,0 +1,14 @@
+{
+  "name": "airtable-mcp-server",
+  "description": "Read and write access to Airtable database schemas, tables, and records.",
+  "license": "MIT",
+  "mcpServers": {
+    "airtable-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "airtable-mcp-server@1.14.0"
+      ]
+    }
+  }
+}

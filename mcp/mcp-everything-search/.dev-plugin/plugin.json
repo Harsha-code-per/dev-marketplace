@@ -1,0 +1,13 @@
+{
+  "name": "mcp-everything-search",
+  "description": "Fast file search: Everything SDK on Windows, Spotlight (mdfind) on macOS, locate/plocate on Linux.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-everything-search": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-everything-search==0.3.3"
+      ]
+    }
+  }
+}

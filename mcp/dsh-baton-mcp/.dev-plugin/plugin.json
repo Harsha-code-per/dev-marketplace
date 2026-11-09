@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "dsh-baton-mcp@0.6.6"
+        "dsh-baton-mcp@0.6.9"
       ]
     }
   }

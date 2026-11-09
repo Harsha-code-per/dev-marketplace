@@ -1,0 +1,14 @@
+{
+  "name": "mcp-telegram",
+  "description": "Unofficial Telegram MCP server — read, search, reply and react in your own Telegram account.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-telegram": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@overpod/mcp-telegram@1.45.1"
+      ]
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "stockscreen-mcp": {
       "command": "uvx",
       "args": [
-        "stockscreen-mcp==0.3.0"
+        "stockscreen-mcp==0.4.0"
       ]
     }
   }

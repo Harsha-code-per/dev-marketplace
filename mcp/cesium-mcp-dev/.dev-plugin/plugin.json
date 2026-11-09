@@ -1,0 +1,14 @@
+{
+  "name": "cesium-mcp-dev",
+  "description": "CesiumJS API docs, code generation and development tools for IDE AI assistants.",
+  "license": "MIT",
+  "mcpServers": {
+    "cesium-mcp-dev": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "cesium-mcp-dev@1.139.2"
+      ]
+    }
+  }
+}

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "premiere-pro-mcp@1.29.0"
+        "premiere-pro-mcp@1.30.0"
       ]
     }
   }

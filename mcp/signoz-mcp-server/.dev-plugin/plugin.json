@@ -1,0 +1,16 @@
+{
+  "name": "signoz-mcp-server",
+  "description": "SigNoz MCP server: access metrics, traces, logs, alerts, and dashboards via AI assistants",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "signoz-mcp-server": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "docker.io/signoz/signoz-mcp-server:v0.18.0"
+      ]
+    }
+  }
+}

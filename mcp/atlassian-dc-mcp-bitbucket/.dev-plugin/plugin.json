@@ -1,0 +1,14 @@
+{
+  "name": "atlassian-dc-mcp-bitbucket",
+  "description": "MCP server for Atlassian Bitbucket Data Center - interact with repositories and code",
+  "license": "MIT",
+  "mcpServers": {
+    "atlassian-dc-mcp-bitbucket": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@atlassian-dc-mcp/bitbucket@0.43.1"
+      ]
+    }
+  }
+}

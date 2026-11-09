@@ -1,0 +1,11 @@
+{
+  "name": "hotpath-cloud-mcp",
+  "description": "Read-only access to Rust profiling reports from CI: benchmark history, diffs and policies",
+  "license": "MIT",
+  "mcpServers": {
+    "hotpath-cloud": {
+      "type": "http",
+      "url": "https://hotpath.rs/api/v1/mcp"
+    }
+  }
+}

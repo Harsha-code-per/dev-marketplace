@@ -6,7 +6,7 @@
     "compartment": {
       "command": "uvx",
       "args": [
-        "compartment==4.13.0"
+        "compartment==4.14.0"
       ]
     }
   }

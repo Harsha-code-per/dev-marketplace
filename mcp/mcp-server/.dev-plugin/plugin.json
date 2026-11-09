@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server",
+  "description": "Packmind captures, scales, and enforces your organization's technical decisions.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp-server": {
+      "type": "http",
+      "url": "https://app.packmind.ai/mcp"
+    }
+  }
+}

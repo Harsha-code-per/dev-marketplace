@@ -1,0 +1,14 @@
+{
+  "name": "codeburn-mcp",
+  "description": "AI coding spend, tokens and plan quotas across Claude Code, Codex, Cursor and 40+ more tools",
+  "license": "MIT",
+  "mcpServers": {
+    "codeburn": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "codeburn@0.9.28"
+      ]
+    }
+  }
+}

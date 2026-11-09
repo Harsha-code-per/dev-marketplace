@@ -1,0 +1,14 @@
+{
+  "name": "anki-mcp-server",
+  "description": "MCP server for Anki flashcards: adaptive review, notes, media, and deck management via AnkiConnect.",
+  "license": "MIT",
+  "mcpServers": {
+    "anki-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ankimcp/anki-mcp-server@0.27.0"
+      ]
+    }
+  }
+}

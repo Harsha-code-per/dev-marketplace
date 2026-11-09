@@ -6,7 +6,7 @@
     "vmware-aiops": {
       "command": "uvx",
       "args": [
-        "vmware-aiops==2.4.2"
+        "vmware-aiops==2.4.4"
       ]
     }
   }

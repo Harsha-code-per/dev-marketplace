@@ -1,0 +1,18 @@
+{
+  "name": "buildkite-mcp-server",
+  "description": "MCP server exposing Buildkite API data (pipelines, builds, jobs, tests) to AI tooling and editors.",
+  "license": "MIT",
+  "mcpServers": {
+    "buildkite-mcp-server": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "BUILDKITE_API_TOKEN",
+        "ghcr.io/buildkite/buildkite-mcp-server:0.7.0"
+      ]
+    }
+  }
+}

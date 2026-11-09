@@ -1,0 +1,14 @@
+{
+  "name": "attio-mcp-server",
+  "description": "AI-powered Attio CRM access. Manage contacts, companies, deals, tasks, notes and workflows.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "attio-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "attio-mcp@1.7.0"
+      ]
+    }
+  }
+}

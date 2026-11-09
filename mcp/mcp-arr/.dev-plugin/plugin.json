@@ -1,0 +1,14 @@
+{
+  "name": "mcp-arr",
+  "description": "MCP server for *arr media suite - Sonarr, Radarr, Lidarr, Readarr, Prowlarr",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-arr": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-arr-server@1.0.0"
+      ]
+    }
+  }
+}

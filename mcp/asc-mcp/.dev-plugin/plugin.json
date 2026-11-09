@@ -1,13 +1,13 @@
 {
   "name": "asc-mcp",
-  "description": "Every App Store Connect + StoreKit 2 endpoint. 929 tools in 13 profiles, narrow to 27.",
+  "description": "Every App Store Connect + StoreKit 2 endpoint. 786 tools in 14 profiles, narrow to 17.",
   "license": "MIT",
   "mcpServers": {
     "asc-mcp": {
       "command": "npx",
       "args": [
         "-y",
-        "@erayendes/asc-mcp@2.8.0"
+        "@erayendes/asc-mcp@3.0.0"
       ]
     }
   }

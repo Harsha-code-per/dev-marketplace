@@ -1,0 +1,16 @@
+{
+  "name": "p4mcp-server",
+  "description": "Perforce P4 MCP server for version control and P4 DAM digital asset management.",
+  "license": "MIT",
+  "mcpServers": {
+    "p4mcp-server": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/perforce/p4mcp-server:2026.4.3126709"
+      ]
+    }
+  }
+}

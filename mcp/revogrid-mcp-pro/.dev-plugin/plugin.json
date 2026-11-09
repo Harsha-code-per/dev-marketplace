@@ -1,0 +1,11 @@
+{
+  "name": "revogrid-mcp-pro",
+  "description": "Hosted Pro MCP server for RevoGrid DataGrid docs, examples, feature checks, and migration guidance.",
+  "license": "MIT",
+  "mcpServers": {
+    "revogrid-mcp-pro": {
+      "type": "http",
+      "url": "https://mcp.rv-grid.com/pro"
+    }
+  }
+}

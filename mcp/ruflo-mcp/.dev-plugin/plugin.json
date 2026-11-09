@@ -1,0 +1,14 @@
+{
+  "name": "ruflo-mcp",
+  "description": "Agent teams, swarms, memory and hooks for Claude Code and Codex, served over MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "ruflo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ruflo@3.73.0"
+      ]
+    }
+  }
+}

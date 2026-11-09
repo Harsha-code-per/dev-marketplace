@@ -1,0 +1,14 @@
+{
+  "name": "actual-mcp-server",
+  "description": "Manage Actual Budget accounts, transactions, budgets, rules and reports from an AI assistant.",
+  "license": "MIT",
+  "mcpServers": {
+    "actual-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "actual-mcp-server@0.27.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mcp-suno",
+  "description": "Create Suno music, lyrics and covers with Ace Data Cloud; retrieve the same task for results.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-suno": {
+      "command": "uvx",
+      "args": [
+        "mcp-suno==2026.11.7.0"
+      ]
+    }
+  }
+}

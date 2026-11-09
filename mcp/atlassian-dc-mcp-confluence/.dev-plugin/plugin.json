@@ -1,0 +1,14 @@
+{
+  "name": "atlassian-dc-mcp-confluence",
+  "description": "MCP server for Atlassian Confluence Data Center - access and manage content",
+  "license": "MIT",
+  "mcpServers": {
+    "atlassian-dc-mcp-confluence": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@atlassian-dc-mcp/confluence@0.43.1"
+      ]
+    }
+  }
+}

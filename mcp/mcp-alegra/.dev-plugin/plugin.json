@@ -1,0 +1,14 @@
+{
+  "name": "mcp-alegra",
+  "description": "Alegra — cloud accounting for LATAM (Colombian-founded)",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-alegra": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@codespar/mcp-alegra@0.2.2"
+      ]
+    }
+  }
+}

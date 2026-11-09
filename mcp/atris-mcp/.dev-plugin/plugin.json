@@ -1,0 +1,14 @@
+{
+  "name": "atris-mcp",
+  "description": "Run Atris campaigns from any agent, and extract, check, or search brand design systems.",
+  "license": "MIT",
+  "mcpServers": {
+    "atris": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "atris@3.82.2"
+      ]
+    }
+  }
+}

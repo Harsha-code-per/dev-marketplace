@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@regsorm/code-index-mcp@1.15.6"
+        "@regsorm/code-index-mcp@1.16.0"
       ]
     }
   }

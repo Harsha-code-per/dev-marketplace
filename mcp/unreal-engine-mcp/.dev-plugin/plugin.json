@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "unreal-engine-mcp-server@0.6.1-beta-a"
+        "unreal-engine-mcp-server@0.6.1-beta-b"
       ]
     }
   }

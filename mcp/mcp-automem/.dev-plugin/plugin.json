@@ -1,0 +1,14 @@
+{
+  "name": "mcp-automem",
+  "description": "Graph-vector memory for AI assistants using FalkorDB and Qdrant",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-automem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@verygoodplugins/mcp-automem@0.10.0"
+      ]
+    }
+  }
+}

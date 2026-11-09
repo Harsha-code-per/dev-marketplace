@@ -6,7 +6,7 @@
     "schemagate": {
       "command": "uvx",
       "args": [
-        "schemagate==1.16.0"
+        "schemagate==1.18.0"
       ]
     }
   }

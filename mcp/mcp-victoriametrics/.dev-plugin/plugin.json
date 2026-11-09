@@ -1,0 +1,22 @@
+{
+  "name": "mcp-victoriametrics",
+  "description": "MCP Server for VictoriaMetrics. Provides integration with VictoriaMetrics API and documentation",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp-victoriametrics": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "VM_INSTANCE_ENTRYPOINT",
+        "-e",
+        "VM_INSTANCE_TYPE",
+        "-e",
+        "VM_INSTANCE_BEARER_TOKEN",
+        "ghcr.io/victoriametrics/mcp-victoriametrics:1.120.1"
+      ]
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "gflow-cli": {
       "command": "uvx",
       "args": [
-        "gflow-cli==0.95.0"
+        "gflow-cli==0.96.1"
       ]
     }
   }

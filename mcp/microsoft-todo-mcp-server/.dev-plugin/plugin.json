@@ -1,0 +1,14 @@
+{
+  "name": "microsoft-todo-mcp-server",
+  "description": "Microsoft To Do via Graph — task lists, tasks, checklist items and reminders.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "microsoft-todo-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "microsoft-todo-mcp-server@1.2.0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flightclaw-mcp",
+  "description": "Search ~300 airlines and book flights with a checkout link. OAuth sign-in by email code.",
+  "license": "MIT",
+  "mcpServers": {
+    "flightclaw": {
+      "type": "http",
+      "url": "https://mcp.flightclaw.com/mcp"
+    }
+  }
+}

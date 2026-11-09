@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/shafthq/shaft-engine-mcp:10.4.20261102"
+        "ghcr.io/shafthq/shaft-engine-mcp:10.4.20261108"
       ]
     }
   }

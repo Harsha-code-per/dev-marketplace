@@ -1,0 +1,14 @@
+{
+  "name": "mcp-observatory",
+  "description": "MCP security scanner. CI-native testing, attack simulation, health scoring, and SARIF.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-observatory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@kryptosai/mcp-observatory@1.36.1"
+      ]
+    }
+  }
+}

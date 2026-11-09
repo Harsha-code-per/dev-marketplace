@@ -1,0 +1,11 @@
+{
+  "name": "docs-mcp-proxysoul",
+  "description": "Search and read Empryo's documentation. Read-only, no auth, no local access.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "docs": {
+      "type": "http",
+      "url": "https://empryo.com/mcp"
+    }
+  }
+}
