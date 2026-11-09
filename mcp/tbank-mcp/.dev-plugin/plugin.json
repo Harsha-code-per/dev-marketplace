@@ -1,0 +1,13 @@
+{
+  "name": "tbank-mcp",
+  "description": "T-Bank (Т-Банк) mobile banking: accounts, cards, transfers, bill pay, grocery, tickets, travel",
+  "license": "MIT",
+  "mcpServers": {
+    "tbank-mcp": {
+      "command": "uvx",
+      "args": [
+        "tbank-mcp==0.2.2"
+      ]
+    }
+  }
+}

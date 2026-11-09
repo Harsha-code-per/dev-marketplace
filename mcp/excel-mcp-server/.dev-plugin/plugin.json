@@ -6,7 +6,7 @@
     "excel-mcp-server": {
       "command": "uvx",
       "args": [
-        "excel-mcp-server==2.2.6"
+        "excel-mcp-server==2.2.9"
       ]
     }
   }

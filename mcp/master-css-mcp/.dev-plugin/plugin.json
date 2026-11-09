@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@master/css-mcp@2.0.2"
+        "@master/css-mcp@2.1.1"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@satelliteoflove/godot-mcp@4.1.11"
+        "@satelliteoflove/godot-mcp@4.2.0"
       ]
     }
   }

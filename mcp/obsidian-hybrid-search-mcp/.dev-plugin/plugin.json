@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "obsidian-hybrid-search@0.17.4"
+        "obsidian-hybrid-search@0.17.5"
       ]
     }
   }

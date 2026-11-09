@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "funplay-cocos-mcp@0.7.0"
+        "funplay-cocos-mcp@0.7.1"
       ]
     }
   }

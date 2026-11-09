@@ -6,7 +6,7 @@
     "backlot": {
       "command": "uvx",
       "args": [
-        "backlot==0.1.0"
+        "backlot==0.1.1"
       ]
     }
   }

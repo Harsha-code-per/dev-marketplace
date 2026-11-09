@@ -6,7 +6,7 @@
     "akquant": {
       "command": "uvx",
       "args": [
-        "akquant==0.3.83"
+        "akquant==0.3.84"
       ]
     }
   }

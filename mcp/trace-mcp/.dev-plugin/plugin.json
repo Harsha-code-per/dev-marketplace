@@ -1,0 +1,14 @@
+{
+  "name": "trace-mcp",
+  "description": "Code graph MCP: 81 languages, 91 frameworks, 72.7% fewer PR-review tokens, comprehension at parity",
+  "license": "MIT",
+  "mcpServers": {
+    "trace-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "trace-mcp@3.43.0"
+      ]
+    }
+  }
+}

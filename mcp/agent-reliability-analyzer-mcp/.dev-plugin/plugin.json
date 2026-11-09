@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/trustabl/agent-reliability-analyzer:0.1.15"
+        "ghcr.io/trustabl/agent-reliability-analyzer:0.1.16"
       ]
     }
   }

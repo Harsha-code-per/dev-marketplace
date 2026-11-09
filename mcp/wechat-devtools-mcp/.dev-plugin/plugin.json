@@ -6,7 +6,7 @@
     "wechat-devtools-mcp": {
       "command": "uvx",
       "args": [
-        "wechat-devtools-mcp==0.9.20"
+        "wechat-devtools-mcp==0.9.21"
       ]
     }
   }

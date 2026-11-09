@@ -1,0 +1,13 @@
+{
+  "name": "open-notebook-mcp",
+  "description": "MCP server that wraps the Open Notebook API",
+  "license": "MIT",
+  "mcpServers": {
+    "open-notebook": {
+      "command": "uvx",
+      "args": [
+        "open-notebook-mcp==0.3.0"
+      ]
+    }
+  }
+}

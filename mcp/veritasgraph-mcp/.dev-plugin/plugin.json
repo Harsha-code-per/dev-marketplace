@@ -6,7 +6,7 @@
     "veritasgraph": {
       "command": "uvx",
       "args": [
-        "veritasgraph-mcp==0.1.2"
+        "veritasgraph-mcp==0.2.0"
       ]
     }
   }

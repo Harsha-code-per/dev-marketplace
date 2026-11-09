@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "githits@0.40.1"
+        "githits@0.40.3"
       ]
     }
   }
