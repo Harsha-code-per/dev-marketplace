@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@nvidia-elements/cli@2.2.16"
+        "@nvidia-elements/cli@2.2.17"
       ]
     }
   }

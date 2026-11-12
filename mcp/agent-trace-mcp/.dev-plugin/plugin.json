@@ -1,12 +1,12 @@
 {
   "name": "agent-trace-mcp",
-  "description": "Query recorded AI agent sessions: events, summaries, diffs, evidence health, skill adoption.",
+  "description": "Query recorded AI agent sessions: events, summaries, diffs, health, skills, PR reviewability.",
   "license": "MIT",
   "mcpServers": {
     "agent-trace": {
       "command": "uvx",
       "args": [
-        "agent-strace==0.105.0"
+        "agent-strace==0.108.1"
       ]
     }
   }

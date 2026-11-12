@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "yazio-mcp@0.0.15"
+        "yazio-mcp@0.0.21"
       ]
     }
   }

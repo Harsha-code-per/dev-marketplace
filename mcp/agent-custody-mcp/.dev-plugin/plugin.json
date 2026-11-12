@@ -1,0 +1,14 @@
+{
+  "name": "agent-custody-mcp",
+  "description": "MCP gateway that checks each agent tool call against a signed grant and policy, and signs a receipt",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "agent-custody": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@agent-custody/receipts@0.16.6"
+      ]
+    }
+  }
+}

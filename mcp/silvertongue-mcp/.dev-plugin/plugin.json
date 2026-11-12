@@ -1,0 +1,11 @@
+{
+  "name": "silvertongue-mcp",
+  "description": "Famous writing voices for your agent. Find one, read how it was studied, write in it.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "silvertongue": {
+      "type": "http",
+      "url": "https://mcp.silvertongue.dev/mcp"
+    }
+  }
+}

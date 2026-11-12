@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@ooples/token-optimizer-mcp@7.9.0"
+        "@ooples/token-optimizer-mcp@7.10.0"
       ]
     }
   }

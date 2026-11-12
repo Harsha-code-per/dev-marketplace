@@ -1,13 +1,13 @@
 {
   "name": "illustrator-mcp-server",
-  "description": "Adobe Illustrator MCP with 66 tools — more than the official Illustrator MCP. macOS | Windows.",
+  "description": "Adobe Illustrator MCP with 68 tools — more than the official Illustrator MCP. macOS | Windows.",
   "license": "MIT",
   "mcpServers": {
     "illustrator-mcp-server": {
       "command": "npx",
       "args": [
         "-y",
-        "illustrator-mcp-server@1.10.3"
+        "illustrator-mcp-server@1.14.0"
       ]
     }
   }

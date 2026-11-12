@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@bytebase/dbhub@1.6.0"
+        "@bytebase/dbhub@1.6.1"
       ]
     }
   }

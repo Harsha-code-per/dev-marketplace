@@ -1,0 +1,14 @@
+{
+  "name": "firenook-mcp",
+  "description": "Local Firebase emulators for coding agents: Firestore, Auth, Storage, Functions, logs, rules checks.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "firenook": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "firenook@0.2.3"
+      ]
+    }
+  }
+}

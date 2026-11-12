@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "local-mcp@3.0.442"
+        "local-mcp@3.0.444"
       ]
     }
   }

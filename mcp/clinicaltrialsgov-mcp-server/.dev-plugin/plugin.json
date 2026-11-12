@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "clinicaltrialsgov-mcp-server@2.11.1"
+        "clinicaltrialsgov-mcp-server@2.11.2"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@houtini/seo-audit-console@1.0.1"
+        "@houtini/seo-audit-console@1.0.5"
       ]
     }
   }

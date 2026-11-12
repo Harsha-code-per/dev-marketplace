@@ -6,7 +6,7 @@
     "code-graph-rag": {
       "command": "uvx",
       "args": [
-        "code-graph-rag==0.6.0"
+        "code-graph-rag==0.6.30"
       ]
     }
   }

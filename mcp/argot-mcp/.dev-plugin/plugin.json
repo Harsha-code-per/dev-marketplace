@@ -1,0 +1,14 @@
+{
+  "name": "argot-mcp",
+  "description": "Read-only context and complete checks against patterns learned from git history. Local; no LLM.",
+  "license": "MIT",
+  "mcpServers": {
+    "argot": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tmonier/argot@0.2.127"
+      ]
+    }
+  }
+}

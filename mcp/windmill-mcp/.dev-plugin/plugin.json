@@ -1,0 +1,11 @@
+{
+  "name": "windmill-mcp",
+  "description": "Run Windmill scripts and flows and manage jobs, schedules, resources and variables.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "windmill": {
+      "type": "http",
+      "url": "https://app.windmill.dev/api/mcp/gateway"
+    }
+  }
+}

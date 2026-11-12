@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@ataraxy-labs/sem@0.29.0"
+        "@ataraxy-labs/sem@0.30.1"
       ]
     }
   }

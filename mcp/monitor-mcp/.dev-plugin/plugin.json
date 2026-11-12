@@ -1,13 +1,13 @@
 {
   "name": "monitor-mcp",
-  "description": "BetterDB MCP server - Valkey observability for Claude Code and other MCP clients",
+  "description": "BetterDB MCP server - Valkey and Redis observability for Claude Code and other MCP clients",
   "license": "NOASSERTION",
   "mcpServers": {
     "monitor": {
       "command": "npx",
       "args": [
         "-y",
-        "@betterdb/mcp@0.1.3"
+        "@betterdb/mcp@1.6.0"
       ]
     }
   }

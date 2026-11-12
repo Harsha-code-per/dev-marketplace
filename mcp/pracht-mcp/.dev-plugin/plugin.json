@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@pracht/cli@1.17.0"
+        "@pracht/cli@1.18.0"
       ]
     }
   }

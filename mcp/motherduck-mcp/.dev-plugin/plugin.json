@@ -6,7 +6,7 @@
     "motherduck": {
       "command": "uvx",
       "args": [
-        "mcp-server-motherduck==1.1.0"
+        "mcp-server-motherduck==1.1.1"
       ]
     }
   }

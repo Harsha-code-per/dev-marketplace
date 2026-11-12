@@ -1,0 +1,11 @@
+{
+  "name": "elmo-mcp",
+  "description": "Track prompts on ChatGPT/Claude and all other models to measure AI visibility and perform AEO.",
+  "license": "MIT",
+  "mcpServers": {
+    "elmo": {
+      "type": "http",
+      "url": "https://app.elmohq.com/api/mcp"
+    }
+  }
+}

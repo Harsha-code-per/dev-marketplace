@@ -1,0 +1,14 @@
+{
+  "name": "tradecanvas-mcp",
+  "description": "Look up TradeCanvas chart indicators, options and drawing tools, and check options before use.",
+  "license": "MIT",
+  "mcpServers": {
+    "tradecanvas": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tradecanvas/mcp@1.61.0"
+      ]
+    }
+  }
+}

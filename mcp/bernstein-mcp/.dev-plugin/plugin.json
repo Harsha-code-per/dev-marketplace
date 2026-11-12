@@ -6,7 +6,7 @@
     "bernstein": {
       "command": "uvx",
       "args": [
-        "bernstein==3.23.0"
+        "bernstein==3.24.1"
       ]
     }
   }

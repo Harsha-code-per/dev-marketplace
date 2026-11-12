@@ -1,0 +1,14 @@
+{
+  "name": "brave-mcp",
+  "description": "MCP server and CLI for Brave DevTools",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "brave-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "brave-mcp@1.12.0"
+      ]
+    }
+  }
+}

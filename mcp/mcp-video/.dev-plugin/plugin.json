@@ -6,7 +6,7 @@
     "mcp-video": {
       "command": "uvx",
       "args": [
-        "mcp-video==1.6.20"
+        "mcp-video==1.6.22"
       ]
     }
   }

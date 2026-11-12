@@ -1,0 +1,14 @@
+{
+  "name": "marklayer-mcp",
+  "description": "Work visual annotations on a live webpage: watch, acknowledge, resolve, reply, or leave your own.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "marklayer": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "marklayer-mcp@0.6.1"
+      ]
+    }
+  }
+}

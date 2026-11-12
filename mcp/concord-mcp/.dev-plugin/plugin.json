@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@concord-ai/concord-mcp@0.21.0"
+        "@concord-ai/concord-mcp@0.22.0"
       ]
     }
   }

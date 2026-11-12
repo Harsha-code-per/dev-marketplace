@@ -1,0 +1,13 @@
+{
+  "name": "eda-agent-mcp",
+  "description": "Drive a live Altium Designer session: schematic, PCB and library tools. KiCad and EasyEDA too.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "eda-agent": {
+      "command": "uvx",
+      "args": [
+        "eda-agent==0.8.1"
+      ]
+    }
+  }
+}

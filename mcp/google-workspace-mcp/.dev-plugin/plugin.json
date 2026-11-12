@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@aaronsb/google-workspace-mcp@4.8.0"
+        "@aaronsb/google-workspace-mcp@4.9.1"
       ]
     }
   }

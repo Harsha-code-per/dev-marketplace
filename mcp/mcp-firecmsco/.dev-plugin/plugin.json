@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@firecms/mcp-server@3.5.1"
+        "@firecms/mcp-server@3.5.2"
       ]
     }
   }

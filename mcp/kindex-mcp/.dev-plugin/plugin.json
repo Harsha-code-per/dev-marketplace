@@ -1,0 +1,13 @@
+{
+  "name": "kindex-mcp",
+  "description": "Persistent knowledge graph and MCP server for AI workflows with git-tracked project context.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "kindex": {
+      "command": "uvx",
+      "args": [
+        "kindex==0.54.1"
+      ]
+    }
+  }
+}

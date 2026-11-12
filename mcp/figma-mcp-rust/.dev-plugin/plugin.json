@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@alvinindra/figma-mcp-rust@0.2.1"
+        "@alvinindra/figma-mcp-rust@0.2.2"
       ]
     }
   }

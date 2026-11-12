@@ -1,6 +1,6 @@
 {
   "name": "trading-signals-mcp",
-  "description": "Live AI crypto trading signals for agents. Try 3 signals without a key; sign in from your agent.",
+  "description": "Live crypto trading signals for AI agents: entry, stop, target, reasoning and verified outcomes.",
   "license": "NOASSERTION",
   "mcpServers": {
     "trading-signals": {

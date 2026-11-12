@@ -1,0 +1,11 @@
+{
+  "name": "synapseorch-mcp",
+  "description": "Build and run AI agent workflows: start runs, answer what they ask, search knowledge, edit agents.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "synapseorch": {
+      "type": "http",
+      "url": "https://api.synapseorch.com/api/v1/mcp"
+    }
+  }
+}

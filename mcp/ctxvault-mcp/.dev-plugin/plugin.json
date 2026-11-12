@@ -1,0 +1,13 @@
+{
+  "name": "ctxvault-mcp",
+  "description": "Local memory for AI agents: semantic, skill and episodic vaults as plain folders on disk.",
+  "license": "MIT",
+  "mcpServers": {
+    "ctxvault": {
+      "command": "uvx",
+      "args": [
+        "ctxvault==0.9.1"
+      ]
+    }
+  }
+}

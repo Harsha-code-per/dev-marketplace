@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "mcp-searxng@2.10.0"
+        "mcp-searxng@2.10.1"
       ]
     }
   }

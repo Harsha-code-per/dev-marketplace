@@ -1,0 +1,11 @@
+{
+  "name": "labwired-mcp",
+  "description": "Design circuits, simulate and verify embedded firmware, and lay out PCBs with AI agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "labwired": {
+      "type": "http",
+      "url": "https://api.labwired.com/mcp"
+    }
+  }
+}

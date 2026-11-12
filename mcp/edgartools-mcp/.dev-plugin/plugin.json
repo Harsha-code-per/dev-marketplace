@@ -6,7 +6,7 @@
     "edgartools": {
       "command": "uvx",
       "args": [
-        "edgartools==5.62.1"
+        "edgartools==6.0.0"
       ]
     }
   }

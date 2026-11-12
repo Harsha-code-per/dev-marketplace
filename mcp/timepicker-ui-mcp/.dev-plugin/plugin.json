@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "timepicker-ui-mcp@2.1.0"
+        "timepicker-ui-mcp@2.2.0"
       ]
     }
   }

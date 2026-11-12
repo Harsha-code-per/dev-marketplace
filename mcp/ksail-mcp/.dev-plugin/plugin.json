@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/devantler-tech/ksail:v7.212.20"
+        "ghcr.io/devantler-tech/ksail:v7.213.16"
       ]
     }
   }

@@ -6,7 +6,7 @@
     "gds-agent": {
       "command": "uvx",
       "args": [
-        "gds-agent==1.1.0"
+        "gds-agent==1.2.2"
       ]
     }
   }

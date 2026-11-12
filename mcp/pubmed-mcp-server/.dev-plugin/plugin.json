@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@cyanheads/pubmed-mcp-server@2.12.0"
+        "@cyanheads/pubmed-mcp-server@2.12.1"
       ]
     }
   }

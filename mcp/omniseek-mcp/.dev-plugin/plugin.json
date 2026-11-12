@@ -1,0 +1,13 @@
+{
+  "name": "omniseek-mcp",
+  "description": "Give your AI agent what web search doesn't reach: podcasts and videos, Chinese communities, papers.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "omniseek": {
+      "command": "uvx",
+      "args": [
+        "omniseek==0.3.0"
+      ]
+    }
+  }
+}

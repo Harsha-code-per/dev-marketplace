@@ -6,7 +6,7 @@
     "zotero-mcp": {
       "command": "uvx",
       "args": [
-        "zotero-mcp-server==0.15.2"
+        "zotero-mcp-server==0.17.0"
       ]
     }
   }

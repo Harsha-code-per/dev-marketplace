@@ -1,0 +1,11 @@
+{
+  "name": "global-law-mcp",
+  "description": "The law of nearly every country on earth, any date: read it, see what changed it, check citations.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "global-law": {
+      "type": "http",
+      "url": "https://global-law.lexifina.com/mcp"
+    }
+  }
+}

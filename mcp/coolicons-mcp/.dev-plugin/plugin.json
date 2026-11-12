@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@coolicons/mcp@5.2.0"
+        "@coolicons/mcp@5.3.0"
       ]
     }
   }

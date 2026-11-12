@@ -1,0 +1,11 @@
+{
+  "name": "remocn-mcp",
+  "description": "Hosted MCP for Remotion videos: search Remocn components, read docs, plan a video, preview it.",
+  "license": "MIT",
+  "mcpServers": {
+    "remocn": {
+      "type": "http",
+      "url": "https://remocn.dev/mcp"
+    }
+  }
+}

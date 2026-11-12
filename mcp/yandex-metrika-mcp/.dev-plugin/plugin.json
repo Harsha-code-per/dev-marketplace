@@ -1,0 +1,14 @@
+{
+  "name": "yandex-metrika-mcp",
+  "description": "Read-only Yandex Metrika (Яндекс Метрика) analytics: verifiable reports, comparisons and exports.",
+  "license": "MIT",
+  "mcpServers": {
+    "yandex-metrika-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dev-crabs/yandex-metrika-mcp@1.0.0"
+      ]
+    }
+  }
+}

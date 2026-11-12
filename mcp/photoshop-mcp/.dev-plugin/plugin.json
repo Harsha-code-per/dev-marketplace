@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@alisaitteke/photoshop-mcp@1.7.37"
+        "@alisaitteke/photoshop-mcp@1.7.38"
       ]
     }
   }

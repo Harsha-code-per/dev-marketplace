@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@mapbox/mcp-server@0.17.0"
+        "@mapbox/mcp-server@0.18.0"
       ]
     }
   }

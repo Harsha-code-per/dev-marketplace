@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "marketplaces-mcp-ru@0.6.1"
+        "marketplaces-mcp-ru@0.7.0"
       ]
     }
   }

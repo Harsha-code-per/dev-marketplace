@@ -1,0 +1,14 @@
+{
+  "name": "venice-mcp-server",
+  "description": "Images, video, music, speech and private chat from Venice AI's models, on one API key.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "venice-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@veniceai/mcp-server@0.3.2"
+      ]
+    }
+  }
+}

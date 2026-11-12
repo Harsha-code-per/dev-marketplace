@@ -6,7 +6,7 @@
     "skforecast-ai": {
       "command": "uvx",
       "args": [
-        "skforecast-ai-mcp==0.4.2"
+        "skforecast-ai-mcp==0.5.0"
       ]
     }
   }

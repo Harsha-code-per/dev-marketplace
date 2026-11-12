@@ -1,0 +1,14 @@
+{
+  "name": "hypequery-mcp",
+  "description": "Governed ClickHouse analytics for agents: named datasets and metrics as tools, never raw SQL.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "hypequery": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@hypequery/mcp@0.12.0"
+      ]
+    }
+  }
+}

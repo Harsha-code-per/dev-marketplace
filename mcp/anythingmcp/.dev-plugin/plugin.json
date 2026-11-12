@@ -1,6 +1,6 @@
 {
   "name": "anythingmcp",
-  "description": "MCP gateway and company brain: 694 connectors (SAP, ERP, SQL), file search, memory and skills.",
+  "description": "MCP gateway and company brain: 731 connectors (SAP, ERP, SQL), file search, memory and skills.",
   "license": "AGPL-3.0",
   "mcpServers": {
     "anythingmcp": {

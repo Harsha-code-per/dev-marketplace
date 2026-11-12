@@ -1,0 +1,11 @@
+{
+  "name": "de-mcp",
+  "description": "German court decisions (Rechtsprechung) and laws (Gesetze) with citation graph and citation checks.",
+  "license": "MIT",
+  "mcpServers": {
+    "de": {
+      "type": "http",
+      "url": "https://de.openlegaldata.io/mcp"
+    }
+  }
+}

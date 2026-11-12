@@ -1,13 +1,13 @@
 {
   "name": "aicanvas-mcp",
-  "description": "Browse and install 75+ free animated, shadcn-compatible React components from AI Canvas.",
+  "description": "Design systems your AI agent builds with and you reshape, plus standalone React components.",
   "license": "MIT",
   "mcpServers": {
     "aicanvas": {
       "command": "npx",
       "args": [
         "-y",
-        "@aicanvas/mcp@0.2.5"
+        "@aicanvas/mcp@0.3.5"
       ]
     }
   }

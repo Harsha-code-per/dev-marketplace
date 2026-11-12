@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@trustabl/agent-reliability-skills@0.1.0-rc.2"
+        "@trustabl/agent-reliability-skills@0.1.0-rc.3"
       ]
     }
   }

@@ -1,12 +1,12 @@
 {
   "name": "handle-mcp",
-  "description": "Let your AI agent search offers and fill the cheapest cart at nemlig.com and BilkaToGo. You pay.",
+  "description": "Your AI agent fills the cheapest cart at nemlig.com, BilkaToGo and REMA 1000. You pay.",
   "license": "MIT",
   "mcpServers": {
     "handle-mcp": {
       "command": "uvx",
       "args": [
-        "handle-mcp==1.5.2"
+        "handle-mcp==1.7.1"
       ]
     }
   }

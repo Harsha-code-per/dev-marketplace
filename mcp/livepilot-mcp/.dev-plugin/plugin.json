@@ -1,13 +1,13 @@
 {
   "name": "livepilot-mcp",
-  "description": "317-tool agentic MCP production system for Ableton Live 12 — device atlas, sample engine, composer",
+  "description": "Ableton Live 12: 474 tools, 57 domains, nested devices, native modulation, and audio analysis.",
   "license": "NOASSERTION",
   "mcpServers": {
     "livepilot": {
       "command": "npx",
       "args": [
         "-y",
-        "livepilot@1.10.4"
+        "livepilot@1.31.0"
       ]
     }
   }

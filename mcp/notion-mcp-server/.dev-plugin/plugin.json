@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "notion-mcp-server@3.3.1"
+        "notion-mcp-server@3.4.0"
       ]
     }
   }

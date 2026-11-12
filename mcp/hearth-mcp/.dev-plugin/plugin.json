@@ -1,0 +1,14 @@
+{
+  "name": "hearth-mcp",
+  "description": "Search community threat hunting hypotheses by keyword, threat actor, or the log sources you have.",
+  "license": "MIT",
+  "mcpServers": {
+    "hearth": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@thorcollective/hearth-mcp@0.1.1"
+      ]
+    }
+  }
+}

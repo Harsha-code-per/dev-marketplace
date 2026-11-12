@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@firfi/huly-mcp@0.52.5"
+        "@firfi/huly-mcp@0.56.0"
       ]
     }
   }

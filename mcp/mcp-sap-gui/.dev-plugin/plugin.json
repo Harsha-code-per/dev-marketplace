@@ -1,0 +1,13 @@
+{
+  "name": "mcp-sap-gui",
+  "description": "SAP GUI for Windows automation for AI agents - 59 structured tools via SAP GUI Scripting API",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-sap-gui": {
+      "command": "uvx",
+      "args": [
+        "mcp-sap-gui==0.6.0"
+      ]
+    }
+  }
+}

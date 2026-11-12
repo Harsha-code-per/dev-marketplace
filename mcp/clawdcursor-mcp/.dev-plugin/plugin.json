@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "clawdcursor@1.5.26"
+        "clawdcursor@2.0.0"
       ]
     }
   }

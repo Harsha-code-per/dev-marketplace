@@ -13,7 +13,7 @@
         "REDMINE_SERVER",
         "-e",
         "REDMINE_API_KEY",
-        "ghcr.io/aarondpn/redmine-mcp:2.19.1"
+        "ghcr.io/aarondpn/redmine-mcp:2.20.0"
       ]
     }
   }

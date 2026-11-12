@@ -6,7 +6,7 @@
     "mikrotik-mcp": {
       "command": "uvx",
       "args": [
-        "mcp-server-mikrotik==0.27.0.0"
+        "mcp-server-mikrotik==0.28.1.0"
       ]
     }
   }

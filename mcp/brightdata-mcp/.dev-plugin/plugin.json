@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@brightdata/mcp@4.6.0"
+        "@brightdata/mcp@4.8.0"
       ]
     }
   }

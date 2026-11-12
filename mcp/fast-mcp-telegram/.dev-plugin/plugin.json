@@ -6,7 +6,7 @@
     "fast-mcp-telegram": {
       "command": "uvx",
       "args": [
-        "fast-mcp-telegram==0.46.1"
+        "fast-mcp-telegram==0.46.2"
       ]
     }
   }

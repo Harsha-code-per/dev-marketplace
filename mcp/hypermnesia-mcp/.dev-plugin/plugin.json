@@ -6,7 +6,7 @@
     "hypermnesia-mcp": {
       "command": "uvx",
       "args": [
-        "hypermnesia-mcp==4.23.5"
+        "hypermnesia-mcp==4.24.0"
       ]
     }
   }

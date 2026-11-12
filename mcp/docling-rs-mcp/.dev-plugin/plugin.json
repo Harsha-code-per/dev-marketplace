@@ -6,7 +6,7 @@
     "docling-rs": {
       "command": "uvx",
       "args": [
-        "docling-rs-mcp==2.67.1"
+        "docling-rs-mcp==2.82.1"
       ]
     }
   }

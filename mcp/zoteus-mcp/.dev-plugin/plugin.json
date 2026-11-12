@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@oscardvs/zoteus@1.23.1"
+        "@oscardvs/zoteus@1.25.1"
       ]
     }
   }

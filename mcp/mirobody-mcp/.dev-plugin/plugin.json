@@ -6,7 +6,7 @@
     "mirobody": {
       "command": "uvx",
       "args": [
-        "mirobody==1.6.0"
+        "mirobody==1.6.1"
       ]
     }
   }

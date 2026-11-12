@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "dvalincode@0.22.0"
+        "dvalincode@0.23.0"
       ]
     }
   }

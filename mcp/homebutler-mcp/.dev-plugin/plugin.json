@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "homebutler@1.6.0"
+        "homebutler@1.8.0"
       ]
     }
   }

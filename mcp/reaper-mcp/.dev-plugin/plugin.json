@@ -6,7 +6,7 @@
     "reaper-mcp": {
       "command": "uvx",
       "args": [
-        "twelvetake-reaper-mcp==1.10.1"
+        "twelvetake-reaper-mcp==1.11.0"
       ]
     }
   }

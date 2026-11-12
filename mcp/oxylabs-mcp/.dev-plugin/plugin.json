@@ -1,0 +1,13 @@
+{
+  "name": "oxylabs-mcp",
+  "description": "Fetch and process content from specified URLs & sources using the Oxylabs Web Scraper API.",
+  "license": "MIT",
+  "mcpServers": {
+    "oxylabs-mcp": {
+      "command": "uvx",
+      "args": [
+        "oxylabs-mcp==0.10.2"
+      ]
+    }
+  }
+}

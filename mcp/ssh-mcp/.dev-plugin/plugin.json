@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "ssh-mcp@2.23.1"
+        "ssh-mcp@2.25.1"
       ]
     }
   }

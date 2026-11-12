@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "obsidian-mcp-server@3.8.0"
+        "obsidian-mcp-server@3.9.0"
       ]
     }
   }

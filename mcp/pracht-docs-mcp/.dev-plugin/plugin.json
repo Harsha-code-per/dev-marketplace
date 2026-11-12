@@ -1,0 +1,11 @@
+{
+  "name": "pracht-docs-mcp",
+  "description": "Search and read the pracht framework documentation: guides, recipes, and API reference.",
+  "license": "MIT",
+  "mcpServers": {
+    "pracht-docs": {
+      "type": "http",
+      "url": "https://pracht.resynapse.dev/mcp"
+    }
+  }
+}

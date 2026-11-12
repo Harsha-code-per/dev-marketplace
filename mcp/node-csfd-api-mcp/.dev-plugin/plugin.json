@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "node-csfd-api@5.14.1"
+        "node-csfd-api@5.16.0"
       ]
     }
   }

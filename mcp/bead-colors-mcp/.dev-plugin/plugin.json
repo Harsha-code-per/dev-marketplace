@@ -1,0 +1,14 @@
+{
+  "name": "bead-colors-mcp",
+  "description": "Search craft color palettes and match shades by CIEDE2000 with Meltbead.",
+  "license": "MIT",
+  "mcpServers": {
+    "bead-colors-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@meltbead/bead-colors-mcp@0.1.0"
+      ]
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
   "name": "godot-mcp-runtime",
-  "description": "Zero-addon MCP server for Godot 4: agents edit, run, and play-test the game.",
+  "description": "Zero-addon MCP server for Godot 4.5 or later: agents edit, run, and play-test the game.",
   "license": "MIT",
   "mcpServers": {
     "godot-mcp-runtime": {
       "command": "npx",
       "args": [
         "-y",
-        "godot-mcp-runtime@3.8.0"
+        "godot-mcp-runtime@4.0.0"
       ]
     }
   }

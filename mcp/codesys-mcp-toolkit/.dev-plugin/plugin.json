@@ -1,0 +1,14 @@
+{
+  "name": "codesys-mcp-toolkit",
+  "description": "Read, write, compile and simulate Structured Text in CODESYS V3.5 projects.",
+  "license": "MIT",
+  "mcpServers": {
+    "codesys-mcp-toolkit": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@codesys/mcp-toolkit@2.0.1"
+      ]
+    }
+  }
+}

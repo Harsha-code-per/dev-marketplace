@@ -6,7 +6,7 @@
     "orcaslicer-mcp": {
       "command": "uvx",
       "args": [
-        "orcaslicer-mcp==0.1.20"
+        "orcaslicer-mcp==0.1.23"
       ]
     }
   }

@@ -1,0 +1,11 @@
+{
+  "name": "oya-browser-mcp",
+  "description": "Oya, the HIPAA-compliant agentic browser, over MCP: browse, run playbooks, hand a tab to a person.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "oya-browser": {
+      "type": "http",
+      "url": "https://oyabrowser.com/mcp/pool"
+    }
+  }
+}

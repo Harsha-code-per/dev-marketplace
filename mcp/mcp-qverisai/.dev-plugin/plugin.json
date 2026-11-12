@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@qverisai/mcp@0.15.0"
+        "@qverisai/mcp@0.15.1"
       ]
     }
   }

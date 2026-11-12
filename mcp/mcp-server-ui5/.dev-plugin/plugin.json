@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@ui5/mcp-server@0.3.2"
+        "@ui5/mcp-server@0.3.3"
       ]
     }
   }

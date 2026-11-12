@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@sbroenne/mcp-server-excel@2.6.11"
+        "@sbroenne/mcp-server-excel@2.6.12"
       ]
     }
   }

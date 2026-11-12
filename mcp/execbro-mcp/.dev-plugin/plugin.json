@@ -1,13 +1,13 @@
 {
   "name": "execbro-mcp",
-  "description": "Gives AI agents eyes and hands into running React Native apps: logs, REPL, tap, screenshots",
+  "description": "Catches what reading the code misses: AI agents check running React Native apps",
   "license": "NOASSERTION",
   "mcpServers": {
     "execbro": {
       "command": "npx",
       "args": [
         "-y",
-        "execbro@2.20.0"
+        "execbro@2.23.0"
       ]
     }
   }

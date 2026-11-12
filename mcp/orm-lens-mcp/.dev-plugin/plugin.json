@@ -6,7 +6,7 @@
     "orm-lens": {
       "command": "uvx",
       "args": [
-        "orm-lens==1.17.1"
+        "orm-lens==1.18.0"
       ]
     }
   }

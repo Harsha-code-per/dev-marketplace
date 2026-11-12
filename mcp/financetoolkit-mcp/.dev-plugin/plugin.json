@@ -6,7 +6,7 @@
     "financetoolkit": {
       "command": "uvx",
       "args": [
-        "financetoolkit==2.3.2"
+        "financetoolkit==2.3.3"
       ]
     }
   }

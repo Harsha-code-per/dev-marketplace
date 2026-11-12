@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@aloth/olcli@0.16.1"
+        "@aloth/olcli@0.16.2"
       ]
     }
   }

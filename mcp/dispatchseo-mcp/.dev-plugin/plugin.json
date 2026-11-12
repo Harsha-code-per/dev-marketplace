@@ -1,6 +1,6 @@
 {
   "name": "dispatchseo-mcp",
-  "description": "Open-source SEO manager for coding agents: keyword research, content PRs, rank + Search Console.",
+  "description": "SEO autopilot your coding agent drives over MCP: keyword research, article queue and Google stats.",
   "license": "AGPL-3.0",
   "mcpServers": {
     "dispatchseo": {
