@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "brightspace-mcp-server@5.2.2"
+        "brightspace-mcp-server@5.2.4"
       ]
     }
   }

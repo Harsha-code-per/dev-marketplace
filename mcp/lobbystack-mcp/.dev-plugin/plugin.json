@@ -1,0 +1,11 @@
+{
+  "name": "lobbystack-mcp",
+  "description": "AI receptionist: read calls, messages and contacts, book appointments, and update hours and FAQs.",
+  "license": "MIT",
+  "mcpServers": {
+    "lobbystack": {
+      "type": "http",
+      "url": "https://app.lobbystack.com/api/mcp"
+    }
+  }
+}

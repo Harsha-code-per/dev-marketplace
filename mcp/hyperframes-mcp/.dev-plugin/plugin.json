@@ -1,0 +1,11 @@
+{
+  "name": "hyperframes-mcp",
+  "description": "Official HyperFrames by HeyGen: the best AI video editor in chat. Captions, motion graphics, MP4.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "hyperframes": {
+      "type": "http",
+      "url": "https://mcp.heygen.com/mcp/hyperframes/"
+    }
+  }
+}

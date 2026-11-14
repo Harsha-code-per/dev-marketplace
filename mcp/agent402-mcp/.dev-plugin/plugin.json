@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "agent402-mcp@0.13.31"
+        "agent402-mcp@0.13.32"
       ]
     }
   }

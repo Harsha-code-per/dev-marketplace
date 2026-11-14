@@ -11,7 +11,7 @@
         "--rm",
         "-e",
         "VIYA_ENDPOINT",
-        "ghcr.io/sassoftware/sas-mcp-server:1.19.1"
+        "ghcr.io/sassoftware/sas-mcp-server:1.20.1"
       ]
     }
   }

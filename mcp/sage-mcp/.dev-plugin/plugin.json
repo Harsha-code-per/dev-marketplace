@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/l33tdawg/sage:11.25.6"
+        "ghcr.io/l33tdawg/sage:11.25.8"
       ]
     }
   }

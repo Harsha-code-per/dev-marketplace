@@ -1,13 +1,13 @@
 {
   "name": "continente-mcp",
-  "description": "Unofficial Continente.pt shopping: search products, read favorites and orders, manage the cart.",
+  "description": "Unofficial Continente.pt shopping: search, compare unit prices, read orders and fill the cart.",
   "license": "MIT",
   "mcpServers": {
     "continente-mcp": {
       "command": "npx",
       "args": [
         "-y",
-        "continentept-mcp@0.14.0"
+        "continentept-mcp@0.15.0"
       ]
     }
   }

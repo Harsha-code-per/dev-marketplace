@@ -1,0 +1,14 @@
+{
+  "name": "fallow-mcp",
+  "description": "Codebase intelligence for TypeScript and JavaScript, exposed as structured MCP analysis tools.",
+  "license": "MIT",
+  "mcpServers": {
+    "fallow": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "fallow@3.43.0"
+      ]
+    }
+  }
+}

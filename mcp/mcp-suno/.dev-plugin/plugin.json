@@ -6,7 +6,7 @@
     "mcp-suno": {
       "command": "uvx",
       "args": [
-        "mcp-suno==2026.11.9.0"
+        "mcp-suno==2026.11.13.0"
       ]
     }
   }

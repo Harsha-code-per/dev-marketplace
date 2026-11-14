@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "atris@3.82.23"
+        "atris@3.83.0"
       ]
     }
   }

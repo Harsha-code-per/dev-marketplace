@@ -1,0 +1,11 @@
+{
+  "name": "mcp-tetreesex",
+  "description": "Own, grow and trade portable agent intelligence via TAIP/1 Packs and MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://ex.tetrees.ai/mcp"
+    }
+  }
+}

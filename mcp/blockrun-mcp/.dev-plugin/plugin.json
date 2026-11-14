@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@blockrun/mcp@0.55.8"
+        "@blockrun/mcp@0.55.10"
       ]
     }
   }

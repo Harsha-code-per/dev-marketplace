@@ -6,7 +6,7 @@
     "mcp": {
       "command": "uvx",
       "args": [
-        "mcp-server-appwrite==2.4.7"
+        "mcp-server-appwrite==2.6.2"
       ]
     }
   }

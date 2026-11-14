@@ -1,0 +1,13 @@
+{
+  "name": "hyperlight-mcp",
+  "description": "Runs Python in a local, hardware-isolated micro-VM that keeps its state between calls",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "hyperlight": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-hyperlight==0.1.1"
+      ]
+    }
+  }
+}

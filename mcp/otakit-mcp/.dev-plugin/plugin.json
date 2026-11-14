@@ -1,0 +1,14 @@
+{
+  "name": "otakit-mcp",
+  "description": "Inspect, upload, release, monitor, and revert OtaKit Capacitor OTA updates.",
+  "license": "MIT",
+  "mcpServers": {
+    "otakit": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@otakit/cli@1.12.0"
+      ]
+    }
+  }
+}

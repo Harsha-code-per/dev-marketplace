@@ -1,0 +1,11 @@
+{
+  "name": "mcp-digitalocean-labs",
+  "description": "Build, deploy, manage, and troubleshoot applications and infrastructure on DigitalOcean.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.digitalocean.com/mcp"
+    }
+  }
+}

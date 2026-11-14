@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "synabun@2.2.2"
+        "synabun@2.3.0"
       ]
     }
   }

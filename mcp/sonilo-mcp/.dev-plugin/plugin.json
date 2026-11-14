@@ -6,7 +6,7 @@
     "sonilo-mcp": {
       "command": "uvx",
       "args": [
-        "sonilo-mcp==0.28.0"
+        "sonilo-mcp==0.28.1"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "kicad-mcp-pro@4.13.0"
+        "kicad-mcp-pro@4.15.0"
       ]
     }
   }

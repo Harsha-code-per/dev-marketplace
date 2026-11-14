@@ -15,7 +15,7 @@
         "AUTOTASK_SECRET",
         "-e",
         "AUTOTASK_INTEGRATION_CODE",
-        "ghcr.io/wyre-ai/autotask-mcp:v2.39.9"
+        "ghcr.io/wyre-ai/autotask-mcp:v2.39.10"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@newrelic/preflight@1.72.0"
+        "@newrelic/preflight@1.73.0"
       ]
     }
   }

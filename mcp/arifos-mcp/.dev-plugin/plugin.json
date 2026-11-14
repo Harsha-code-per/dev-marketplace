@@ -1,6 +1,6 @@
 {
   "name": "arifos-mcp",
-  "description": "Constitutional verdict layer for AI agents. SEAL/HOLD before mutation. F1-F13 floors; audit ledger.",
+  "description": "Constitutional authority plane for AI agents — verifies identity and authority before execution.",
   "license": "AGPL-3.0",
   "mcpServers": {
     "arifos": {

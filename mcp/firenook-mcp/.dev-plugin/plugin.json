@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "firenook@0.2.3"
+        "firenook@0.2.4"
       ]
     }
   }

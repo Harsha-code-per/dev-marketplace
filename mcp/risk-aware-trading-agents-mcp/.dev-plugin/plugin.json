@@ -1,0 +1,13 @@
+{
+  "name": "risk-aware-trading-agents-mcp",
+  "description": "AI trading agents for US stocks: point-in-time news backtests, a frozen 2026 market, paper trading",
+  "license": "MIT",
+  "mcpServers": {
+    "risk-aware-trading-agents": {
+      "command": "uvx",
+      "args": [
+        "risk-aware-trading-agents==0.7.2"
+      ]
+    }
+  }
+}

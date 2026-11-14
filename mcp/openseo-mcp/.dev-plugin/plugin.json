@@ -1,0 +1,11 @@
+{
+  "name": "openseo-mcp",
+  "description": "Keyword research, site audits, rank tracking and AI visibility for your AI agent.",
+  "license": "MIT",
+  "mcpServers": {
+    "openseo": {
+      "type": "http",
+      "url": "https://app.openseo.so/mcp"
+    }
+  }
+}

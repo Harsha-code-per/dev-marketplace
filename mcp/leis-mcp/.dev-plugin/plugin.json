@@ -6,7 +6,7 @@
     "leis-mcp": {
       "command": "uvx",
       "args": [
-        "leis-mcp==0.2.0"
+        "leis-mcp==0.3.0"
       ]
     }
   }

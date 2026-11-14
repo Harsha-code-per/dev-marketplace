@@ -6,7 +6,7 @@
     "pymemoryeditor": {
       "command": "uvx",
       "args": [
-        "pymemoryeditor==3.4.1"
+        "pymemoryeditor==3.4.3"
       ]
     }
   }

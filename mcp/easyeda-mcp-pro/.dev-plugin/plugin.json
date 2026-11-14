@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "easyeda-mcp-pro@1.14.0"
+        "easyeda-mcp-pro@1.15.4"
       ]
     }
   }

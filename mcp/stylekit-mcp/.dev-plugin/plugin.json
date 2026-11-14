@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "stylekit-mcp@0.5.0"
+        "stylekit-mcp@0.6.0"
       ]
     }
   }

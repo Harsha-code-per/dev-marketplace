@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@commonlyai/mcp@0.3.51"
+        "@commonlyai/mcp@0.3.56"
       ]
     }
   }

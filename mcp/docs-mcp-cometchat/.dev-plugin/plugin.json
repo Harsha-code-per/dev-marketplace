@@ -1,6 +1,6 @@
 {
   "name": "docs-mcp-cometchat",
-  "description": "CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app.",
+  "description": "CometChat docs and recipes, plus your account after sign-in: apps, users, settings, keys, webhooks.",
   "license": "Apache-2.0",
   "mcpServers": {
     "docs-mcp": {

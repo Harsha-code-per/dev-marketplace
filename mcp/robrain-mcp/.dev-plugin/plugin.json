@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "robrain@2.7.0"
+        "robrain@2.8.0"
       ]
     }
   }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-cloudflare",
+  "description": "Cloudflare MCP servers",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://docs.mcp.cloudflare.com/mcp"
+    }
+  }
+}

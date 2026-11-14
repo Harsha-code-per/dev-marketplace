@@ -1,0 +1,13 @@
+{
+  "name": "llmscribe-mcp",
+  "description": "Deterministic local project map, search and file reader for AI agents.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "llmscribe": {
+      "command": "uvx",
+      "args": [
+        "llmscribe==1.3.0"
+      ]
+    }
+  }
+}

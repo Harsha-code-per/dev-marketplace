@@ -6,7 +6,7 @@
     "proxmox-mcp-plus": {
       "command": "uvx",
       "args": [
-        "proxmox-mcp-plus==0.6.10"
+        "proxmox-mcp-plus==0.7.0"
       ]
     }
   }

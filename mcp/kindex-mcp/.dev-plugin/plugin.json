@@ -6,7 +6,7 @@
     "kindex": {
       "command": "uvx",
       "args": [
-        "kindex==0.54.1"
+        "kindex==0.54.2"
       ]
     }
   }

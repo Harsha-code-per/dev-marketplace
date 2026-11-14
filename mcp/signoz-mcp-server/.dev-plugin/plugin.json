@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "docker.io/signoz/signoz-mcp-server:v0.18.0"
+        "docker.io/signoz/signoz-mcp-server:v0.19.0"
       ]
     }
   }

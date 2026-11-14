@@ -6,7 +6,7 @@
     "seo-monster": {
       "command": "uvx",
       "args": [
-        "seo-monster==0.9.3"
+        "seo-monster==0.11.1"
       ]
     }
   }

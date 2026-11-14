@@ -6,7 +6,7 @@
     "crg": {
       "command": "uvx",
       "args": [
-        "better-code-review-graph==3.31.0"
+        "n24q02m-crg==3.32.0"
       ]
     }
   }

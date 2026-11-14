@@ -6,7 +6,7 @@
     "openleads": {
       "command": "uvx",
       "args": [
-        "openleads==5.2.0"
+        "openleads==5.5.0"
       ]
     }
   }

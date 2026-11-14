@@ -1,12 +1,12 @@
 {
   "name": "statspai-mcp",
-  "description": "Causal inference and econometrics: DiD, IV, RD, synthetic control, DML, panel, time series.",
+  "description": "Econometrics and causal inference (DiD, IV, RD, synthetic control, DML) with Stata/R parity grades",
   "license": "MIT",
   "mcpServers": {
     "statspai": {
       "command": "uvx",
       "args": [
-        "statspai==1.43.0"
+        "statspai==1.43.1"
       ]
     }
   }

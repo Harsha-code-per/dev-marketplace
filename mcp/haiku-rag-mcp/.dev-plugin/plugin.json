@@ -6,7 +6,7 @@
     "haiku-rag": {
       "command": "uvx",
       "args": [
-        "haiku-rag==0.111.0"
+        "haiku-rag==0.112.0"
       ]
     }
   }

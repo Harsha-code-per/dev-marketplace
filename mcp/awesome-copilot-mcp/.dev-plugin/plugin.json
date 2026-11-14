@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/microsoft/mcp-dotnet-samples/awesome-copilot:1.0.2026111104"
+        "ghcr.io/microsoft/mcp-dotnet-samples/awesome-copilot:1.0.2026111303"
       ]
     }
   }

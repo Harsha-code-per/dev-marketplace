@@ -1,0 +1,13 @@
+{
+  "name": "freecad-mcp-neka-nat",
+  "description": "Control FreeCAD from MCP clients: create and edit models, run Python and FEM analyses.",
+  "license": "MIT",
+  "mcpServers": {
+    "freecad-mcp": {
+      "command": "uvx",
+      "args": [
+        "freecad-mcp==0.1.31"
+      ]
+    }
+  }
+}

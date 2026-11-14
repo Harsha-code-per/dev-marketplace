@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@hostinger/mcp@3.40.0"
+        "@hostinger/mcp@4.0.1"
       ]
     }
   }

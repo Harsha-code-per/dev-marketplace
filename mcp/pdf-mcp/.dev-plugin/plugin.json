@@ -1,12 +1,12 @@
 {
   "name": "pdf-mcp",
-  "description": "Agentic RAG over one PDF or a whole folder: hybrid search, selective page reads, tables, OCR.",
+  "description": "Agentic RAG over your PDFs, with page-level evidence to check every answer.",
   "license": "MIT",
   "mcpServers": {
     "pdf-mcp": {
       "command": "uvx",
       "args": [
-        "pdf-mcp==3.7.0"
+        "pdf-mcp==3.8.0"
       ]
     }
   }

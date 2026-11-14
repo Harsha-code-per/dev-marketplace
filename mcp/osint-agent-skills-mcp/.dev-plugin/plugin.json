@@ -1,0 +1,14 @@
+{
+  "name": "osint-agent-skills-mcp",
+  "description": "OSINT MCP server — 23 tools: DNS, WHOIS, Shodan, breaches, GEOINT, crypto. Works with Claude Code.",
+  "license": "MIT",
+  "mcpServers": {
+    "osint-agent-skills": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@frangelbarrera/osint-agent-skills@1.4.1"
+      ]
+    }
+  }
+}

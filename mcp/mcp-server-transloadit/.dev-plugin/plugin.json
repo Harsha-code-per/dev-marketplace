@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@transloadit/mcp-server@0.8.6"
+        "@transloadit/mcp-server@0.8.8"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@masonator/coolify-mcp@3.9.0"
+        "@masonator/coolify-mcp@3.10.1"
       ]
     }
   }

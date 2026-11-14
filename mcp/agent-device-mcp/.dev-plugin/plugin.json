@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "agent-device@0.21.36"
+        "agent-device@0.21.37"
       ]
     }
   }

@@ -6,7 +6,7 @@
     "solidworks-mcp-python": {
       "command": "uvx",
       "args": [
-        "solidworks-mcp-python==1.5.0"
+        "solidworks-mcp-python==2.0.0"
       ]
     }
   }

@@ -1,0 +1,14 @@
+{
+  "name": "phonedriver-mcp",
+  "description": "Let AI agents see and control Android and iOS phones over stdio.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "phonedriver": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "phonedriver@0.1.3"
+      ]
+    }
+  }
+}

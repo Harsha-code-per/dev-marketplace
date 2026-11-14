@@ -1,0 +1,11 @@
+{
+  "name": "mcp-alp82",
+  "description": "Find movies and TV shows, track watches, and get suggestions based on your taste.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://goodwatch.app/mcp"
+    }
+  }
+}

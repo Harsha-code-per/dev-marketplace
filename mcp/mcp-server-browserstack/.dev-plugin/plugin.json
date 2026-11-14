@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@browserstack/mcp-server@2.6.7"
+        "@browserstack/mcp-server@2.6.8"
       ]
     }
   }

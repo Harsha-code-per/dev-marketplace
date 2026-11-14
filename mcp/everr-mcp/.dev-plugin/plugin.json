@@ -1,0 +1,11 @@
+{
+  "name": "everr-mcp",
+  "description": "Query your traces, logs, metrics and GitHub Actions CI runs in Everr with read-only SQL.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "everr": {
+      "type": "http",
+      "url": "https://app.everr.dev/mcp"
+    }
+  }
+}

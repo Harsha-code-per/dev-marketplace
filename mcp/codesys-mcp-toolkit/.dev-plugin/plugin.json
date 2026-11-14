@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@codesys/mcp-toolkit@2.0.1"
+        "@codesys/mcp-toolkit@2.2.0"
       ]
     }
   }

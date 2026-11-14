@@ -6,7 +6,7 @@
     "redmine-mcp-server": {
       "command": "uvx",
       "args": [
-        "redmine-mcp-server==2.21.0"
+        "redmine-mcp-server==2.22.0"
       ]
     }
   }

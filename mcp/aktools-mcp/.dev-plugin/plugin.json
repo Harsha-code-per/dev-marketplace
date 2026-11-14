@@ -6,7 +6,7 @@
     "aktools": {
       "command": "uvx",
       "args": [
-        "aktools==0.1.5"
+        "aktools==0.1.7"
       ]
     }
   }

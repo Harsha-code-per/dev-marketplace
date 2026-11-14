@@ -1,0 +1,11 @@
+{
+  "name": "frontman-wordpress-mcp",
+  "description": "WordPress MCP; OAuth, connected site and eligible subscription or trial required.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "frontman-wordpress": {
+      "type": "http",
+      "url": "https://api.frontman.sh/mcp"
+    }
+  }
+}

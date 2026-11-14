@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@zereight/mcp-gitlab@2.3.26"
+        "@zereight/mcp-gitlab@2.3.27"
       ]
     }
   }

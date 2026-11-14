@@ -1,13 +1,13 @@
 {
   "name": "mcp-uptime-kuma",
-  "description": "A Model Context Protocol (MCP) server for Uptime Kuma version 2.",
+  "description": "Manage your Uptime Kuma 2 instance from an LLM: monitors, status pages, notifications, maintenance",
   "license": "MIT",
   "mcpServers": {
     "mcp-uptime-kuma": {
       "command": "npx",
       "args": [
         "-y",
-        "@davidfuchs/mcp-uptime-kuma@0.13.0"
+        "@davidfuchs/mcp-uptime-kuma@0.15.0"
       ]
     }
   }
