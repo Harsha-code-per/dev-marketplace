@@ -1,0 +1,14 @@
+{
+  "name": "brandmd-mcp",
+  "description": "Turn any website into a DESIGN.md: its colors, type and components, for your coding agent.",
+  "license": "MIT",
+  "mcpServers": {
+    "brandmd": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "brandmd@1.0.1"
+      ]
+    }
+  }
+}

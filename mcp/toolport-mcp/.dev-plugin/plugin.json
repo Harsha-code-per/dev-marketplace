@@ -1,0 +1,16 @@
+{
+  "name": "toolport-mcp",
+  "description": "Local MCP gateway: set up servers once and share them with every AI client",
+  "license": "MIT",
+  "mcpServers": {
+    "toolport": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/btsouth/toolport-gateway:v2.3.7"
+      ]
+    }
+  }
+}

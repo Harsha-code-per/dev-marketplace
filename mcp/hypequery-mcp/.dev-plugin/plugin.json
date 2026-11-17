@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@hypequery/mcp@0.13.0"
+        "@hypequery/mcp@0.15.0"
       ]
     }
   }

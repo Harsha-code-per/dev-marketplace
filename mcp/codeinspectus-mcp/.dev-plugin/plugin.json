@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "codeinspectus@4.0.0"
+        "codeinspectus@4.1.0"
       ]
     }
   }

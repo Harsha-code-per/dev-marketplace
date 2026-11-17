@@ -6,7 +6,7 @@
     "hypruse": {
       "command": "uvx",
       "args": [
-        "hypruse==0.15.0"
+        "hypruse==0.15.1"
       ]
     }
   }

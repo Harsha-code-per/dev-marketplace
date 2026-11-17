@@ -1,0 +1,14 @@
+{
+  "name": "kurlo-mcp",
+  "description": "Run, write and test the API requests saved in a Kurlo workspace, the open source API client.",
+  "license": "MIT",
+  "mcpServers": {
+    "kurlo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@kurlo/cli@3.1.3"
+      ]
+    }
+  }
+}

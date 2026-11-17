@@ -1,0 +1,11 @@
+{
+  "name": "spanish-top-tech-companies-mcp",
+  "description": "Tech salaries in Spain by role, region and company, and open job postings to apply to.",
+  "license": "MIT",
+  "mcpServers": {
+    "spanish-top-tech-companies": {
+      "type": "http",
+      "url": "https://spanishtoptechcompanies.com/mcp"
+    }
+  }
+}

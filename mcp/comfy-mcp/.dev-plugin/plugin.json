@@ -1,0 +1,13 @@
+{
+  "name": "comfy-mcp",
+  "description": "Drive the ComfyUI installed on your own machine: generate, monitor jobs, and build workflows.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "comfy-mcp": {
+      "command": "uvx",
+      "args": [
+        "comfy-mcp==0.11.0"
+      ]
+    }
+  }
+}

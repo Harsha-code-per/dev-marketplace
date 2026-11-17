@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@atomicmail/mcp-modelcontextprotocol@0.3.33"
+        "@atomicmail/mcp-modelcontextprotocol@0.3.34"
       ]
     }
   }

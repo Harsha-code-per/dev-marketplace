@@ -6,7 +6,7 @@
     "apple-mail-mcp": {
       "command": "uvx",
       "args": [
-        "apple-mail-mcp==0.5.0"
+        "apple-mail-mcp==0.5.1"
       ]
     }
   }

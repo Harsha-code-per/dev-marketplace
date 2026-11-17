@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-bingowon",
+  "description": "Apple developer docs and WWDC transcripts with RAG retrieval and Jev relevance ranking.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp-server": {
+      "type": "http",
+      "url": "https://mcp.apple-rag.com"
+    }
+  }
+}

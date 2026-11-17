@@ -1,13 +1,13 @@
 {
   "name": "gitlab-mcp-server",
-  "description": "Go MCP server for GitLab: 2 dynamic tools reach ~876 actions on Free/CE, up to ~1103 on Ultimate.",
+  "description": "Go MCP server for GitLab: 2 dynamic tools reach ~879 actions on Free/CE, up to ~1106 on Ultimate.",
   "license": "MIT",
   "mcpServers": {
     "gitlab-mcp-server": {
       "command": "npx",
       "args": [
         "-y",
-        "@jmrp.io/gitlab-mcp-server@3.4.0"
+        "@jmrp.io/gitlab-mcp-server@3.7.0"
       ]
     }
   }

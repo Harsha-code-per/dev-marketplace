@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@overpod/mcp-telegram@1.45.1"
+        "@overpod/mcp-telegram@1.46.0"
       ]
     }
   }

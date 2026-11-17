@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@neuledge/context@1.4.3"
+        "@neuledge/context@1.4.4"
       ]
     }
   }

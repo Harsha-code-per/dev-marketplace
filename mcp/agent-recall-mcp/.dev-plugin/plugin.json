@@ -1,13 +1,13 @@
 {
   "name": "agent-recall-mcp",
-  "description": "Correction-first memory for AI agents. Run it locally or connect any MCP agent to the hosted server.",
+  "description": "Closes the Intelligent Distance: a correction you give one agent reaches every connected agent.",
   "license": "MIT",
   "mcpServers": {
     "agent-recall": {
       "command": "npx",
       "args": [
         "-y",
-        "agent-recall-mcp@3.5.2"
+        "agent-recall-mcp@3.5.3"
       ]
     }
   }

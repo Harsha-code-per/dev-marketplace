@@ -1,0 +1,14 @@
+{
+  "name": "opencalque-mcp",
+  "description": "Draw 2D floor plans as JSON: walls, doors, rooms, furniture. Check, measure, export PDF, DXF, SVG.",
+  "license": "MIT",
+  "mcpServers": {
+    "opencalque": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "opencalque@1.10.2"
+      ]
+    }
+  }
+}

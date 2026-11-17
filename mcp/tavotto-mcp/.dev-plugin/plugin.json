@@ -1,0 +1,13 @@
+{
+  "name": "tavotto-mcp",
+  "description": "Edit, journal-check and export scientific matplotlib figures from your AI agent.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "tavotto": {
+      "command": "uvx",
+      "args": [
+        "tavotto==0.21.2"
+      ]
+    }
+  }
+}

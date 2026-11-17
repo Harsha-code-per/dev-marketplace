@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "trvl-mcp@1.27.0"
+        "trvl-mcp@1.28.1"
       ]
     }
   }

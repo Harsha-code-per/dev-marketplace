@@ -6,7 +6,7 @@
     "endnote-mcp": {
       "command": "uvx",
       "args": [
-        "endnote-mcp==1.4.15"
+        "endnote-mcp==1.5.0"
       ]
     }
   }

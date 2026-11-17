@@ -1,0 +1,13 @@
+{
+  "name": "serpmaven-mcp",
+  "description": "Live Google search for AI agents from a real Chrome browser; run `serpmaven install` once first",
+  "license": "MIT",
+  "mcpServers": {
+    "serpmaven": {
+      "command": "uvx",
+      "args": [
+        "serpmaven==0.2.4"
+      ]
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "tinysearch": {
       "command": "uvx",
       "args": [
-        "tinysuite-search==0.6.8"
+        "tinysuite-search==0.7.0"
       ]
     }
   }

@@ -6,7 +6,7 @@
     "lacuna-research-mcp": {
       "command": "uvx",
       "args": [
-        "lacuna-research-mcp==0.6.8"
+        "lacuna-research-mcp==0.6.13"
       ]
     }
   }

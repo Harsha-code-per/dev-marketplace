@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@davidfuchs/mcp-uptime-kuma@0.15.0"
+        "@davidfuchs/mcp-uptime-kuma@0.16.0"
       ]
     }
   }

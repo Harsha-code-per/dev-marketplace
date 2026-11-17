@@ -1,0 +1,13 @@
+{
+  "name": "pronounce-mcp",
+  "description": "How engineers pronounce developer jargon — 1,927 confidence-tagged entries with citations.",
+  "license": "MIT",
+  "mcpServers": {
+    "pronounce": {
+      "command": "uvx",
+      "args": [
+        "pronounce-mcp==0.2.0"
+      ]
+    }
+  }
+}

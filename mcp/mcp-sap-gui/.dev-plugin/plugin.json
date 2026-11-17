@@ -6,7 +6,7 @@
     "mcp-sap-gui": {
       "command": "uvx",
       "args": [
-        "mcp-sap-gui==0.6.0"
+        "mcp-sap-gui==0.6.1"
       ]
     }
   }

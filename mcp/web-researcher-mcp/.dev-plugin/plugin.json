@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/zoharbabin/web-researcher-mcp:1.51.0"
+        "ghcr.io/zoharbabin/web-researcher-mcp:1.51.1"
       ]
     }
   }

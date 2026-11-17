@@ -1,0 +1,13 @@
+{
+  "name": "financedatabase-mcp",
+  "description": "Equities, ETFs, indices, currencies and cryptos, categorised.",
+  "license": "MIT",
+  "mcpServers": {
+    "financedatabase": {
+      "command": "uvx",
+      "args": [
+        "financedatabase==2.5.2"
+      ]
+    }
+  }
+}

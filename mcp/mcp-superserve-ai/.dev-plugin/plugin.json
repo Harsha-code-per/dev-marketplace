@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@superserve/mcp@0.4.0"
+        "@superserve/mcp@0.4.1"
       ]
     }
   }

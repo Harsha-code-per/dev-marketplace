@@ -1,0 +1,14 @@
+{
+  "name": "ebay-mcp",
+  "description": "Community MCP server for the eBay Sell, Commerce and Developer APIs (379 tools).",
+  "license": "MIT",
+  "mcpServers": {
+    "ebay-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ebay-mcp@2.0.11"
+      ]
+    }
+  }
+}

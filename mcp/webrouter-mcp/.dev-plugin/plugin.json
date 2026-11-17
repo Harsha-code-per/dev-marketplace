@@ -1,0 +1,13 @@
+{
+  "name": "webrouter-mcp",
+  "description": "Search, extract, answer, research and browse the web through one interface, across many providers",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "webrouter": {
+      "command": "uvx",
+      "args": [
+        "webrouter==0.13.0"
+      ]
+    }
+  }
+}

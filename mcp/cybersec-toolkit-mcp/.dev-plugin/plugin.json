@@ -1,6 +1,6 @@
 {
   "name": "cybersec-toolkit-mcp",
-  "description": "Authorization-gated MCP server to discover and run 670+ security tools for CTF, pentest, and DFIR.",
+  "description": "MCP server that catalogs 670+ security tools and runs installed ones under a scope and audit policy.",
   "license": "MIT",
   "mcpServers": {
     "cybersec-toolkit": {
@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/26zl/cybersec-toolkit:1.4.0"
+        "ghcr.io/26zl/cybersec-toolkit:1.5.0"
       ]
     }
   }

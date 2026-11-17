@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@viajante/mcp@1.5.6"
+        "@viajante/mcp@1.5.7"
       ]
     }
   }

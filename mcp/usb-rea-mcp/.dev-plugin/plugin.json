@@ -1,0 +1,13 @@
+{
+  "name": "usb-rea-mcp",
+  "description": "Reverse engineer USB gadgets: capture traffic, infer the protocol, generate a pyusb driver.",
+  "license": "MIT",
+  "mcpServers": {
+    "usb-rea": {
+      "command": "uvx",
+      "args": [
+        "usb-rea==0.7.14"
+      ]
+    }
+  }
+}

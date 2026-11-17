@@ -6,7 +6,7 @@
     "free-search-mcp": {
       "command": "uvx",
       "args": [
-        "free-search-mcp==0.18.0"
+        "free-search-mcp==0.18.2"
       ]
     }
   }

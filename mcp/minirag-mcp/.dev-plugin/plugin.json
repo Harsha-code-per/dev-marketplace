@@ -6,7 +6,7 @@
     "minirag-mcp": {
       "command": "uvx",
       "args": [
-        "minirag-mcp==1.0.0"
+        "minirag-mcp==1.1.1"
       ]
     }
   }

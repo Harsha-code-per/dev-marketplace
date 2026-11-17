@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@decionis/mcp@0.3.0"
+        "@decionis/mcp@0.6.0"
       ]
     }
   }

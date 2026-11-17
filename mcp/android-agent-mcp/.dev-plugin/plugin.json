@@ -1,12 +1,12 @@
 {
   "name": "android-agent-mcp",
-  "description": "Give any LLM agent a real Android or iPhone as its body. 62 MCP tools for mobile automation.",
+  "description": "Give any AI agent a real Android phone or iPhone. 66 MCP tools, 117 hub skills, human in the loop.",
   "license": "MIT",
   "mcpServers": {
     "android-agent": {
       "command": "uvx",
       "args": [
-        "ghost-in-the-droid==1.3.2"
+        "ghost-in-the-droid==1.6.0"
       ]
     }
   }

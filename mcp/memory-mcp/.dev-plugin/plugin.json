@@ -1,14 +1,11 @@
 {
   "name": "memory-mcp",
-  "description": "Persistent memory + git snapshots for Claude Code. Never lose context or code.",
-  "license": "MIT",
+  "description": "Cross-session memory for AI agents with a Source Receipt for every memory, over MCP.",
+  "license": "Apache-2.0",
   "mcpServers": {
-    "memory-mcp": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "claude-code-memory@1.2.1"
-      ]
+    "memory": {
+      "type": "http",
+      "url": "https://cairn.ink/api/mcp"
     }
   }
 }

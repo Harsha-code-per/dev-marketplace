@@ -6,7 +6,7 @@
     "x-use": {
       "command": "uvx",
       "args": [
-        "x-use-mcp==3.2.0"
+        "x-use-mcp==3.3.0"
       ]
     }
   }

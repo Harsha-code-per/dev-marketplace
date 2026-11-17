@@ -1,0 +1,13 @@
+{
+  "name": "audio-studio-mcp",
+  "description": "Local AI BGM and sound effects with Stable Audio 3 (Apple Silicon MLX, NVIDIA CUDA)",
+  "license": "MIT",
+  "mcpServers": {
+    "audio-studio-mcp": {
+      "command": "uvx",
+      "args": [
+        "audio-studio-mcp==1.2.0"
+      ]
+    }
+  }
+}

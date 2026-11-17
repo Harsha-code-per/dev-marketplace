@@ -6,7 +6,7 @@
     "handle-mcp": {
       "command": "uvx",
       "args": [
-        "handle-mcp==1.7.3"
+        "handle-mcp==1.9.0"
       ]
     }
   }

@@ -1,0 +1,13 @@
+{
+  "name": "llm-wiki-v2-mcp",
+  "description": "Long-term memory as a Markdown wiki: recall with cited notes, remember, file your documents.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "llm-wiki-v2": {
+      "command": "uvx",
+      "args": [
+        "llmwiki2==1.0.4"
+      ]
+    }
+  }
+}

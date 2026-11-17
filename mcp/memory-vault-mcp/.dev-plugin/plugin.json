@@ -19,7 +19,7 @@
         "DB_USER",
         "-e",
         "DB_PASSWORD",
-        "ghcr.io/mihaibuilds/memory-vault-mcp:1.6.1"
+        "ghcr.io/mihaibuilds/memory-vault-mcp:1.7.0"
       ]
     }
   }

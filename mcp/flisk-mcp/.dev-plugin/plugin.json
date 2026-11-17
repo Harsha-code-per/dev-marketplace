@@ -1,0 +1,14 @@
+{
+  "name": "flisk-mcp",
+  "description": "Run your whole app on your computer with one command: build, start, check and fix a local stack.",
+  "license": "MIT",
+  "mcpServers": {
+    "flisk": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@flisk-sh/flisk@1.4.56"
+      ]
+    }
+  }
+}

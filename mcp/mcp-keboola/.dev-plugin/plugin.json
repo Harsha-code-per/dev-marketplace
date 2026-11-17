@@ -6,7 +6,7 @@
     "mcp": {
       "command": "uvx",
       "args": [
-        "keboola-mcp-server==1.119.0"
+        "keboola-mcp-server==1.120.0"
       ]
     }
   }

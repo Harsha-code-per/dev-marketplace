@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@apireno/domshell@2.0.10"
+        "@apireno/domshell@2.0.11"
       ]
     }
   }

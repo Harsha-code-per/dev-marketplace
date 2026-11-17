@@ -1,0 +1,13 @@
+{
+  "name": "browserr-mcp",
+  "description": "Fail-closed browser for agents: navigate, extract, fill forms, human handoff, evidence. No Chromium.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "browserr": {
+      "command": "uvx",
+      "args": [
+        "browserr-mcp==0.7.5"
+      ]
+    }
+  }
+}

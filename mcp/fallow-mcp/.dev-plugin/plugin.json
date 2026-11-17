@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "fallow@3.43.0"
+        "fallow@3.43.2"
       ]
     }
   }

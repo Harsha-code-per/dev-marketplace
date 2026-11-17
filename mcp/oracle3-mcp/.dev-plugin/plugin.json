@@ -6,7 +6,7 @@
     "oracle3": {
       "command": "uvx",
       "args": [
-        "oracle3==1.2.2"
+        "oracle3==1.3.0"
       ]
     }
   }

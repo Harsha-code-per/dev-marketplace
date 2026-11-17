@@ -1,0 +1,11 @@
+{
+  "name": "lastfm-mcp",
+  "description": "Unofficial, read-only access to your Last.fm listening history, charts, and music lookups.",
+  "license": "MIT",
+  "mcpServers": {
+    "lastfm": {
+      "type": "http",
+      "url": "https://lastfm-mcp.com/mcp"
+    }
+  }
+}

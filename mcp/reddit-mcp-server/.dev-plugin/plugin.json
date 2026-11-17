@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "reddit-mcp-server@2.0.1"
+        "reddit-mcp-server@2.0.2"
       ]
     }
   }
