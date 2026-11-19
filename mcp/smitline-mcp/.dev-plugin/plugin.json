@@ -1,0 +1,11 @@
+{
+  "name": "smitline-mcp",
+  "description": "Let AI agents make phone calls and join Zoom, Teams and Google Meet meetings. Hosted or self-hosted.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "smitline": {
+      "type": "http",
+      "url": "https://app.smitline.com/mcp"
+    }
+  }
+}

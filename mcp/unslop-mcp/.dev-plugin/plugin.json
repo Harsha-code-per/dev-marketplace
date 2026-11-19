@@ -1,0 +1,14 @@
+{
+  "name": "unslop-mcp",
+  "description": "Audit UI design, extract Design DNA, generate tokens, and create transformation blueprints.",
+  "license": "MIT",
+  "mcpServers": {
+    "unslop": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "unslop-mcp@2.1.2"
+      ]
+    }
+  }
+}

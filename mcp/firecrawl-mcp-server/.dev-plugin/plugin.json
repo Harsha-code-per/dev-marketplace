@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "firecrawl-mcp@3.40.0"
+        "firecrawl-mcp@3.41.0"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@softeria/ms-365-mcp-server@0.185.1"
+        "@softeria/ms-365-mcp-server@0.187.0"
       ]
     }
   }

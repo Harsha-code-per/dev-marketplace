@@ -6,7 +6,7 @@
     "agent-trace": {
       "command": "uvx",
       "args": [
-        "agent-strace==0.113.1"
+        "agent-strace==0.116.0"
       ]
     }
   }

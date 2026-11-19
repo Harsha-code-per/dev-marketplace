@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "scaleway/cli:2.65.1"
+        "scaleway/cli:2.66.2"
       ]
     }
   }

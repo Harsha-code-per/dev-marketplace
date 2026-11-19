@@ -1,0 +1,14 @@
+{
+  "name": "hig-doctor-mcp",
+  "description": "Apple Human Interface Guidelines search, lookup, and project audits for AI coding agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "hig-doctor": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "hig-mcp@0.2.3"
+      ]
+    }
+  }
+}

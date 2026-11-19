@@ -1,0 +1,14 @@
+{
+  "name": "vibe-shield-mcp",
+  "description": "Scans AI-written code for leaked secrets, unguarded routes and missing RLS.",
+  "license": "MIT",
+  "mcpServers": {
+    "vibe-shield": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@vibefoundry/vibe-shield@2.1.3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bseoa-mcp",
+  "description": "Technical SEO audits: check a page or crawl a whole site, locally or hosted. Compares crawls.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "bseoa": {
+      "type": "http",
+      "url": "https://mcp.blackseoanalyzer.com/mcp"
+    }
+  }
+}

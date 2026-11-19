@@ -6,7 +6,7 @@
     "browserr": {
       "command": "uvx",
       "args": [
-        "browserr-mcp==0.7.5"
+        "browserr-mcp==0.9.2"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@supabase/mcp-server-supabase@0.17.0"
+        "@supabase/mcp-server-supabase@0.18.0"
       ]
     }
   }

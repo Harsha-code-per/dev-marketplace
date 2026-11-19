@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "execbro@2.26.4"
+        "execbro@2.27.1"
       ]
     }
   }

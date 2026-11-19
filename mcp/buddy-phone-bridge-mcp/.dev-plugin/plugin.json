@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "buddy-phone-bridge@1.2.0"
+        "buddy-phone-bridge@1.3.0"
       ]
     }
   }

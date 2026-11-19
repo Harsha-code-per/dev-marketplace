@@ -6,7 +6,7 @@
     "llm-wiki-v2": {
       "command": "uvx",
       "args": [
-        "llmwiki2==1.0.4"
+        "llmwiki2==1.0.5"
       ]
     }
   }

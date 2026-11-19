@@ -1,0 +1,14 @@
+{
+  "name": "pulsar-mcp",
+  "description": "Let AI coding agents in any harness find and message each other: one list, tags, multicast, * bus.",
+  "license": "MIT",
+  "mcpServers": {
+    "pulsar": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "pulsar@1.1.0"
+      ]
+    }
+  }
+}

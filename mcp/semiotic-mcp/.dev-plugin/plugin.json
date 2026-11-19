@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "semiotic@3.13.3"
+        "semiotic@3.14.0"
       ]
     }
   }

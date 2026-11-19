@@ -1,0 +1,14 @@
+{
+  "name": "halfsize-mcp",
+  "description": "Compress a video to an exact byte size locally with FFmpeg, then measure VMAF and SSIM.",
+  "license": "MIT",
+  "mcpServers": {
+    "halfsize": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "halfsize@0.2.0"
+      ]
+    }
+  }
+}

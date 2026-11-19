@@ -1,0 +1,14 @@
+{
+  "name": "levelrail-mcp",
+  "description": "Self-hosted MCP server for your Levelrail deployments, servers, databases and domains.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "levelrail": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "levelrail-mcp@1.5.6"
+      ]
+    }
+  }
+}

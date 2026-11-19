@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "computer-use-mcp@1.8.0"
+        "computer-use-mcp@2.0.0"
       ]
     }
   }

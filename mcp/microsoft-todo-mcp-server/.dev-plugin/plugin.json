@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "microsoft-todo-mcp-server@1.5.3"
+        "microsoft-todo-mcp-server@1.5.4"
       ]
     }
   }

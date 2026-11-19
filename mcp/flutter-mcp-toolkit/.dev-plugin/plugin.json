@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/arenukvern/flutter-mcp-toolkit:7.1.1"
+        "ghcr.io/arenukvern/flutter-mcp-toolkit:7.2.1"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@igniteui/mcp-server@15.9.0"
+        "@igniteui/mcp-server@16.0.0"
       ]
     }
   }

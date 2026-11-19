@@ -1,0 +1,11 @@
+{
+  "name": "finance-query-mcp",
+  "description": "Stock quotes, charts, financials, options, SEC filings, crypto and macro data. Hosted, no API key.",
+  "license": "MIT",
+  "mcpServers": {
+    "finance-query": {
+      "type": "http",
+      "url": "https://finance-query.com/mcp"
+    }
+  }
+}

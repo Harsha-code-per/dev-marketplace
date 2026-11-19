@@ -1,0 +1,14 @@
+{
+  "name": "indesign-nutria-mcp",
+  "description": "The most comprehensive MCP server for Adobe InDesign: 197 tools, AI-native, full DOM control",
+  "license": "MIT",
+  "mcpServers": {
+    "indesign-nutria-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "indesign-nutria-mcp@1.6.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "krusch-context-mcp",
+  "description": "Persistent working memory and SHA-256 span drift verification for AI coding agents in 5 MCP verbs.",
+  "license": "MIT",
+  "mcpServers": {
+    "krusch-context-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "krusch-context-mcp@2.0.2"
+      ]
+    }
+  }
+}

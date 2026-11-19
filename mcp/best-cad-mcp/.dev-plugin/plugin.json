@@ -1,0 +1,13 @@
+{
+  "name": "best-cad-mcp",
+  "description": "Windows AutoCAD MCP server for handle-first CAD automation, validation, and drawing exports.",
+  "license": "MIT",
+  "mcpServers": {
+    "best-cad-mcp": {
+      "command": "uvx",
+      "args": [
+        "best-cad-mcp==1.7.2"
+      ]
+    }
+  }
+}

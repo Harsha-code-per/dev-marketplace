@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@sveltejs/mcp@0.1.30"
+        "@sveltejs/mcp@0.1.31"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "ruflo@3.77.1"
+        "ruflo@3.78.0"
       ]
     }
   }

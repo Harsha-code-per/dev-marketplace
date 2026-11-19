@@ -1,0 +1,11 @@
+{
+  "name": "pomerado-mcp",
+  "description": "Connect your agents to any website. The cheaper, faster and more reliable alternative to browser use",
+  "license": "MIT",
+  "mcpServers": {
+    "pomerado": {
+      "type": "http",
+      "url": "https://mcp.pomerado.ai/mcp"
+    }
+  }
+}

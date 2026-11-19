@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "mindwtr-mcp@1.1.14"
+        "mindwtr-mcp@1.1.15"
       ]
     }
   }

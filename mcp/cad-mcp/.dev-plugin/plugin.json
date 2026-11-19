@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@bitbybit-dev/mcp@1.6.2"
+        "@bitbybit-dev/mcp@1.7.0"
       ]
     }
   }

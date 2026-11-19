@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "memorix@1.10.2"
+        "memorix@1.10.4"
       ]
     }
   }

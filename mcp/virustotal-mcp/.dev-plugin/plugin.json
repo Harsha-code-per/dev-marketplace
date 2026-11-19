@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@burtthecoder/mcp-virustotal@1.0.38"
+        "@burtthecoder/mcp-virustotal@1.0.40"
       ]
     }
   }

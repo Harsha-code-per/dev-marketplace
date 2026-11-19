@@ -6,7 +6,7 @@
     "seleniumbase": {
       "command": "uvx",
       "args": [
-        "seleniumbase==4.58.1"
+        "seleniumbase==4.58.2"
       ]
     }
   }

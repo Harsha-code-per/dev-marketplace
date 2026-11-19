@@ -6,7 +6,7 @@
     "korean-tax-calc-mcp": {
       "command": "uvx",
       "args": [
-        "korean-tax-calc-mcp==0.63.3"
+        "korean-tax-calc-mcp==0.67.0"
       ]
     }
   }

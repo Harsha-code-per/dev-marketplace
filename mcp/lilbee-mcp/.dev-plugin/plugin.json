@@ -1,0 +1,14 @@
+{
+  "name": "lilbee-mcp",
+  "description": "Local AI stack: search your files, notes, code and sites with cited answers.",
+  "license": "MIT",
+  "mcpServers": {
+    "lilbee": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "lilbee@0.6.90-beta.693"
+      ]
+    }
+  }
+}

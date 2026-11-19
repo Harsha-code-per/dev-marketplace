@@ -1,0 +1,11 @@
+{
+  "name": "pdf-craft-mcp",
+  "description": "Convert scanned PDFs to Markdown or EPUB, and translate PDF and EPUB books via MCP.",
+  "license": "MIT",
+  "mcpServers": {
+    "pdf-craft": {
+      "type": "http",
+      "url": "https://api.pdfcraft.ai/v1/mcp"
+    }
+  }
+}

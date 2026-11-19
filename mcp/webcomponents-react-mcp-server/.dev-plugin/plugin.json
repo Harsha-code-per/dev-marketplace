@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@ui5/webcomponents-react-mcp@2.28.2"
+        "@ui5/webcomponents-react-mcp@2.29.0"
       ]
     }
   }

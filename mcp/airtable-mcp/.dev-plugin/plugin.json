@@ -1,0 +1,14 @@
+{
+  "name": "airtable-mcp",
+  "description": "Runs locally: Airtable records, schema, comments, upserts, base/table allow-lists and PII masking",
+  "license": "MIT",
+  "mcpServers": {
+    "airtable-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@rashidazarang/airtable-mcp@5.1.0"
+      ]
+    }
+  }
+}

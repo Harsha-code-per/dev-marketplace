@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@burtthecoder/mcp-shodan@1.0.37"
+        "@burtthecoder/mcp-shodan@1.0.41"
       ]
     }
   }

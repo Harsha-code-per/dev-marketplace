@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "google-surf-mcp@1.1.6"
+        "google-surf-mcp@1.1.8"
       ]
     }
   }

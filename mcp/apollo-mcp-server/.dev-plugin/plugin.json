@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/apollographql/apollo-mcp-server:v2.1.0"
+        "ghcr.io/apollographql/apollo-mcp-server:v2.2.1"
       ]
     }
   }

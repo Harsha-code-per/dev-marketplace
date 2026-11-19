@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@mobilenext/mobile-mcp@1.0.17"
+        "@mobilenext/mobile-mcp@1.0.18"
       ]
     }
   }
