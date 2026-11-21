@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@keyline-icons/mcp@2.7.0"
+        "@keyline-icons/mcp@2.9.0"
       ]
     }
   }

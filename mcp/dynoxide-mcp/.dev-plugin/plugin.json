@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "dynoxide@1.7.0"
+        "dynoxide@1.8.0"
       ]
     }
   }

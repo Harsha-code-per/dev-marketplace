@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@flisk-sh/flisk@1.4.56"
+        "@flisk-sh/flisk@1.4.72"
       ]
     }
   }

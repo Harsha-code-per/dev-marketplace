@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/btsouth/toolport-gateway:v2.3.7"
+        "ghcr.io/btsouth/toolport-gateway:v2.3.8"
       ]
     }
   }

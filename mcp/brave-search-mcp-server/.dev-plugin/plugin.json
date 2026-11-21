@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@brave/brave-search-mcp-server@2.1.5"
+        "@brave/brave-search-mcp-server@2.2.0"
       ]
     }
   }

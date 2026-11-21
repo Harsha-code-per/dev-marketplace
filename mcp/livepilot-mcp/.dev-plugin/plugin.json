@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "livepilot@1.31.0"
+        "livepilot@1.31.1"
       ]
     }
   }

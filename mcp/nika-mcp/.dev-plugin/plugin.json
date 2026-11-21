@@ -1,0 +1,14 @@
+{
+  "name": "nika-mcp",
+  "description": "Read-only oracle: check .nika workflows before they run and learn the language. Never executes.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "nika": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@nika-open/nika@0.124.5"
+      ]
+    }
+  }
+}

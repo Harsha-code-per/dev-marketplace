@@ -1,0 +1,11 @@
+{
+  "name": "revyl-mcp",
+  "description": "iOS simulators, Android emulators, web browsers and macOS computers for agents to verify their work",
+  "license": "MIT",
+  "mcpServers": {
+    "revyl": {
+      "type": "http",
+      "url": "https://backend.revyl.ai/api/v1/mcp"
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "jobspy": {
       "command": "uvx",
       "args": [
-        "mcp-jobspy==1.4.1"
+        "mcp-jobspy==1.5.0"
       ]
     }
   }

@@ -1,13 +1,13 @@
 {
   "name": "dsh-novel-forge-mcp",
   "description": "中文长篇写作 MCP Server：24 个工具，用硬门禁治理 AI 写长篇的失忆、设定崩坏与 AI 味",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "mcpServers": {
     "dsh-novel-forge": {
       "command": "npx",
       "args": [
         "-y",
-        "dsh-novel-forge@1.7.3"
+        "dsh-novel-forge@1.9.0"
       ]
     }
   }

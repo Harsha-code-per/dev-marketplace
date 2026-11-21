@@ -1,0 +1,11 @@
+{
+  "name": "learnhouse-mcp",
+  "description": "Build, edit and run courses, learning paths and communities in your LearnHouse academy.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "learnhouse": {
+      "type": "http",
+      "url": "https://api.learnhouse.io/mcp"
+    }
+  }
+}

@@ -1,12 +1,12 @@
 {
   "name": "gflow-cli-mcp",
-  "description": "Drive Google Flow from an agent: Veo video and Imagen image generation",
+  "description": "Google Flow from any agent: Veo 3.1 and Omni video, Nano Banana and Imagen images, CLI included",
   "license": "MIT",
   "mcpServers": {
     "gflow-cli": {
       "command": "uvx",
       "args": [
-        "gflow-cli==0.102.0"
+        "gflow-cli==0.103.1"
       ]
     }
   }

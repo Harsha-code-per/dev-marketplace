@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@upstash/mcp-server@0.4.0"
+        "@upstash/mcp-server@0.4.1"
       ]
     }
   }

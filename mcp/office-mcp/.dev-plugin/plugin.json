@@ -1,0 +1,14 @@
+{
+  "name": "office-mcp",
+  "description": "Create, open and edit documents, spreadsheets and PDFs in MR Office's editor, inline in chat.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "office": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mroffice-mcp@0.1.0"
+      ]
+    }
+  }
+}

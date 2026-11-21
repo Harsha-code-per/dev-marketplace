@@ -1,6 +1,6 @@
 {
   "name": "flightclaw-mcp",
-  "description": "Search ~300 airlines and book flights with a checkout link. OAuth sign-in by email code.",
+  "description": "Search, price-track and book flights from about 300 airlines, paid on a hosted checkout link.",
   "license": "MIT",
   "mcpServers": {
     "flightclaw": {

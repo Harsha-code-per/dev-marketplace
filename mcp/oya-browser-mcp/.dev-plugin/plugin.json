@@ -1,6 +1,6 @@
 {
   "name": "oya-browser-mcp",
-  "description": "Oya, the HIPAA-compliant agentic browser, over MCP: browse, run playbooks, hand a tab to a person.",
+  "description": "Real Chrome for coding agents over MCP: browse, replay playbooks, human takeover, HIPAA & BAA.",
   "license": "NOASSERTION",
   "mcpServers": {
     "oya-browser": {

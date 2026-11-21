@@ -1,0 +1,13 @@
+{
+  "name": "mesh2cad-mcp",
+  "description": "Mesh (STL/OBJ/PLY) to editable STEP, CadQuery, OpenSCAD or FreeCAD, with a fidelity report",
+  "license": "MIT",
+  "mcpServers": {
+    "mesh2cad": {
+      "command": "uvx",
+      "args": [
+        "mesh2cad==0.32.0"
+      ]
+    }
+  }
+}

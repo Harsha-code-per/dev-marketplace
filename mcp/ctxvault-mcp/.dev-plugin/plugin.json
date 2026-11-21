@@ -6,7 +6,7 @@
     "ctxvault": {
       "command": "uvx",
       "args": [
-        "ctxvault==0.9.1"
+        "ctxvault==0.10.0"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "superlocalmemory@4.2.19"
+        "superlocalmemory@4.2.33"
       ]
     }
   }

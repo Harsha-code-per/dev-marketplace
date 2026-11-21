@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "evmole-mcp@0.9.6"
+        "evmole-mcp@0.10.1"
       ]
     }
   }

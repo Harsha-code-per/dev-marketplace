@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@kurlo/cli@3.1.4"
+        "@kurlo/cli@3.1.5"
       ]
     }
   }

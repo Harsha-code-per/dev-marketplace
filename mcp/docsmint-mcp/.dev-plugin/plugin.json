@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@hiai-gg/docsmint@2.2.1"
+        "@hiai-gg/docsmint@2.2.2"
       ]
     }
   }

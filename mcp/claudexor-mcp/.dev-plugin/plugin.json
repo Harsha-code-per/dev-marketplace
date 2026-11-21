@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "claudexor@4.8.1"
+        "claudexor@6.3.0"
       ]
     }
   }

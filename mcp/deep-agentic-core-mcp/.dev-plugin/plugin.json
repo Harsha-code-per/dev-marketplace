@@ -1,0 +1,13 @@
+{
+  "name": "deep-agentic-core-mcp",
+  "description": "Unified MCP server for AgenticLens and Agentic Chaos capabilities.",
+  "license": "MIT",
+  "mcpServers": {
+    "deep-agentic-core-mcp": {
+      "command": "uvx",
+      "args": [
+        "deep-agentic-core-mcp==1.1.0"
+      ]
+    }
+  }
+}

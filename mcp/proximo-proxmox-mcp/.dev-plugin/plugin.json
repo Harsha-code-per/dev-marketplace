@@ -6,7 +6,7 @@
     "proximo-proxmox": {
       "command": "uvx",
       "args": [
-        "proximo-proxmox==0.52.0"
+        "proximo-proxmox==0.55.0"
       ]
     }
   }

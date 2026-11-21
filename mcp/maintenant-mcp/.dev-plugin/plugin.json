@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/kolapsis/maintenant:1.11.0"
+        "ghcr.io/kolapsis/maintenant:1.12.0"
       ]
     }
   }

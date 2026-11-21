@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "mcp-open-library@1.2.6"
+        "mcp-open-library@1.2.7"
       ]
     }
   }

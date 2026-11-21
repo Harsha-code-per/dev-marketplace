@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@plur-ai/mcp@0.23.0"
+        "@plur-ai/mcp@0.23.1"
       ]
     }
   }

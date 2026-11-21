@@ -1,13 +1,13 @@
 {
   "name": "deja-vu-mcp",
-  "description": "deja-vu: local memory over the session histories of forty-three coding agents.",
+  "description": "Local memory & session search across forty-nine coding agents: Claude Code, Codex, Cursor.",
   "license": "MIT",
   "mcpServers": {
     "deja-vu": {
       "command": "npx",
       "args": [
         "-y",
-        "@vshulcz/deja-vu@0.24.2"
+        "@vshulcz/deja-vu@0.24.3"
       ]
     }
   }

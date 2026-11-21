@@ -1,13 +1,13 @@
 {
   "name": "argent-mcp",
-  "description": "Drive iOS Simulators, Android emulators, TVs and Electron/web apps from your coding agent",
+  "description": "Drive iOS, Android, HarmonyOS, TV, Mac and Electron/web apps from your coding agent",
   "license": "Apache-2.0",
   "mcpServers": {
     "argent": {
       "command": "npx",
       "args": [
         "-y",
-        "@swmansion/argent@0.19.0"
+        "@swmansion/argent@0.34.0"
       ]
     }
   }

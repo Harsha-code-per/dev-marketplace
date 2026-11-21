@@ -6,7 +6,7 @@
     "akshare-one-mcp": {
       "command": "uvx",
       "args": [
-        "akshare-one-mcp==0.5.0"
+        "akshare-one-mcp==0.5.2"
       ]
     }
   }

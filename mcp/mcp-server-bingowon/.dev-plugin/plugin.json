@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-bingowon",
-  "description": "Apple developer docs and WWDC transcripts with RAG retrieval and Jev relevance ranking.",
+  "description": "Find Apple docs and WWDC with RAG retrieval and Jev relevance ranking. Browse topics or read pages.",
   "license": "MIT",
   "mcpServers": {
     "mcp-server": {

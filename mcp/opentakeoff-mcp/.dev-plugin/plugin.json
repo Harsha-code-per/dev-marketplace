@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "opentakeoff-mcp@0.9.105"
+        "opentakeoff-mcp@0.9.116"
       ]
     }
   }

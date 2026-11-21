@@ -6,7 +6,7 @@
     "opik-mcp": {
       "command": "uvx",
       "args": [
-        "opik-mcp==3.0.11"
+        "opik-mcp==3.0.12"
       ]
     }
   }

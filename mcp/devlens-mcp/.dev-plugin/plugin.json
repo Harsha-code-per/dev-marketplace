@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@devlensio/cli@0.7.2"
+        "@devlensio/cli@1.0.2"
       ]
     }
   }

@@ -1,6 +1,6 @@
 {
   "name": "clarilayer-mcp",
-  "description": "Individual-analyst context layer: recall, remember, and reconcile your data and engineering context.",
+  "description": "Turns selected past conversations into durable context your AI can use across projects and sessions.",
   "license": "NOASSERTION",
   "mcpServers": {
     "clarilayer": {

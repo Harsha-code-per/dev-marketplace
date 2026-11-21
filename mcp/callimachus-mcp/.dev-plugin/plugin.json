@@ -1,0 +1,14 @@
+{
+  "name": "callimachus-mcp",
+  "description": "MCP server for Callimachus: local index and search of your AI coding-agent threads",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "callimachus": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "callimachus-mcp@0.12.4"
+      ]
+    }
+  }
+}

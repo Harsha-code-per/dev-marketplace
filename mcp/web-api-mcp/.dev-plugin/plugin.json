@@ -1,0 +1,13 @@
+{
+  "name": "web-api-mcp",
+  "description": "Search the live web, look up companies and read any page through the Oxylabs Web API.",
+  "license": "MIT",
+  "mcpServers": {
+    "web-api-mcp": {
+      "command": "uvx",
+      "args": [
+        "oxylabs-web-api-mcp==0.3.2"
+      ]
+    }
+  }
+}

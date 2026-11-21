@@ -1,0 +1,14 @@
+{
+  "name": "viberaven-mcp",
+  "description": "Runs your Supabase SQL with two users at once to find double bookings; checks RLS, keys, webhooks.",
+  "license": "MIT",
+  "mcpServers": {
+    "viberaven": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@viberaven/mcp@1.10.0"
+      ]
+    }
+  }
+}
