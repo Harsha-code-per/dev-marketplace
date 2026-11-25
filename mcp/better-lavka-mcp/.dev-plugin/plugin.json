@@ -1,0 +1,13 @@
+{
+  "name": "better-lavka-mcp",
+  "description": "Order groceries from Yandex Lavka Uzbekistan: search, shopping lists, repeat orders.",
+  "license": "GPL-3.0",
+  "mcpServers": {
+    "better-lavka-mcp": {
+      "command": "uvx",
+      "args": [
+        "better-lavka-mcp==0.15.0"
+      ]
+    }
+  }
+}

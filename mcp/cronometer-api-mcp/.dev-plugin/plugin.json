@@ -6,7 +6,7 @@
     "cronometer-api-mcp": {
       "command": "uvx",
       "args": [
-        "cronometer-api-mcp==0.2.6"
+        "cronometer-api-mcp==0.2.7"
       ]
     }
   }

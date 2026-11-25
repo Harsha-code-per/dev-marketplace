@@ -1,0 +1,11 @@
+{
+  "name": "market-research-mcp",
+  "description": "See if a market is heating or cooling. Trend volume and growth signals. Free key at trendsmcp.ai",
+  "license": "MIT",
+  "mcpServers": {
+    "market-research": {
+      "type": "http",
+      "url": "https://market-research.api.trendsmcp.ai/mcp"
+    }
+  }
+}

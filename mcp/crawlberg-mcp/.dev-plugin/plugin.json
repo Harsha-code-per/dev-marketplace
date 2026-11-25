@@ -4,12 +4,10 @@
   "license": "MIT",
   "mcpServers": {
     "crawlberg": {
-      "command": "docker",
+      "command": "npx",
       "args": [
-        "run",
-        "-i",
-        "--rm",
-        "ghcr.io/xberg-io/crawlberg:1.12.3"
+        "-y",
+        "@xberg-io/crawlberg-cli@1.13.4"
       ]
     }
   }

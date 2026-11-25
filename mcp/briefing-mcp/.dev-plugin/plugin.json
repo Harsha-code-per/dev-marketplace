@@ -1,0 +1,14 @@
+{
+  "name": "briefing-mcp",
+  "description": "Create end-to-end encrypted Briefing video rooms and invitations; moderator links stay local.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "briefing": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "briefing-video-chat-mcp@1.0.1"
+      ]
+    }
+  }
+}

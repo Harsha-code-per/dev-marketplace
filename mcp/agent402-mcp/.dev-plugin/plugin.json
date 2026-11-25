@@ -1,13 +1,13 @@
 {
   "name": "agent402-mcp",
-  "description": "Payment and trust layer for agent commerce (Agentic Finance): pay and verify calls over x402 and MPP",
+  "description": "Payment and trust layer for agentic commerce (Agentic Finance): pay and verify over x402 and MPP",
   "license": "AGPL-3.0",
   "mcpServers": {
     "agent402": {
       "command": "npx",
       "args": [
         "-y",
-        "agent402-mcp@0.14.1"
+        "agent402-mcp@0.17.0"
       ]
     }
   }

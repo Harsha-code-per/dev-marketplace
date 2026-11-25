@@ -1,0 +1,13 @@
+{
+  "name": "wemo-mcp",
+  "description": "Control WeMo smart home devices - discover, toggle, adjust brightness, and manage HomeKit codes",
+  "license": "MIT",
+  "mcpServers": {
+    "wemo": {
+      "command": "uvx",
+      "args": [
+        "wemo-mcp-server==1.0.1"
+      ]
+    }
+  }
+}

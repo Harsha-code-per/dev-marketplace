@@ -1,0 +1,11 @@
+{
+  "name": "grandet-mcp",
+  "description": "Cheapest API for any model across official, inference and relay providers; find free credits",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "grandet": {
+      "type": "http",
+      "url": "https://grandet.ai/mcp"
+    }
+  }
+}

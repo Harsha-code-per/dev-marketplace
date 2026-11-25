@@ -1,0 +1,11 @@
+{
+  "name": "open-sunsama-mcp",
+  "description": "Daily planner: tasks, subtasks, time blocks, Ideas boards and synced calendar events.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "open-sunsama": {
+      "type": "http",
+      "url": "https://api.opensunsama.com/mcp"
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "cml-mcp": {
       "command": "uvx",
       "args": [
-        "cml-mcp==0.40.0"
+        "cml-mcp==0.41.0"
       ]
     }
   }

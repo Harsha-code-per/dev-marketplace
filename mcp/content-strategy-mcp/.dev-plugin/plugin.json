@@ -1,0 +1,11 @@
+{
+  "name": "content-strategy-mcp",
+  "description": "Topics gaining momentum before they peak. Trend volume and growth signals. Free key at trendsmcp.ai",
+  "license": "MIT",
+  "mcpServers": {
+    "content-strategy": {
+      "type": "http",
+      "url": "https://content-strategy.api.trendsmcp.ai/mcp"
+    }
+  }
+}

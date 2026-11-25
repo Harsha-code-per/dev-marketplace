@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "roslyn-codelens-mcp@2.19.1"
+        "roslyn-codelens-mcp@2.19.2"
       ]
     }
   }

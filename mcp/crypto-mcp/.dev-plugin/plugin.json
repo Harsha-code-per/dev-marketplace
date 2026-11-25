@@ -1,0 +1,11 @@
+{
+  "name": "crypto-mcp",
+  "description": "Crypto token and narrative trend volume over time, with growth signals. Free key at trendsmcp.ai",
+  "license": "MIT",
+  "mcpServers": {
+    "crypto": {
+      "type": "http",
+      "url": "https://crypto.api.trendsmcp.ai/mcp"
+    }
+  }
+}

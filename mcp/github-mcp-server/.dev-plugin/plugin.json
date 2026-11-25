@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/github/github-mcp-server:2.2.0"
+        "ghcr.io/github/github-mcp-server:2.3.0"
       ]
     }
   }

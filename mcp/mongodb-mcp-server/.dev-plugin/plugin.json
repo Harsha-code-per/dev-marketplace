@@ -1,13 +1,13 @@
 {
   "name": "mongodb-mcp-server",
-  "description": "MongoDB Model Context Protocol Server",
+  "description": "Official MongoDB MCP server: let AI agents search and manage databases and the Atlas data platform",
   "license": "Apache-2.0",
   "mcpServers": {
     "mongodb-mcp-server": {
       "command": "npx",
       "args": [
         "-y",
-        "mongodb-mcp-server@3.3.0"
+        "mongodb-mcp-server@3.4.0"
       ]
     }
   }

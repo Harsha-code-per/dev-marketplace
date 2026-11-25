@@ -1,0 +1,14 @@
+{
+  "name": "mcp-3",
+  "description": "SceneView 3D & AR for Android and the web: API docs, samples, code validation and generation.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "sceneview-mcp@4.3.4"
+      ]
+    }
+  }
+}

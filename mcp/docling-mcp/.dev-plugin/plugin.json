@@ -6,7 +6,7 @@
     "docling-mcp": {
       "command": "uvx",
       "args": [
-        "docling-mcp==3.5.0"
+        "docling-mcp==3.5.1"
       ]
     }
   }

@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/beppetemp/cartographer:v0.29.1"
+        "ghcr.io/beppetemp/cartographer:v0.29.2"
       ]
     }
   }

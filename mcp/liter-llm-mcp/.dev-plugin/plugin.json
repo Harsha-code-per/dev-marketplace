@@ -1,0 +1,14 @@
+{
+  "name": "liter-llm-mcp",
+  "description": "Universal LLM API client MCP server: chat, embeddings and tools across 170+ providers.",
+  "license": "MIT",
+  "mcpServers": {
+    "liter-llm": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@xberg-io/liter-llm-cli@2.7.5"
+      ]
+    }
+  }
+}

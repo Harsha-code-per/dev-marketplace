@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "docker.io/mustachecase/zanadir:0.31.0"
+        "docker.io/mustachecase/zanadir:0.32.0"
       ]
     }
   }

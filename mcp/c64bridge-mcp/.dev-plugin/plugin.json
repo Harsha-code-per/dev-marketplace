@@ -1,0 +1,14 @@
+{
+  "name": "c64bridge-mcp",
+  "description": "MCP server for Commodore 64 Ultimate hardware and VICE emulator control.",
+  "license": "GPL-2.0",
+  "mcpServers": {
+    "c64bridge": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "c64bridge@1.3.3"
+      ]
+    }
+  }
+}

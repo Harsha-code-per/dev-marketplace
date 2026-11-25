@@ -1,0 +1,11 @@
+{
+  "name": "free-domains-mcp",
+  "description": "Find and register free PFS domains, manage DNS, check WHOIS, and manage certificates and hosting.",
+  "license": "MIT",
+  "mcpServers": {
+    "free-domains": {
+      "type": "http",
+      "url": "https://s.eus/api/mcp/pfs"
+    }
+  }
+}

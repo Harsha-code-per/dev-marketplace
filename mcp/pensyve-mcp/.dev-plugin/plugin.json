@@ -1,7 +1,7 @@
 {
   "name": "pensyve-mcp",
-  "description": "Universal memory runtime for AI agents — episodic, semantic, and procedural memory.",
-  "license": "NOASSERTION",
+  "description": "Local MCP server for persistent AI agent memory",
+  "license": "Apache-2.0",
   "mcpServers": {
     "pensyve": {
       "command": "docker",
@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "ghcr.io/major7apps/pensyve-mcp:5.0.0"
+        "ghcr.io/major7apps/pensyve-mcp:6.0.0"
       ]
     }
   }

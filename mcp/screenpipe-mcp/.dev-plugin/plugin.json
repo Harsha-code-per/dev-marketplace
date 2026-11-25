@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "screenpipe-mcp@0.20.4"
+        "screenpipe-mcp@0.22.0"
       ]
     }
   }

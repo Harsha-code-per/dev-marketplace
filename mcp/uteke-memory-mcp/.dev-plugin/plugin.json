@@ -1,0 +1,11 @@
+{
+  "name": "uteke-memory-mcp",
+  "description": "Long-term memory for AI agents: hybrid vector and full-text recall, rooms, time-travel.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "uteke-memory": {
+      "type": "http",
+      "url": "https://uteke.app/mcp"
+    }
+  }
+}

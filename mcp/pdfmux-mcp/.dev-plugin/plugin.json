@@ -6,7 +6,7 @@
     "pdfmux": {
       "command": "uvx",
       "args": [
-        "pdfmux==1.8.8"
+        "pdfmux==1.9.0"
       ]
     }
   }

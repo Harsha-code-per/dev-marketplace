@@ -6,7 +6,7 @@
     "cnequity": {
       "command": "uvx",
       "args": [
-        "cnequity==0.21.0"
+        "cnequity==0.25.0"
       ]
     }
   }

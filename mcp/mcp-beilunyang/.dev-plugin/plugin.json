@@ -1,0 +1,11 @@
+{
+  "name": "mcp-beilunyang",
+  "description": "Disposable email for AI agents: create a mailbox, wait for the code, clean up. Hosted, no install.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://moemail.app/mcp"
+    }
+  }
+}

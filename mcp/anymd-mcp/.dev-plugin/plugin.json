@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@sylphx/anymd@8.5.14"
+        "@sylphx/anymd@8.5.17"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@jmrp.io/gitlab-mcp-server@3.7.0"
+        "@jmrp.io/gitlab-mcp-server@3.8.0"
       ]
     }
   }

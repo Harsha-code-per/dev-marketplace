@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "wigolo@0.2.1"
+        "wigolo@0.3.4"
       ]
     }
   }

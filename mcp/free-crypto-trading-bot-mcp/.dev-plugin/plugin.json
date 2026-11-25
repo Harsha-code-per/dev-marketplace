@@ -1,0 +1,13 @@
+{
+  "name": "free-crypto-trading-bot-mcp",
+  "description": "Status, positions, trades and demo-account control of the Free Crypto Trading Bot panel.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "free-crypto-trading-bot": {
+      "command": "uvx",
+      "args": [
+        "free-crypto-trading-bot==1.0.4"
+      ]
+    }
+  }
+}

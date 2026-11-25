@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "safari-mcp@2.24.1"
+        "safari-mcp@2.24.2"
       ]
     }
   }

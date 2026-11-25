@@ -1,0 +1,11 @@
+{
+  "name": "jsonresume-mcp",
+  "description": "Read, write, validate and theme your resume.json; export PDF and Word; match it to HN jobs.",
+  "license": "MIT",
+  "mcpServers": {
+    "jsonresume": {
+      "type": "http",
+      "url": "https://jsonresume.org/mcp"
+    }
+  }
+}

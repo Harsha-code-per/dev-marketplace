@@ -1,0 +1,14 @@
+{
+  "name": "html-to-markdown-mcp",
+  "description": "Convert HTML to clean Markdown with a fast Rust engine, over a local stdio MCP server.",
+  "license": "MIT",
+  "mcpServers": {
+    "html-to-markdown": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@xberg-io/html-to-markdown-cli@3.23.3"
+      ]
+    }
+  }
+}

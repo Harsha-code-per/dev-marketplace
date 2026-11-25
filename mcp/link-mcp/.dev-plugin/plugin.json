@@ -6,7 +6,7 @@
     "link": {
       "command": "uvx",
       "args": [
-        "link-mcp==5.0.0"
+        "link-mcp==6.0.0"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "clearcote-mcp@0.3.1"
+        "clearcote-mcp@0.3.2"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "agentphone-mcp@0.8.0"
+        "agentphone-mcp@0.11.0"
       ]
     }
   }

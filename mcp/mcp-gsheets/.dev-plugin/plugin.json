@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "mcp-gsheets@1.11.1"
+        "mcp-gsheets@1.11.2"
       ]
     }
   }

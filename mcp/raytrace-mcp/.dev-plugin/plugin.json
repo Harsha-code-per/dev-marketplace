@@ -1,0 +1,14 @@
+{
+  "name": "raytrace-mcp",
+  "description": "Local gVisor sandbox for coding agents that records what they actually ran.",
+  "license": "MIT",
+  "mcpServers": {
+    "raytrace": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@raytrace-cli/cli@0.19.15"
+      ]
+    }
+  }
+}

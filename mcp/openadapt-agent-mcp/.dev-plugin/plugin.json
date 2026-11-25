@@ -1,0 +1,13 @@
+{
+  "name": "openadapt-agent-mcp",
+  "description": "Verified local desktop & browser automation with read-back checks and signed receipts. Zero egress.",
+  "license": "MIT",
+  "mcpServers": {
+    "openadapt-agent": {
+      "command": "uvx",
+      "args": [
+        "openadapt-agent==2.2.4"
+      ]
+    }
+  }
+}

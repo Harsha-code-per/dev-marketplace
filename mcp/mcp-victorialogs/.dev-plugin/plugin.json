@@ -9,11 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "-e",
-        "VL_INSTANCE_ENTRYPOINT",
-        "-e",
-        "VL_INSTANCE_BEARER_TOKEN",
-        "ghcr.io/victoriametrics/mcp-victorialogs:1.10.0"
+        "ghcr.io/victoriametrics/mcp-victorialogs:1.11.0"
       ]
     }
   }

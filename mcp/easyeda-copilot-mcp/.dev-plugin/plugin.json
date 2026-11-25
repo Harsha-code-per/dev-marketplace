@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "easyeda-copilot-mcp@1.3.2"
+        "easyeda-copilot-mcp@1.3.3"
       ]
     }
   }

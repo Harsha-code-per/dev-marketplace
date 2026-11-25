@@ -1,0 +1,14 @@
+{
+  "name": "tree-sitter-language-pack-mcp",
+  "description": "Parse source code, extract structure and symbols, and chunk files for LLMs across 300+ languages.",
+  "license": "MIT",
+  "mcpServers": {
+    "tree-sitter-language-pack": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@xberg-io/ts-pack-cli@1.27.3"
+      ]
+    }
+  }
+}

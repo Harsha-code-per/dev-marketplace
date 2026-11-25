@@ -1,6 +1,6 @@
 {
   "name": "mcp-posthog",
-  "description": "Official PostHog MCP Server for product analytics, feature flags, experiments, and more.",
+  "description": "Query analytics, manage feature flags and experiments, and investigate errors in PostHog.",
   "license": "NOASSERTION",
   "mcpServers": {
     "mcp": {

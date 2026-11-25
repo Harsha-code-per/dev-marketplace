@@ -6,7 +6,7 @@
     "openzim-mcp": {
       "command": "uvx",
       "args": [
-        "openzim-mcp==3.4.1"
+        "openzim-mcp==3.5.2"
       ]
     }
   }

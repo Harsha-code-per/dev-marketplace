@@ -1,0 +1,14 @@
+{
+  "name": "aidex-mcp",
+  "description": "Persistent code indexing for AI assistants. 50x less context than grep. 11 languages.",
+  "license": "MIT",
+  "mcpServers": {
+    "aidex": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "aidex-mcp@1.8.0"
+      ]
+    }
+  }
+}

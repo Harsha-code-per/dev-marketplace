@@ -1,13 +1,13 @@
 {
   "name": "knolo-mcp",
-  "description": "Verified, local-first retrieval over pinned Knolo Knowledge Images.",
+  "description": "Pinned Knolo images with read-only search, KAR evaluation, and Cortex checks.",
   "license": "Apache-2.0",
   "mcpServers": {
     "knolo": {
       "command": "npx",
       "args": [
         "-y",
-        "@knolo/mcp@0.1.0"
+        "@knolo/mcp@0.2.4"
       ]
     }
   }

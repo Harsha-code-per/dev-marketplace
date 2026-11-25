@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@tocharianou/mcp-server-kibana@0.11.1"
+        "@tocharianou/mcp-server-kibana@0.12.1"
       ]
     }
   }

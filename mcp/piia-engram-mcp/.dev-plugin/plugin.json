@@ -6,7 +6,7 @@
     "piia-engram": {
       "command": "uvx",
       "args": [
-        "piia-engram==4.27.0"
+        "piia-engram==4.28.0"
       ]
     }
   }

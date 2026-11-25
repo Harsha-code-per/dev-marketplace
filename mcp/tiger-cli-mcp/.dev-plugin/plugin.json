@@ -13,7 +13,7 @@
         "TIGER_PUBLIC_KEY",
         "-e",
         "TIGER_SECRET_KEY",
-        "ghcr.io/timescale/tiger-cli:0.29.0"
+        "ghcr.io/timescale/tiger-cli:0.30.0"
       ]
     }
   }

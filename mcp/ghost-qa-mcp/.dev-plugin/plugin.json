@@ -1,0 +1,14 @@
+{
+  "name": "ghost-qa-mcp",
+  "description": "Autonomous headless browser QA & self-healing verification loop for AI coding agents.",
+  "license": "MIT",
+  "mcpServers": {
+    "ghost-qa": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ghost-qa@2.1.2"
+      ]
+    }
+  }
+}

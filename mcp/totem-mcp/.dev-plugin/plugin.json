@@ -1,13 +1,13 @@
 {
   "name": "totem-mcp",
-  "description": "Totem — talk to your wearables with AI. Today: full Whoop access (48 tools).",
+  "description": "Your own WHOOP server for AI apps: recovery, sleep, strain, workouts, journal and more (41 tools).",
   "license": "NOASSERTION",
   "mcpServers": {
     "totem": {
       "command": "npx",
       "args": [
         "-y",
-        "@thebriangao/totem@1.4.4"
+        "@thebriangao/totem@2.0.0"
       ]
     }
   }

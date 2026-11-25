@@ -1,6 +1,6 @@
 {
   "name": "viberaven-guides-mcp",
-  "description": "Check Supabase migrations for RLS and grant gaps; fixes for Supabase, Vercel, Stripe errors.",
+  "description": "Test two-user PostgreSQL races from SQL or public migrations. Review Supabase RLS and grants.",
   "license": "MIT",
   "mcpServers": {
     "viberaven-guides": {

@@ -1,0 +1,11 @@
+{
+  "name": "uralicnlp-mcp",
+  "description": "Morphological analysis, generation, lemmatization and dictionary lookup for Uralic languages.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "uralicnlp": {
+      "type": "http",
+      "url": "https://uralicmcp-rahti.rahtiapp.fi/mcp"
+    }
+  }
+}

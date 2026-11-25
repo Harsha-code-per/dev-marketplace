@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@gitwand/mcp@3.13.3"
+        "@gitwand/mcp@3.14.0"
       ]
     }
   }

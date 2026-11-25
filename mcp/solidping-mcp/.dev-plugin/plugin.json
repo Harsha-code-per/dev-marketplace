@@ -1,0 +1,11 @@
+{
+  "name": "solidping-mcp",
+  "description": "Self-hostable uptime monitoring: create checks, read incidents, manage status pages.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "solidping": {
+      "type": "http",
+      "url": "https://solidping.io/api/v1/mcp"
+    }
+  }
+}

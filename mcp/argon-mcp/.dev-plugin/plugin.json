@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "argonctl@2.11.1"
+        "argonctl@2.13.1"
       ]
     }
   }

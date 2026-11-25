@@ -6,7 +6,7 @@
     "repowise": {
       "command": "uvx",
       "args": [
-        "repowise==0.61.0"
+        "repowise==0.62.0"
       ]
     }
   }

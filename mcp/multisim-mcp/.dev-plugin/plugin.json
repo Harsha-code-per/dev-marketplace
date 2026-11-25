@@ -1,0 +1,13 @@
+{
+  "name": "multisim-mcp",
+  "description": "Generate Multisim circuits, run simulations, export data, and create experiment reports.",
+  "license": "MIT",
+  "mcpServers": {
+    "multisim-mcp": {
+      "command": "uvx",
+      "args": [
+        "multisim-mcp==1.3.1"
+      ]
+    }
+  }
+}

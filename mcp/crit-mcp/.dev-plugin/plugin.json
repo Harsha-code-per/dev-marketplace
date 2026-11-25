@@ -1,0 +1,13 @@
+{
+  "name": "crit-mcp",
+  "description": "Build, evaluate and serve a bespoke LLM inference engine for your own GPU with crit's commands.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "crit": {
+      "command": "uvx",
+      "args": [
+        "crit==0.17.2"
+      ]
+    }
+  }
+}

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@sentry/mcp-server@0.50.0"
+        "@sentry/mcp-server@0.51.0"
       ]
     }
   }

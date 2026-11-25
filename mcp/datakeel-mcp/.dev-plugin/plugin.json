@@ -1,0 +1,13 @@
+{
+  "name": "datakeel-mcp",
+  "description": "Local-first workbench for auditable AI datasets, traceable SQL metrics, and approved actions.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "datakeel": {
+      "command": "uvx",
+      "args": [
+        "datakeel==0.27.1"
+      ]
+    }
+  }
+}

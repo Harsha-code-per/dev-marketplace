@@ -1,7 +1,7 @@
 {
   "name": "dabble-me-mcp",
   "description": "Private journal MCP server to search, analyze, and create Dabble Me entries securely via OAuth.",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "mcpServers": {
     "dabble-me": {
       "type": "http",

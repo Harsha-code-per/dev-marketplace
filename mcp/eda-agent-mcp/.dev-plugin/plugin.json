@@ -6,7 +6,7 @@
     "eda-agent": {
       "command": "uvx",
       "args": [
-        "eda-agent==0.8.1"
+        "eda-agent==0.8.2"
       ]
     }
   }

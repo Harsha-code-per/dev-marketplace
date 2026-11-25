@@ -1,0 +1,11 @@
+{
+  "name": "mcp-snapshot-labs",
+  "description": "Query Snapshot governance data, and vote, propose or follow spaces for the user.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.snapshot.box"
+    }
+  }
+}

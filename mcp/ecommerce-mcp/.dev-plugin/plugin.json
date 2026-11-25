@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-mcp",
+  "description": "Product and category demand trend volume over time, with growth signals. Free key at trendsmcp.ai",
+  "license": "MIT",
+  "mcpServers": {
+    "ecommerce": {
+      "type": "http",
+      "url": "https://ecommerce.api.trendsmcp.ai/mcp"
+    }
+  }
+}

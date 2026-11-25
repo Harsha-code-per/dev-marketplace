@@ -1,0 +1,14 @@
+{
+  "name": "opendevicedb-mcp",
+  "description": "Check 21,000+ devices with open firmware or protocols before reverse engineering one.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "opendevicedb": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@opendevicedb/mcp@0.3.0"
+      ]
+    }
+  }
+}

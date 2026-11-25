@@ -6,7 +6,7 @@
     "traceweave": {
       "command": "uvx",
       "args": [
-        "traceweave-mcp==2.0.2"
+        "traceweave-mcp==2.1.2"
       ]
     }
   }

@@ -1,0 +1,14 @@
+{
+  "name": "dittu-mcp",
+  "description": "Clone any website's frontend into Next.js or Astro and verify it with pixel diffs.",
+  "license": "MIT",
+  "mcpServers": {
+    "dittu": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@manishtamang/dittu@0.3.0"
+      ]
+    }
+  }
+}

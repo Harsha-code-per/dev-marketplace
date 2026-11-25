@@ -1,0 +1,11 @@
+{
+  "name": "competitor-tracking-mcp",
+  "description": "Brand and competitor trend volume over time, with growth signals. Free key at trendsmcp.ai",
+  "license": "MIT",
+  "mcpServers": {
+    "competitor-tracking": {
+      "type": "http",
+      "url": "https://competitor-tracking.api.trendsmcp.ai/mcp"
+    }
+  }
+}
