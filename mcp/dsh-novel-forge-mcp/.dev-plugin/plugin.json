@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "dsh-novel-forge@1.10.1"
+        "dsh-novel-forge@1.11.1"
       ]
     }
   }

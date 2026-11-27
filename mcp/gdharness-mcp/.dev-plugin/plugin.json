@@ -1,0 +1,14 @@
+{
+  "name": "gdharness-mcp",
+  "description": "A harness for driving a Godot 4 project from an agent: addons, runtime bridge, MCP server, CLI.",
+  "license": "MIT",
+  "mcpServers": {
+    "gdharness": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "gdharness@1.4.1"
+      ]
+    }
+  }
+}

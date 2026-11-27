@@ -6,7 +6,7 @@
     "pepe": {
       "command": "uvx",
       "args": [
-        "pepe-http==0.57.0"
+        "pepe-http==0.59.0"
       ]
     }
   }

@@ -1,0 +1,14 @@
+{
+  "name": "xberg-mcp",
+  "description": "Extract text, tables, metadata, and images from documents via local CLI.",
+  "license": "MIT",
+  "mcpServers": {
+    "xberg": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@xberg-io/xberg-cli@1.5.4"
+      ]
+    }
+  }
+}

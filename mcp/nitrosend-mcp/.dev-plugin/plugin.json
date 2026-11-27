@@ -1,0 +1,14 @@
+{
+  "name": "nitrosend-mcp",
+  "description": "AI email marketing MCP: newsletters, drip campaigns, email automation, transactional emails+CRM sync",
+  "license": "MIT",
+  "mcpServers": {
+    "nitrosend": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@nitrosend/mcp@0.8.4"
+      ]
+    }
+  }
+}

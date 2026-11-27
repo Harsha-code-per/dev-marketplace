@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@xberg-io/liter-llm-cli@2.7.5"
+        "@xberg-io/liter-llm-cli@2.7.6"
       ]
     }
   }

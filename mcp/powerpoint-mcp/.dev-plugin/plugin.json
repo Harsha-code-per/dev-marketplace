@@ -1,0 +1,14 @@
+{
+  "name": "powerpoint-mcp",
+  "description": "Create, edit, and export presentations with AI. Requires desktop Microsoft PowerPoint on Windows.",
+  "license": "MIT",
+  "mcpServers": {
+    "powerpoint": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@sbroenne/mcp-server-powerpoint@0.3.4"
+      ]
+    }
+  }
+}

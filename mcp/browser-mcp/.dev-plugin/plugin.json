@@ -1,13 +1,13 @@
 {
   "name": "browser-mcp",
-  "description": "Drive your real, logged-in Chrome from any AI agent - 40 tools. Needs our Chrome extension too.",
+  "description": "Drive your logged-in Chrome from MCP clients that run local servers - 41 tools. Needs our extension.",
   "license": "MIT",
   "mcpServers": {
     "browser-mcp": {
       "command": "npx",
       "args": [
         "-y",
-        "@agent360/browser-mcp@1.31.0"
+        "@agent360/browser-mcp@1.33.0"
       ]
     }
   }

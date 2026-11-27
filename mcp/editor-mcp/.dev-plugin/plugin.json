@@ -1,0 +1,14 @@
+{
+  "name": "editor-mcp",
+  "description": "Local video editor: cut silence, edit by transcript, add captions, export to Final Cut or Premiere.",
+  "license": "MIT",
+  "mcpServers": {
+    "editor": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@makemyclip/editor@0.5.2"
+      ]
+    }
+  }
+}

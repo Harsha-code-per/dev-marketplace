@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@openmbee/sysml-mcp@0.12.1"
+        "@openmbee/sysml-mcp@0.13.0"
       ]
     }
   }

@@ -6,7 +6,7 @@
     "deep-agentic-core-mcp": {
       "command": "uvx",
       "args": [
-        "deep-agentic-core-mcp==1.1.0"
+        "deep-agentic-core-mcp==1.3.0"
       ]
     }
   }

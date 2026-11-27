@@ -1,0 +1,13 @@
+{
+  "name": "git-mcp-modelcontextprotocol",
+  "description": "Read, search and manipulate Git repositories: status, diff, log, commit, branch and more",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "git": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-git==2026.11.27"
+      ]
+    }
+  }
+}

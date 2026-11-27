@@ -1,0 +1,13 @@
+{
+  "name": "treasure-map-mcp",
+  "description": "Firmware attack-surface map and patch diff for AI agents. Requires tmap init (Ghidra toolchain).",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "treasure-map": {
+      "command": "uvx",
+      "args": [
+        "tmap-agents==0.2.1"
+      ]
+    }
+  }
+}

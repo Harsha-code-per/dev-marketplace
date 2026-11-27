@@ -1,0 +1,13 @@
+{
+  "name": "fullbleed-mcp",
+  "description": "Create, preview, inspect, verify, and compile deterministic PDF documents with Fullbleed.",
+  "license": "MIT",
+  "mcpServers": {
+    "fullbleed-mcp": {
+      "command": "uvx",
+      "args": [
+        "fullbleed-mcp==0.1.1"
+      ]
+    }
+  }
+}

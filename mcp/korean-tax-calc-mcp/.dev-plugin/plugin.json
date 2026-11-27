@@ -1,12 +1,12 @@
 {
   "name": "korean-tax-calc-mcp",
-  "description": "Korean tax calculator (142 tools, statute-cited): CIT, VAT, withholding, expats, transfer pricing",
+  "description": "Korean tax calculator (144 tools, statute-cited): CIT, VAT, withholding, expats, transfer pricing",
   "license": "MIT",
   "mcpServers": {
     "korean-tax-calc-mcp": {
       "command": "uvx",
       "args": [
-        "korean-tax-calc-mcp==0.73.3"
+        "korean-tax-calc-mcp==0.75.0"
       ]
     }
   }

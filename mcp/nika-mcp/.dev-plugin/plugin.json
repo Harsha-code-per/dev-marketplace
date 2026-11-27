@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@nika-open/nika@0.125.1"
+        "@nika-open/nika@0.125.2"
       ]
     }
   }

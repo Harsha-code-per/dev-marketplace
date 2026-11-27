@@ -1,0 +1,13 @@
+{
+  "name": "solidworks-mcp",
+  "description": "Model, measure and verify parametric parts and assemblies in a running SolidWorks (Windows).",
+  "license": "MIT",
+  "mcpServers": {
+    "solidworks-mcp": {
+      "command": "uvx",
+      "args": [
+        "solidworks-mcp==0.21.0"
+      ]
+    }
+  }
+}

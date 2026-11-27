@@ -1,0 +1,13 @@
+{
+  "name": "bitra-mcp",
+  "description": "Read-only gates of autonomous trading agents with deterministic execution: cost, data, validation.",
+  "license": "MIT",
+  "mcpServers": {
+    "bitra": {
+      "command": "uvx",
+      "args": [
+        "bitra==0.14.0"
+      ]
+    }
+  }
+}

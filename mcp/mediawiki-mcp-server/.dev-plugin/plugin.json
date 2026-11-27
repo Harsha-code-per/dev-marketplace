@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@professional-wiki/mediawiki-mcp-server@0.21.0"
+        "@professional-wiki/mediawiki-mcp-server@0.22.0"
       ]
     }
   }

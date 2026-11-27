@@ -1,0 +1,18 @@
+{
+  "name": "werbot-mcp",
+  "description": "Authorized SSH for AI agents: policy per command, approvals, transcript",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "werbot": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "WERBOT_SERVER",
+        "ghcr.io/werbot/werbot:v0.2.0"
+      ]
+    }
+  }
+}

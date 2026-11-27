@@ -6,7 +6,7 @@
     "praisonai": {
       "command": "uvx",
       "args": [
-        "praisonai==4.8.1"
+        "praisonai==4.8.2"
       ]
     }
   }

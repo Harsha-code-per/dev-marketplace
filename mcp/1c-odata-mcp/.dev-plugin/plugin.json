@@ -1,0 +1,14 @@
+{
+  "name": "1c-odata-mcp",
+  "description": "1C:Enterprise over OData: Accounting 3.0 and Trade Management 11, read-only by default",
+  "license": "MIT",
+  "mcpServers": {
+    "1c-odata-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "1c-odata-mcp@1.2.0"
+      ]
+    }
+  }
+}

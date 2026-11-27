@@ -1,0 +1,11 @@
+{
+  "name": "docs-mcp-langfuse",
+  "description": "Search the Langfuse documentation, fetch docs pages as Markdown, and read the llms.txt index.",
+  "license": "MIT",
+  "mcpServers": {
+    "docs": {
+      "type": "http",
+      "url": "https://langfuse.com/api/mcp"
+    }
+  }
+}

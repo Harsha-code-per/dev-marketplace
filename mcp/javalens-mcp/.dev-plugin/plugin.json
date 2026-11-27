@@ -1,0 +1,14 @@
+{
+  "name": "javalens-mcp",
+  "description": "75 semantic Java analysis tools via Eclipse JDT: navigation, refactoring, code intelligence.",
+  "license": "MIT",
+  "mcpServers": {
+    "javalens": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "javalens-mcp@1.5.3"
+      ]
+    }
+  }
+}

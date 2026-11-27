@@ -1,7 +1,7 @@
 {
   "name": "memanto-mcp",
   "description": "MCP server for Memanto - persistent semantic memory for any MCP-compatible agent",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "mcpServers": {
     "memanto": {
       "command": "uvx",

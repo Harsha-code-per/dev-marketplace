@@ -6,7 +6,7 @@
     "crg": {
       "command": "uvx",
       "args": [
-        "n24q02m-crg==3.35.0"
+        "n24q02m-crg==3.36.0"
       ]
     }
   }

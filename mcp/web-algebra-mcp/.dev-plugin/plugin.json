@@ -1,0 +1,13 @@
+{
+  "name": "web-algebra-mcp",
+  "description": "Composable Linked Data and SPARQL operations, and LinkedDataHub content tools",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "web-algebra": {
+      "command": "uvx",
+      "args": [
+        "web-algebra==2.0.4"
+      ]
+    }
+  }
+}

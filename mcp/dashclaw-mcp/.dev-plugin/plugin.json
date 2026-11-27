@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@dashclaw/mcp-server@3.1.6"
+        "@dashclaw/mcp-server@3.1.11"
       ]
     }
   }

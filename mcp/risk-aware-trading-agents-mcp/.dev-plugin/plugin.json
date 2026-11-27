@@ -6,7 +6,7 @@
     "risk-aware-trading-agents": {
       "command": "uvx",
       "args": [
-        "risk-aware-trading-agents==0.8.0"
+        "risk-aware-trading-agents==0.10.0"
       ]
     }
   }

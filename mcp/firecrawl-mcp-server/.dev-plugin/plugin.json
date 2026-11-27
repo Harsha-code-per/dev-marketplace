@@ -1,13 +1,13 @@
 {
   "name": "firecrawl-mcp-server",
-  "description": "Firecrawl, the context API for AI agents: search, scrape, interact with the web, plus paper search.",
+  "description": "Search, scrape, and crawl the web, plus Firecrawl Alexandria, our library of everything else.",
   "license": "MIT",
   "mcpServers": {
     "firecrawl-mcp-server": {
       "command": "npx",
       "args": [
         "-y",
-        "firecrawl-mcp@3.41.0"
+        "firecrawl-mcp@3.42.0"
       ]
     }
   }

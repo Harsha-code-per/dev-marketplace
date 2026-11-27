@@ -1,0 +1,16 @@
+{
+  "name": "graymatter-mcp",
+  "description": "Persistent agent memory as a single Go binary: knowledge graph, TUI observability, zero infra.",
+  "license": "MIT",
+  "mcpServers": {
+    "graymatter": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "ghcr.io/angelnicolasc/graymatter:0.21.0"
+      ]
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "kiln": {
       "command": "uvx",
       "args": [
-        "kiln3d==1.5.1"
+        "kiln3d==1.6.0"
       ]
     }
   }

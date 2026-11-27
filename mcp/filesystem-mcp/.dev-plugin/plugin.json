@@ -1,0 +1,14 @@
+{
+  "name": "filesystem-mcp",
+  "description": "Read, write, search and edit files, with access limited to allowed directories or client Roots",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem@2.4.1"
+      ]
+    }
+  }
+}

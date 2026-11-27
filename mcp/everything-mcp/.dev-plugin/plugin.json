@@ -1,0 +1,14 @@
+{
+  "name": "everything-mcp",
+  "description": "Reference server that exercises every MCP feature: tools, resources, prompts, sampling and more",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "everything": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-everything@2.4.0"
+      ]
+    }
+  }
+}

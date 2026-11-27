@@ -1,12 +1,12 @@
 {
   "name": "flstudio-mcp",
-  "description": "Control FL Studio with Claude: in-DAW mixing, diagnosis, routing, and composition.",
+  "description": "FL Studio MCP server: AI mixing, mix diagnosis, plugin control, patterns and composition.",
   "license": "MIT",
   "mcpServers": {
     "flstudio-mcp": {
       "command": "uvx",
       "args": [
-        "fl-studio-mcp==1.0.0"
+        "fl-studio-mcp==2.0.0"
       ]
     }
   }

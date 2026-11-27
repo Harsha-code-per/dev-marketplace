@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@cyanheads/mcp-ts-core@0.13.22"
+        "@cyanheads/mcp-ts-core@0.13.24"
       ]
     }
   }

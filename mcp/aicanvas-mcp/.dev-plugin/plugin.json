@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@aicanvas/mcp@0.3.5"
+        "@aicanvas/mcp@0.4.1"
       ]
     }
   }

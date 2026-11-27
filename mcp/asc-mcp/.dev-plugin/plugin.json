@@ -1,13 +1,13 @@
 {
   "name": "asc-mcp",
-  "description": "App Store Connect, TestFlight & StoreKit 2. 786 tools in 14 profiles, narrow to 17.",
+  "description": "App Store Connect, TestFlight & StoreKit 2. 790 tools in 14 profiles, narrow to 17.",
   "license": "MIT",
   "mcpServers": {
     "asc-mcp": {
       "command": "npx",
       "args": [
         "-y",
-        "@erayendes/asc-mcp@3.3.0"
+        "@erayendes/asc-mcp@3.4.0"
       ]
     }
   }

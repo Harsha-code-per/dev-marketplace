@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@xberg-io/ts-pack-cli@1.27.3"
+        "@xberg-io/ts-pack-cli@1.28.0"
       ]
     }
   }

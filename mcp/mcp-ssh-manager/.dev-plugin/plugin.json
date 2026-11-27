@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "mcp-ssh-manager@4.3.5"
+        "mcp-ssh-manager@4.4.1"
       ]
     }
   }

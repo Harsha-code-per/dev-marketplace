@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@blackwell-systems/agent-lsp@0.24.4"
+        "@blackwell-systems/agent-lsp@0.24.6"
       ]
     }
   }

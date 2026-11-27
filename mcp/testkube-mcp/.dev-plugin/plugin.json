@@ -15,7 +15,7 @@
         "TK_ORG_ID",
         "-e",
         "TK_ENV_ID",
-        "docker.io/kubeshop/mcp-server:2.15.3"
+        "docker.io/kubeshop/mcp-server:2.16.0"
       ]
     }
   }

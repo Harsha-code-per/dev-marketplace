@@ -1,12 +1,12 @@
 {
   "name": "llmscribe-mcp",
-  "description": "Local project map, search and file reader for AI agents.",
+  "description": "A filesystem layer for AI agents: read, search and change a codebase, identical on every OS.",
   "license": "Apache-2.0",
   "mcpServers": {
     "llmscribe": {
       "command": "uvx",
       "args": [
-        "llmscribe==1.4.1"
+        "llmscribe==3.0.0"
       ]
     }
   }

@@ -1,0 +1,11 @@
+{
+  "name": "bike4mind-mcp",
+  "description": "Read-only facts on Bike4Mind: live model catalog, comparisons, open-core license, blog, updates.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "bike4mind": {
+      "type": "http",
+      "url": "https://bike4mind.com/api/mcp"
+    }
+  }
+}

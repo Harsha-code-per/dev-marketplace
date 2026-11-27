@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@xberg-io/crawlberg-cli@1.13.4"
+        "@xberg-io/crawlberg-cli@1.13.5"
       ]
     }
   }

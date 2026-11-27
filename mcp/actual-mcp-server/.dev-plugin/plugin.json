@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "actual-mcp-server@0.37.0"
+        "actual-mcp-server@0.40.1"
       ]
     }
   }

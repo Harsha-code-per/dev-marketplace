@@ -6,7 +6,7 @@
     "webrouter": {
       "command": "uvx",
       "args": [
-        "webrouter==0.15.0"
+        "webrouter==0.16.0"
       ]
     }
   }

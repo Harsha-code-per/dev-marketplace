@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "phonedriver@0.1.7"
+        "phonedriver@0.1.8"
       ]
     }
   }

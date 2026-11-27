@@ -1,0 +1,13 @@
+{
+  "name": "fetch-mcp",
+  "description": "Fetches web content and converts it to Markdown for an LLM to read",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "fetch": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-fetch==2026.11.27"
+      ]
+    }
+  }
+}

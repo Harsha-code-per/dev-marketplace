@@ -1,0 +1,14 @@
+{
+  "name": "safe-docx-mcp",
+  "description": "AI-native surgical editing of Word .docx and OpenDocument .odt files with formatting preservation",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "safe-docx": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@usejunior/safe-docx@0.26.1"
+      ]
+    }
+  }
+}

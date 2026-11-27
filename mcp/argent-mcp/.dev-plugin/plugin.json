@@ -1,13 +1,13 @@
 {
   "name": "argent-mcp",
-  "description": "Drive iOS, Android, HarmonyOS, TV, Mac and Electron/web apps from your coding agent",
+  "description": "MCP server for AI agents to control, debug and profile iOS simulators, Android emulators and TVs",
   "license": "Apache-2.0",
   "mcpServers": {
     "argent": {
       "command": "npx",
       "args": [
         "-y",
-        "@swmansion/argent@0.34.0"
+        "@swmansion/argent@0.35.0"
       ]
     }
   }

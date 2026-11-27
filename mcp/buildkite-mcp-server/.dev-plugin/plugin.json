@@ -11,7 +11,7 @@
         "--rm",
         "-e",
         "BUILDKITE_API_TOKEN",
-        "ghcr.io/buildkite/buildkite-mcp-server:0.7.0"
+        "docker.io/buildkite/mcp-server:1.39.0"
       ]
     }
   }

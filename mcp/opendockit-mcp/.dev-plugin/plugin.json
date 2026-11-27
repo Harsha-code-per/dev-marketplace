@@ -1,0 +1,13 @@
+{
+  "name": "opendockit-mcp",
+  "description": "Read local PDF, Office, HWP, OpenDocument, RTF, EPUB, HTML and email files as Markdown. Offline.",
+  "license": "MIT",
+  "mcpServers": {
+    "opendockit": {
+      "command": "uvx",
+      "args": [
+        "opendockit-mcp==0.3.16"
+      ]
+    }
+  }
+}

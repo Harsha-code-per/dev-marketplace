@@ -1,0 +1,11 @@
+{
+  "name": "koru-mcp",
+  "description": "Koru notes, docs and files for AI. Open-source alternative to Notion, Evernote, Obsidian, Anytype.",
+  "license": "MPL-2.0",
+  "mcpServers": {
+    "koru": {
+      "type": "http",
+      "url": "https://mcp.koru.do/mcp"
+    }
+  }
+}

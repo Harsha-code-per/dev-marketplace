@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "levelrail-mcp@1.5.10"
+        "levelrail-mcp@1.5.13"
       ]
     }
   }

@@ -1,0 +1,14 @@
+{
+  "name": "memory-mcp-modelcontextprotocol",
+  "description": "Persistent memory for an assistant, stored as a knowledge graph of entities and relations",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory@2.2.2"
+      ]
+    }
+  }
+}

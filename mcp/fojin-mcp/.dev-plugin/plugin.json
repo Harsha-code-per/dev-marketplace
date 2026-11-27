@@ -1,6 +1,6 @@
 {
   "name": "fojin-mcp",
-  "description": "Buddhist canon tools: search, passages, cross-canon parallels, dictionaries — all URN-cited.",
+  "description": "Verify Buddhist-scripture quotes verbatim, cite to the CBETA line, search the Buddhist canons.",
   "license": "Apache-2.0",
   "mcpServers": {
     "fojin-mcp": {

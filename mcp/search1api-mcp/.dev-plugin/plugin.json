@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "search1api-mcp@0.13.0"
+        "search1api-mcp@0.15.0"
       ]
     }
   }

@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "caldav-mcp@0.12.1"
+        "caldav-mcp@0.15.0"
       ]
     }
   }

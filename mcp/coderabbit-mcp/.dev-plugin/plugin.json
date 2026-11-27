@@ -1,0 +1,11 @@
+{
+  "name": "coderabbit-mcp",
+  "description": "Governance and control for agentic software development. Trust AI written code.",
+  "license": "MIT",
+  "mcpServers": {
+    "coderabbit": {
+      "type": "http",
+      "url": "https://mcp.coderabbit.ai/"
+    }
+  }
+}
