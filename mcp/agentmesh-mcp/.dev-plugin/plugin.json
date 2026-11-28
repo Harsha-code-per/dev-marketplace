@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@agentmesh-p2p/sdk@0.2.0"
+        "@agentmesh-p2p/sdk@0.3.0"
       ]
     }
   }

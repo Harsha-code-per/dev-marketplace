@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "kordoc@4.25.24"
+        "kordoc@4.25.31"
       ]
     }
   }

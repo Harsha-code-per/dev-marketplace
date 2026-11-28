@@ -1,0 +1,13 @@
+{
+  "name": "cicada-mcp",
+  "description": "Code intelligence MCP server for 17+ programming languages.",
+  "license": "MIT",
+  "mcpServers": {
+    "cicada": {
+      "command": "uvx",
+      "args": [
+        "cicada-mcp==0.6.4"
+      ]
+    }
+  }
+}

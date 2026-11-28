@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "opencalque@2.2.1"
+        "opencalque@2.4.0"
       ]
     }
   }

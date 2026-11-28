@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@raytrace-cli/cli@0.22.0"
+        "@raytrace-cli/cli@0.22.3"
       ]
     }
   }

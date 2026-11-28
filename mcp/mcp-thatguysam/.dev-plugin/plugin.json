@@ -1,0 +1,11 @@
+{
+  "name": "mcp-thatguysam",
+  "description": "Check Apple Silicon compatibility for Mac apps, games, and Homebrew formulae.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.doesitarm.com/mcp"
+    }
+  }
+}

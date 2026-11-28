@@ -1,0 +1,13 @@
+{
+  "name": "d2-mcp",
+  "description": "Look up D2 syntax, check diagrams, and render them locally.",
+  "license": "MPL-2.0",
+  "mcpServers": {
+    "d2": {
+      "command": "uvx",
+      "args": [
+        "d2lang==0.10.0"
+      ]
+    }
+  }
+}

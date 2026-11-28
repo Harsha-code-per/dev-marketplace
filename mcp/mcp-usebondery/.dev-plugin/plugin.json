@@ -1,0 +1,11 @@
+{
+  "name": "mcp-usebondery",
+  "description": "Open-source personal CRM for building better bonds",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://api.usebondery.com/mcp"
+    }
+  }
+}

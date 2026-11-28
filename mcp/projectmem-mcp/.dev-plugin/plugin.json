@@ -6,7 +6,7 @@
     "projectmem": {
       "command": "uvx",
       "args": [
-        "projectmem==0.3.6"
+        "projectmem==0.3.7"
       ]
     }
   }

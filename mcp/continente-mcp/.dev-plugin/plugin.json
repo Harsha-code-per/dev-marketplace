@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "continentept-mcp@0.16.1"
+        "continentept-mcp@1.0.0"
       ]
     }
   }

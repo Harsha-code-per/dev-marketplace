@@ -6,7 +6,7 @@
     "llmscribe": {
       "command": "uvx",
       "args": [
-        "llmscribe==3.0.0"
+        "llmscribe==3.0.1"
       ]
     }
   }

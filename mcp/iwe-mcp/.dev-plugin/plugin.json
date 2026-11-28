@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@iwe-org/mcp@0.35.1"
+        "@iwe-org/mcp@0.36.0"
       ]
     }
   }

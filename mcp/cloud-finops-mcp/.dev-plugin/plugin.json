@@ -6,7 +6,7 @@
     "cloud-finops": {
       "command": "uvx",
       "args": [
-        "cloud-finops-mcp==1.53.0"
+        "cloud-finops-mcp==1.55.0"
       ]
     }
   }

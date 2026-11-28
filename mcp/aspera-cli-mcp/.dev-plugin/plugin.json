@@ -9,7 +9,7 @@
         "run",
         "-i",
         "--rm",
-        "docker.io/martinlaurent/ascli:4.29.1"
+        "docker.io/martinlaurent/ascli:4.30.0"
       ]
     }
   }

@@ -1,0 +1,11 @@
+{
+  "name": "vertov-mcp",
+  "description": "Search recordings, read transcripts and briefs, and upload videos for share links.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "vertov": {
+      "type": "http",
+      "url": "https://vertov.app/mcp"
+    }
+  }
+}

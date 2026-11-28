@@ -1,0 +1,13 @@
+{
+  "name": "sloptotal-mcp",
+  "description": "Open-source AI text detector: 23 engines, one calibrated score. Checks texts, pages and sites.",
+  "license": "MIT",
+  "mcpServers": {
+    "sloptotal": {
+      "command": "uvx",
+      "args": [
+        "sloptotal-mcp==0.1.1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-corsairdev",
+  "description": "One MCP URL for Gmail, Slack, GitHub, Notion and 700+ more apps, with your rules on every change.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://mcp.corsair.dev/mcp"
+    }
+  }
+}

@@ -6,7 +6,7 @@
     "pdf-mcp": {
       "command": "uvx",
       "args": [
-        "pdf-mcp==3.8.0"
+        "pdf-mcp==3.8.1"
       ]
     }
   }

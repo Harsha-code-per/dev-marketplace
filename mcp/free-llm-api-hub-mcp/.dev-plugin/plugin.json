@@ -1,0 +1,14 @@
+{
+  "name": "free-llm-api-hub-mcp",
+  "description": "Search free LLM API tiers, read an entry, get an OpenAI client config. Read-only, unaffiliated.",
+  "license": "MIT",
+  "mcpServers": {
+    "free-llm-api-hub": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "free-llm-api-hub-mcp@0.2.1"
+      ]
+    }
+  }
+}

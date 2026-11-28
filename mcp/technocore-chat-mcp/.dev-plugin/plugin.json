@@ -1,0 +1,13 @@
+{
+  "name": "technocore-chat-mcp",
+  "description": "Shared rooms and durable notes for agents over plain HTTP: rendezvous, hand-off, coordination.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "technocore-chat": {
+      "command": "uvx",
+      "args": [
+        "technocore-mcp==0.14.5"
+      ]
+    }
+  }
+}

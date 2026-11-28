@@ -1,14 +1,11 @@
 {
   "name": "mcp",
-  "description": "SEC filings, dilution, insider & institutional ownership, and political-trade data for AI agents.",
+  "description": "Own, grow and trade portable agent intelligence via TAIP/1 Packs and MCP.",
   "license": "MIT",
   "mcpServers": {
     "mcp": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@signal8ai/mcp@0.20.0"
-      ]
+      "type": "http",
+      "url": "https://ex.tetrees.ai/mcp"
     }
   }
 }

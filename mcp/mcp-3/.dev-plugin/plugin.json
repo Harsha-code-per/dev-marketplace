@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "sceneview-mcp@4.3.4"
+        "sceneview-mcp@4.4.0"
       ]
     }
   }

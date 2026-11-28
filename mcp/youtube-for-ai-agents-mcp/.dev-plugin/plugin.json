@@ -1,0 +1,14 @@
+{
+  "name": "youtube-for-ai-agents-mcp",
+  "description": "Search YouTube, read transcripts, see frames, read comments, and clip videos. No API key.",
+  "license": "Apache-2.0",
+  "mcpServers": {
+    "youtube-for-ai-agents": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@jcodesmore/youtube-for-ai-agents@0.3.5"
+      ]
+    }
+  }
+}

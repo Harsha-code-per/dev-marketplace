@@ -1,0 +1,11 @@
+{
+  "name": "job-search-mcp",
+  "description": "Search remote tech jobs, inspect descriptions, compare roles, and retrieve application links.",
+  "license": "MIT",
+  "mcpServers": {
+    "job-search-mcp": {
+      "type": "http",
+      "url": "https://api.hiddenjobs.dev/mcp"
+    }
+  }
+}

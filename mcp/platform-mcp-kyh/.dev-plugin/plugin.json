@@ -1,0 +1,11 @@
+{
+  "name": "platform-mcp-kyh",
+  "description": "A game studio for coding agents: skills, asset generation, and one-step deploys of browser games.",
+  "license": "MIT",
+  "mcpServers": {
+    "platform": {
+      "type": "http",
+      "url": "https://www.vibedgames.com/mcp"
+    }
+  }
+}

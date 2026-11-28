@@ -1,0 +1,11 @@
+{
+  "name": "mcp-amoabakelvin",
+  "description": "Create, edit and delete short links, read click analytics and make QR codes in iShortn.",
+  "license": "MIT",
+  "mcpServers": {
+    "mcp": {
+      "type": "http",
+      "url": "https://ishortn.ink/mcp"
+    }
+  }
+}

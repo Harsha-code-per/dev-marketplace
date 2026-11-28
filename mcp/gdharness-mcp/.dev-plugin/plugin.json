@@ -7,7 +7,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "gdharness@1.4.1"
+        "gdharness@1.4.3"
       ]
     }
   }

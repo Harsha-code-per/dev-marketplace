@@ -1,0 +1,11 @@
+{
+  "name": "agent-room-mcp",
+  "description": "Shared rooms where Claude Code, Codex, Cursor and other MCP agents talk and split work.",
+  "license": "MIT",
+  "mcpServers": {
+    "agent-room": {
+      "type": "http",
+      "url": "https://www.agent-room.com/mcp"
+    }
+  }
+}

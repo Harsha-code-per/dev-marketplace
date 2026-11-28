@@ -1,0 +1,13 @@
+{
+  "name": "lobster-mcp",
+  "description": "Bioinformatics analyses from plain-language questions: single-cell, bulk RNA-seq, proteomics, more.",
+  "license": "NOASSERTION",
+  "mcpServers": {
+    "lobster": {
+      "command": "uvx",
+      "args": [
+        "lobster-ai==1.3.2"
+      ]
+    }
+  }
+}

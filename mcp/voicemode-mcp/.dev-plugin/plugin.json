@@ -6,7 +6,7 @@
     "voicemode": {
       "command": "uvx",
       "args": [
-        "voice-mode==9.1.0"
+        "voice-mode==9.2.0"
       ]
     }
   }

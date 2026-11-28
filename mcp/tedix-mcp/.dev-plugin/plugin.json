@@ -1,0 +1,11 @@
+{
+  "name": "tedix-mcp",
+  "description": "Connect AI assistants to your Tedix organization’s tasks, knowledge, apps, and results through MCP.",
+  "license": "AGPL-3.0",
+  "mcpServers": {
+    "tedix": {
+      "type": "http",
+      "url": "https://connect.mcp.tedix.dev/mcp"
+    }
+  }
+}

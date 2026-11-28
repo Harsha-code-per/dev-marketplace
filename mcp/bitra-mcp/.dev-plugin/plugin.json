@@ -6,7 +6,7 @@
     "bitra": {
       "command": "uvx",
       "args": [
-        "bitra==0.14.0"
+        "bitra==0.14.1"
       ]
     }
   }
